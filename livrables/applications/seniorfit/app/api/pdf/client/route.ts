@@ -71,7 +71,7 @@ export async function POST(req: NextRequest) {
 
     await browser.close();
 
-    return new NextResponse(new Blob([pdf], { type: 'application/pdf' }), {
+    return new NextResponse(pdf as unknown as BodyInit, {
       headers: {
         'Content-Type': 'application/pdf',
         'Content-Disposition': `attachment; filename="SeniorFit-Client-${evalId.slice(0, 8)}.pdf"`,
