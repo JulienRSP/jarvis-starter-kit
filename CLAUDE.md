@@ -122,6 +122,35 @@ Skill de veille intelligente qui filtre les actualités selon mon contexte perso
 
 L'avantage : pas de bruit. Seulement ce qui me concerne vraiment, vu mes objectifs et projets actuels.
 
+### recherche-marche-coaching
+
+Skill de veille stratégique sur le marché mondial du coaching sportif, nutrition et wellness. À activer quand Julien veut analyser ce que font les meilleurs coachs internationaux sur un sujet précis (documents, offres, acquisition, design, pricing...).
+
+Usage : "analyse le marché de [sujet]" ou "qu'est-ce que les tops coachs font pour [objectif]"
+
+Fichier : `.claude/skills/recherche-marche-coaching/prompt.md`
+
+### creation-outils-rsp
+
+Skill de création d'outils professionnels pour RSP Training : documents clients, templates Canva, formulaires, supports marketing. S'active quand Julien veut créer ou améliorer un outil visuel ou fonctionnel pour son business.
+
+Contient : méthodologie complète en 5 phases (recherche → architecture → prompt design → corrections Canva → finalisation), identité visuelle RSP fixe, offres à jour, liste des outils existants.
+
+Usage : "je veux créer un outil pour [objectif]" ou "crée-moi un template pour [usage]"
+
+Fichier : `.claude/skills/creation-outils-rsp/prompt.md`
+
+### analyse-initiale
+
+Skill de génération automatique du document d'analyse de départ personnalisé pour les prospects RSP Training. Activée en collant les réponses du formulaire Google Forms prospect.
+
+Usage : colle les réponses du formulaire et dis "génère l'analyse initiale pour ce prospect". Le skill produit un document complet en 4 pages (objectif, diagnostic, plan d'action, CTA) prêt à relire et envoyer.
+
+Fichiers associés :
+- `.claude/skills/analyse-initiale/prompt.md` — instructions de l'agent
+- `livrables/outils-rsp/analyse-initiale-template.md` — template du document
+- `livrables/outils-rsp/formulaire-prospect-questions.md` — questions du formulaire Google Forms
+
 ---
 
 ## Getting Started
