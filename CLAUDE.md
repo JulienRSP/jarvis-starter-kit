@@ -150,6 +150,16 @@ Usage : "je veux créer un outil pour [objectif]" ou "crée-moi un template pour
 
 Fichier : `.claude/skills/creation-outils-rsp/prompt.md`
 
+### expert-science-coaching
+
+Skill expert en sciences du coaching sportif et nutritionnel, inspiré de l'approche d'Anthony Weeis (physiologiste, combinaison science + expérience, individualisation radicale). S'active quand Julien crée un outil RSP Training, conçoit un protocole client, travaille sur ses méthodes d'entraînement ou de nutrition, pose une question sur la physiologie, ou développe le contenu de ses offres coaching.
+
+Contient : philosophie Anthony Weeis, grille d'individualisation, références d'experts similaires (Mike Israetel, Alan Aragon, Peter Attia...), grille d'analyse protocole, principes de physiologie appliqués au coaching sport-santé.
+
+Usage : "comment je structure ce protocole pour mon client", "est-ce validé scientifiquement", "Anthony Weeis", ou quand tu construis un outil coaching avec du contenu métier.
+
+Fichier : `.claude/skills/expert-science-coaching/SKILL.md`
+
 ### analyse-initiale
 
 Skill de génération automatique du document d'analyse de départ personnalisé pour les prospects RSP Training. Activée en collant les réponses du formulaire Google Forms prospect.
