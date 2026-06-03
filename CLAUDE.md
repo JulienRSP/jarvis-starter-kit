@@ -130,6 +130,16 @@ Usage : "analyse le marché de [sujet]" ou "qu'est-ce que les tops coachs font p
 
 Fichier : `.claude/skills/recherche-marche-coaching/prompt.md`
 
+### seance-pt-rsp
+
+Skill expert en testing initial et séance découverte pour la population générale (18-80 ans, sans pathologies invalidantes). Différent de SeniorFit qui couvre les seniors avec pathologies.
+
+Contient : protocole complet en 5 phases (statique, mobilité, stabilité, force, retour), formulations non-jugeantes, adaptation par profil d'âge, matériel nécessaire, fiche de notation, transition vers l'offre.
+
+Usage : "J'ai un prospect de [âge/profil], comment j'adapte la séance découverte ?" ou "donne-moi le protocole pour un client de [profil]"
+
+Fichier : `.claude/skills/seance-pt-rsp/prompt.md`
+
 ### creation-outils-rsp
 
 Skill de création d'outils professionnels pour RSP Training : documents clients, templates Canva, formulaires, supports marketing. S'active quand Julien veut créer ou améliorer un outil visuel ou fonctionnel pour son business.
