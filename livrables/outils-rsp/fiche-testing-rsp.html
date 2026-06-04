@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fiche Testing RSP Training</title>
+<style>
+  :root {
+    --base: 8pt;
+    --bd: 1px solid #999;
+    --bd-dark: 1px solid #333;
+    --fill: #f2f2f2;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-size: var(--base);
+    color: #000;
+    background: #888;
+    line-height: 1.14;
+  }
+
+  body { padding: 24px 0; }
+
+  .page {
+    width: 210mm;
+    height: 297mm;
+    background: #fff;
+    margin: 0 auto 24px;
+    padding: 8mm 10mm;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,.35);
+  }
+
+  /* ---------- Header ---------- */
+  .doc-head {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    margin-bottom: 6px;
+  }
+  .doc-head svg { display: block; flex: none; }
+  .doc-title {
+    font-size: 13pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    white-space: nowrap;
+  }
+  .hdr-grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 4px 12px;
+    margin-bottom: 7px;
+  }
+  .hdr-grid .f {
+    display: flex;
+    align-items: flex-end;
+    gap: 4px;
+    white-space: nowrap;
+  }
+  .hdr-grid label { font-weight: 700; }
+  .hdr-grid .f .ln {
+    flex: 1;
+    border-bottom: var(--bd-dark);
+    height: 12px;
+    min-width: 18px;
+  }
+  .c6 { grid-column: span 6; }
+  .c4 { grid-column: span 4; }
+  .c3 { grid-column: span 3; }
+  .c2 { grid-column: span 2; }
+
+  /* ---------- Section header ---------- */
+  .sec-head {
+    font-size: 11pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .4px;
+    background: var(--fill);
+    border: var(--bd);
+    padding: 2px 7px;
+    margin: 5px 0 4px;
+  }
+  .sec-head .l {
+    display: inline-block;
+    border: var(--bd-dark);
+    padding: 0 5px;
+    margin-right: 7px;
+    font-size: 9pt;
+    background: #fff;
+  }
+
+  /* ---------- Test block ---------- */
+  .test {
+    border: var(--bd);
+    padding: 3px 6px 3px;
+    margin-bottom: 3px;
+    overflow: hidden;
+  }
+  .test-name {
+    font-size: 9pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .2px;
+    background: var(--fill);
+    margin: -3px -6px 3px;
+    padding: 2px 6px;
+    border-bottom: var(--bd);
+  }
+  .test-desc {
+    font-size: 8pt;
+    font-style: italic;
+    color: #222;
+    margin-bottom: 1px;
+  }
+
+  /* ---------- Checkboxes & options ---------- */
+  .cb {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    border: var(--bd-dark);
+    margin-right: 3px;
+    vertical-align: middle;
+  }
+  .opts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1px 13px;
+    margin: 1px 0;
+  }
+  .opt { white-space: nowrap; }
+
+  /* ---------- Norm rows (H/F) ---------- */
+  .norm {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 1px 11px;
+  }
+  .norm .nl {
+    font-weight: 700;
+    min-width: 92px;
+  }
+  .norm .nl.wide { min-width: 118px; }
+
+  /* ---------- Result lines ---------- */
+  .resline {
+    margin: 2px 0;
+    font-weight: 600;
+  }
+  .fill {
+    display: inline-block;
+    border-bottom: var(--bd-dark);
+    min-width: 44px;
+    height: 11px;
+    vertical-align: -2px;
+  }
+  .fill.lg { min-width: 80px; }
+  .fill.xl { min-width: 140px; }
+
+  .coach {
+    margin-top: 2px;
+    display: flex;
+    align-items: flex-end;
+    gap: 5px;
+  }
+  .coach .ln { flex: 1; border-bottom: var(--bd-dark); height: 11px; }
+
+  /* ---------- YMCA norms table ---------- */
+  .ymca-wrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin: 2px 0;
+  }
+  table.ymca {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 7pt;
+  }
+  table.ymca caption {
+    font-weight: 700;
+    text-align: left;
+    font-size: 8pt;
+    padding-bottom: 0;
+  }
+  table.ymca th, table.ymca td {
+    border: var(--bd);
+    padding: 1px 3px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  table.ymca thead th { background: var(--fill); }
+  table.ymca td:first-child, table.ymca th:first-child {
+    text-align: left;
+    font-weight: 700;
+  }
+
+  /* ---------- Synthesis ---------- */
+  .syn-head {
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 5px 0 2px;
+  }
+  .syn-head .hint { font-weight: 400; text-transform: none; font-style: italic; color: #444; }
+  .syn-line {
+    display: flex;
+    align-items: flex-end;
+    gap: 5px;
+    margin-bottom: 2px;
+  }
+  .syn-line .d { font-weight: 700; }
+  .syn-line .ln { flex: 1; border-bottom: var(--bd-dark); height: 12px; }
+  .syn-line label { font-weight: 600; white-space: nowrap; }
+  .twocol { display: grid; grid-template-columns: 1fr 1fr; gap: 0 16px; }
+
+  .box {
+    border: var(--bd);
+    padding: 4px 7px;
+    margin-top: 4px;
+    overflow: hidden;
+  }
+  .box .bh {
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+  }
+  .box .row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: 3px 16px;
+    margin: 2px 0;
+  }
+
+  /* ---------- Footer ---------- */
+  .page-foot {
+    position: absolute;
+    bottom: 4mm;
+    left: 10mm;
+    right: 10mm;
+    font-size: 7pt;
+    font-style: italic;
+    color: #555;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #bbb;
+    padding-top: 2px;
+  }
+
+  /* ---------- Print ---------- */
+  @page { size: A4; margin: 8mm 10mm; }
+  @media print {
+    html, body { background: #fff; }
+    body { padding: 0; }
+    .page {
+      width: auto; height: auto; min-height: 0;
+      margin: 0; padding: 0; box-shadow: none; overflow: visible;
+    }
+    .page.recto { page-break-after: always; }
+    .page-foot { position: fixed; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ============ PAGE 1 — RECTO ============ -->
+<section class="page recto" data-screen-label="Recto">
+
+  <div class="doc-head">
+    <svg width="23" height="20" viewBox="0 0 23 20" aria-label="RSP Training"><polygon points="11.5,0 23,20 0,20" fill="#000"></polygon></svg>
+    <div class="doc-title">RSP Training — Bilan physique initial</div>
+  </div>
+
+  <div class="hdr-grid">
+    <div class="f c4"><label>Prénom</label><span class="ln"></span></div>
+    <div class="f c4"><label>Date</label><span class="ln"></span></div>
+    <div class="f c2"><label>Âge</label><span class="ln"></span></div>
+    <div class="f c2"><label>FC repos</label><span class="ln"></span><span>bpm</span></div>
+
+    <div class="f c4"><label>Lieu</label><span class="ln"></span></div>
+    <div class="f c4"><label>Objectif</label><span class="ln"></span></div>
+    <div class="f c2"><label>Taille</label><span class="ln"></span><span>cm</span></div>
+    <div class="f c2"><label>Poids décl.</label><span class="ln"></span><span>kg</span></div>
+  </div>
+
+  <!-- SECTION A -->
+  <div class="sec-head"><span class="l">A</span>Observation statique et marche</div>
+
+  <div class="test">
+    <div class="test-name">Observation statique + marche — Posture et déplacement</div>
+    <div class="test-desc">Client debout naturellement. Observer de face, profil G, profil D (30s chaque). Puis marche 5-6 mètres A/R.</div>
+    <div class="test-desc">Ne rien noter devant le client pendant cette phase. Mémoriser, noter après.</div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>Antépulsion tête</span>
+      <span class="opt"><span class="cb"></span>Asymétrie épaules</span>
+      <span class="opt"><span class="cb"></span>Hypercyphose (dos arrondi)</span>
+      <span class="opt"><span class="cb"></span>Hyperlordose (creux lombaire)</span>
+      <span class="opt"><span class="cb"></span>Valgus genoux</span>
+      <span class="opt"><span class="cb"></span>Varus genoux</span>
+      <span class="opt"><span class="cb"></span>Pieds en rotation interne</span>
+      <span class="opt"><span class="cb"></span>Pieds en rotation externe</span>
+      <span class="opt"><span class="cb"></span>Marche asymétrique</span>
+      <span class="opt"><span class="cb"></span>Oscillation bras réduite</span>
+      <span class="opt"><span class="cb"></span>Longueur de pas inégale</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <!-- SECTION B -->
+  <div class="sec-head"><span class="l">B</span>Mobilité</div>
+
+  <div class="test">
+    <div class="test-name">Overhead Squat — Mobilité globale</div>
+    <div class="test-desc">Pieds largeur d'épaules, bâton bras tendus au-dessus. 5 répétitions lentes, observer face et profil.</div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>Talons qui décollent (cheville)</span>
+      <span class="opt"><span class="cb"></span>Genoux en dedans (hanche/fessiers)</span>
+      <span class="opt"><span class="cb"></span>Tronc trop incliné avant (hanche/thoracique)</span>
+      <span class="opt"><span class="cb"></span>Bras tombent vers l'avant (épaule/thoracique)</span>
+      <span class="opt"><span class="cb"></span>Dos qui s'arrondit (core/chaîne post)</span>
+      <span class="opt"><span class="cb"></span>Bonne exécution globale</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <div class="test">
+    <div class="test-name">Weight Bearing Lunge Test — Mobilité cheville</div>
+    <div class="test-desc">Pied avant à X cm du mur. Faire toucher le genou au mur sans décoller le talon. Augmenter la distance progressivement.</div>
+    <div class="resline">Résultat&nbsp;&nbsp; G : <span class="fill"></span> cm&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;D : <span class="fill"></span> cm</div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>&lt; 8 cm — restriction significative</span>
+      <span class="opt"><span class="cb"></span>8-10 cm — mobilité limitée</span>
+      <span class="opt"><span class="cb"></span>10-12 cm — normal</span>
+      <span class="opt"><span class="cb"></span>&gt; 12 cm — bonne mobilité</span>
+      <span class="opt"><span class="cb"></span>Asymétrie G/D &gt; 1.5 cm (à noter)</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <div class="test">
+    <div class="test-name">90-90 Hip Rotation Test — Mobilité hanche</div>
+    <div class="test-desc">Assis au sol, jambe avant à 90° devant (genou fléchi), jambe arrière à 90° sur le côté. Effectuer le switch : basculer les deux jambes simultanément de l'autre côté sans se lever, en rotation des hanches (avant passe derrière, arrière passe devant). Observer fluidité, compensations et douleurs.</div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>Switch fluide et sans douleur</span>
+      <span class="opt"><span class="cb"></span>Rotation interne limitée G</span>
+      <span class="opt"><span class="cb"></span>Rotation interne limitée D</span>
+      <span class="opt"><span class="cb"></span>Rotation externe limitée G</span>
+      <span class="opt"><span class="cb"></span>Rotation externe limitée D</span>
+      <span class="opt"><span class="cb"></span>Bassin qui décolle du sol</span>
+      <span class="opt"><span class="cb"></span>Compensation tronc</span>
+      <span class="opt"><span class="cb"></span>Douleur signalée (zone : <span class="fill lg"></span>)</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <div class="test">
+    <div class="test-name">Back Scratch Test — Mobilité épaule</div>
+    <div class="test-desc">Main droite par-dessus l'épaule vers le bas du dos, main gauche par en dessous vers le haut. Mesurer l'écart entre les deux mains. + = chevauchement, − = espace restant.</div>
+    <div class="resline">Résultat&nbsp;&nbsp; G : <span class="fill"></span> cm&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;D : <span class="fill"></span> cm</div>
+    <div class="norm">
+      <span class="nl">Hommes :</span>
+      <span class="opt"><span class="cb"></span>&lt; −8 cm (limitation)</span>
+      <span class="opt"><span class="cb"></span>−8 à −3 cm (correct)</span>
+      <span class="opt"><span class="cb"></span>&gt; −3 cm (bien)</span>
+    </div>
+    <div class="norm">
+      <span class="nl">Femmes :</span>
+      <span class="opt"><span class="cb"></span>&lt; −3 cm (limitation)</span>
+      <span class="opt"><span class="cb"></span>−3 à 0 cm (correct)</span>
+      <span class="opt"><span class="cb"></span>&gt; 0 cm (bien)</span>
+    </div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>Asymétrie notable G/D</span>
+      <span class="opt"><span class="cb"></span>Douleur signalée</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <div class="test">
+    <div class="test-name">Rotation thoracique — Mobilité colonne</div>
+    <div class="test-desc">Assis sur chaise, bras croisés sur la poitrine. Rotation maximale G puis D. Observer amplitude et symétrie.</div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>&lt; 30° (restriction)</span>
+      <span class="opt"><span class="cb"></span>30-45° (limite)</span>
+      <span class="opt"><span class="cb"></span>&gt; 45° (fonctionnel)</span>
+      <span class="opt"><span class="cb"></span>Asymétrie G/D</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <!-- SECTION C -->
+  <div class="sec-head"><span class="l">C</span>Stabilité</div>
+
+  <div class="test">
+    <div class="test-name">Planche isométrique — Stabilité du core</div>
+    <div class="test-desc">Position planche avant (ou genoux). Tenir jusqu'à rupture de forme ou 60s max.</div>
+    <div class="resline">Version : <span class="opt"><span class="cb"></span>Standard</span>&nbsp;&nbsp;&nbsp;<span class="opt"><span class="cb"></span>Genoux</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Durée : <span class="fill"></span> s</div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>&lt; 20s (faiblesse)</span>
+      <span class="opt"><span class="cb"></span>20-40s (base)</span>
+      <span class="opt"><span class="cb"></span>40-60s (satisfaisant)</span>
+      <span class="opt"><span class="cb"></span>&gt; 60s (bien)</span>
+      <span class="opt"><span class="cb"></span>Hanche monte</span>
+      <span class="opt"><span class="cb"></span>Hanche descend</span>
+      <span class="opt"><span class="cb"></span>Compensation cervicale</span>
+      <span class="opt"><span class="cb"></span>Forme stable</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <div class="test">
+    <div class="test-name">Équilibre unipodal — Proprioception</div>
+    <div class="test-desc">Debout sur une jambe, mains sur les hanches, yeux ouverts. Chronométrer jusqu'à perte d'équilibre. Max 30s.</div>
+    <div class="resline">G : <span class="fill"></span> s&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;D : <span class="fill"></span> s</div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>&lt; 10s (faiblesse)</span>
+      <span class="opt"><span class="cb"></span>10-20s (limité)</span>
+      <span class="opt"><span class="cb"></span>20-30s (bien)</span>
+      <span class="opt"><span class="cb"></span>30s (excellent)</span>
+      <span class="opt"><span class="cb"></span>Asymétrie G/D &gt; 5s</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <div class="page-foot">
+    <span>RSP Training — Julien — Document confidentiel — Bilan conservé par le coach</span>
+    <span>Recto — 1 / 2</span>
+  </div>
+
+</section>
+
+<!-- ============ PAGE 2 — VERSO ============ -->
+<section class="page verso" data-screen-label="Verso">
+
+  <!-- SECTION D -->
+  <div class="sec-head"><span class="l">D</span>Force et puissance</div>
+
+  <div class="test">
+    <div class="test-name">Push-Up Test — Force poussée membres supérieurs</div>
+    <div class="test-desc">Corps aligné ou version genoux. Descendre à 1 cm du sol, remonter complet. Compter jusqu'à rupture de forme.</div>
+    <div class="test-desc">Annoncer la version genoux positivement dès le départ si profil déconditionné : « On fait la version sur les genoux, ça donne exactement la même information. »</div>
+    <div class="resline">Version : <span class="opt"><span class="cb"></span>Standard</span>&nbsp;&nbsp;&nbsp;<span class="opt"><span class="cb"></span>Genoux</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Résultat : <span class="fill"></span> reps</div>
+    <div class="norm"><span class="nl wide">Standard — Hommes :</span><span class="opt"><span class="cb"></span>&lt; 5 (faible)</span><span class="opt"><span class="cb"></span>5-12 (base)</span><span class="opt"><span class="cb"></span>12-20 (bien)</span><span class="opt"><span class="cb"></span>&gt; 20 (excellent)</span></div>
+    <div class="norm"><span class="nl wide">Genoux — Hommes :</span><span class="opt"><span class="cb"></span>&lt; 8 (faible)</span><span class="opt"><span class="cb"></span>8-15 (base)</span><span class="opt"><span class="cb"></span>15-25 (bien)</span><span class="opt"><span class="cb"></span>&gt; 25 (excellent)</span></div>
+    <div class="norm"><span class="nl wide">Standard — Femmes :</span><span class="opt"><span class="cb"></span>&lt; 2 (faible)</span><span class="opt"><span class="cb"></span>2-6 (base)</span><span class="opt"><span class="cb"></span>6-10 (bien)</span><span class="opt"><span class="cb"></span>&gt; 10 (excellent)</span></div>
+    <div class="norm"><span class="nl wide">Genoux — Femmes :</span><span class="opt"><span class="cb"></span>&lt; 4 (faible)</span><span class="opt"><span class="cb"></span>4-10 (base)</span><span class="opt"><span class="cb"></span>10-18 (bien)</span><span class="opt"><span class="cb"></span>&gt; 18 (excellent)</span></div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>Hanche qui monte</span>
+      <span class="opt"><span class="cb"></span>Coudes trop écartés</span>
+      <span class="opt"><span class="cb"></span>Descente incomplète</span>
+      <span class="opt"><span class="cb"></span>Bonne forme</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <div class="test">
+    <div class="test-name">Dead Hang — Endurance membres supérieurs et longévité</div>
+    <div class="test-desc">Barre de traction. Prise pronation largeur d'épaules. Bras tendus, épaules engagées (pas relâchées). Tenir jusqu'au lâcher involontaire. Stopper si douleur épaule ou poignet.</div>
+    <div class="test-desc">À partager avec le client : « La force de préhension est un des meilleurs prédicteurs de santé et d'autonomie à long terme. »</div>
+    <div class="resline">Durée : <span class="fill"></span> s</div>
+    <div class="norm"><span class="nl">Hommes :</span><span class="opt"><span class="cb"></span>&lt; 15s (faible)</span><span class="opt"><span class="cb"></span>15-30s (base)</span><span class="opt"><span class="cb"></span>30-60s (bien)</span><span class="opt"><span class="cb"></span>&gt; 60s (excellent)</span></div>
+    <div class="norm"><span class="nl">Femmes :</span><span class="opt"><span class="cb"></span>&lt; 8s (faible)</span><span class="opt"><span class="cb"></span>8-20s (base)</span><span class="opt"><span class="cb"></span>20-40s (bien)</span><span class="opt"><span class="cb"></span>&gt; 40s (excellent)</span></div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>Épaules relâchées (mauvaise forme)</span>
+      <span class="opt"><span class="cb"></span>Balancement du corps</span>
+      <span class="opt"><span class="cb"></span>Douleur signalée</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <div class="test">
+    <div class="test-name">Saut horizontal sans élan — Puissance explosive membres inférieurs</div>
+    <div class="test-desc">Pieds joints ou légèrement écartés, orteils derrière la ligne. Flexion genoux + balancement bras + saut horizontal max. 2 essais, garder le meilleur. Mesurer de la ligne au talon le plus proche.</div>
+    <div class="resline">Essai 1 : <span class="fill"></span> cm&nbsp;&nbsp;/&nbsp;&nbsp;Essai 2 : <span class="fill"></span> cm&nbsp;&nbsp;→&nbsp;&nbsp;Meilleur : <span class="fill"></span> cm</div>
+    <div class="norm"><span class="nl">Hommes :</span><span class="opt"><span class="cb"></span>&lt; 140 cm (faible)</span><span class="opt"><span class="cb"></span>140-180 cm (base)</span><span class="opt"><span class="cb"></span>180-220 cm (bien)</span><span class="opt"><span class="cb"></span>&gt; 220 cm (excellent)</span></div>
+    <div class="norm"><span class="nl">Femmes :</span><span class="opt"><span class="cb"></span>&lt; 110 cm (faible)</span><span class="opt"><span class="cb"></span>110-145 cm (base)</span><span class="opt"><span class="cb"></span>145-175 cm (bien)</span><span class="opt"><span class="cb"></span>&gt; 175 cm (excellent)</span></div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>Déséquilibre à l'atterrissage</span>
+      <span class="opt"><span class="cb"></span>Genoux en dedans à l'atterrissage</span>
+      <span class="opt"><span class="cb"></span>Hésitation au départ</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <div class="test">
+    <div class="test-name">Squat 30 secondes — Endurance force membres inférieurs</div>
+    <div class="test-desc">Debout devant une chaise, bras croisés. Se lever et s'asseoir le plus de fois en 30 secondes. La chaise sert de repère.</div>
+    <div class="resline">Résultat : <span class="fill"></span> reps</div>
+    <div class="norm"><span class="nl">Hommes :</span><span class="opt"><span class="cb"></span>&lt; 12 (faible)</span><span class="opt"><span class="cb"></span>12-16 (base)</span><span class="opt"><span class="cb"></span>16-20 (bien)</span><span class="opt"><span class="cb"></span>&gt; 20 (excellent)</span></div>
+    <div class="norm"><span class="nl">Femmes :</span><span class="opt"><span class="cb"></span>&lt; 10 (faible)</span><span class="opt"><span class="cb"></span>10-14 (base)</span><span class="opt"><span class="cb"></span>14-18 (bien)</span><span class="opt"><span class="cb"></span>&gt; 18 (excellent)</span></div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>Appui sur les mains pour se lever</span>
+      <span class="opt"><span class="cb"></span>Valgus genoux</span>
+      <span class="opt"><span class="cb"></span>Bonne exécution</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <!-- SECTION E -->
+  <div class="sec-head"><span class="l">E</span>Cardio</div>
+
+  <div class="test">
+    <div class="test-name">YMCA 3 Minute Step Test — Capacité cardiovasculaire</div>
+    <div class="test-desc">Step 30 cm. Cadence 24 montées/min — métronome à 96 BPM (up-up-down-down). 3 min continues. À l'arrêt, client s'assoit immédiatement ; compter les battements pendant 60 secondes complètes.</div>
+    <div class="resline">FC récupération (60s après arrêt) : <span class="fill"></span> bpm</div>
+    <div class="ymca-wrap">
+      <table class="ymca">
+        <caption>Hommes — FC récup (bpm)</caption>
+        <thead><tr><th>Âge</th><th>Excellent</th><th>Bien</th><th>Moyen</th><th>Faible</th></tr></thead>
+        <tbody>
+          <tr><td>18-25</td><td>&lt; 79</td><td>79-89</td><td>90-99</td><td>&gt; 100</td></tr>
+          <tr><td>26-35</td><td>&lt; 81</td><td>81-89</td><td>90-99</td><td>&gt; 100</td></tr>
+          <tr><td>36-45</td><td>&lt; 83</td><td>83-90</td><td>91-100</td><td>&gt; 101</td></tr>
+          <tr><td>46-55</td><td>&lt; 87</td><td>87-97</td><td>98-105</td><td>&gt; 106</td></tr>
+          <tr><td>56-65</td><td>&lt; 86</td><td>86-97</td><td>98-103</td><td>&gt; 104</td></tr>
+          <tr><td>65+</td><td>&lt; 88</td><td>88-96</td><td>97-103</td><td>&gt; 104</td></tr>
+        </tbody>
+      </table>
+      <table class="ymca">
+        <caption>Femmes — FC récup (bpm)</caption>
+        <thead><tr><th>Âge</th><th>Excellent</th><th>Bien</th><th>Moyen</th><th>Faible</th></tr></thead>
+        <tbody>
+          <tr><td>18-25</td><td>&lt; 85</td><td>85-93</td><td>94-102</td><td>&gt; 103</td></tr>
+          <tr><td>26-35</td><td>&lt; 88</td><td>88-96</td><td>97-103</td><td>&gt; 104</td></tr>
+          <tr><td>36-45</td><td>&lt; 90</td><td>90-98</td><td>99-107</td><td>&gt; 108</td></tr>
+          <tr><td>46-55</td><td>&lt; 94</td><td>94-101</td><td>102-110</td><td>&gt; 111</td></tr>
+          <tr><td>56-65</td><td>&lt; 95</td><td>95-103</td><td>104-111</td><td>&gt; 112</td></tr>
+          <tr><td>65+</td><td>&lt; 90</td><td>90-101</td><td>102-109</td><td>&gt; 110</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="opts">
+      <span class="opt"><span class="cb"></span>Essoufflement excessif avant la fin</span>
+      <span class="opt"><span class="cb"></span>Récupération rapide</span>
+      <span class="opt"><span class="cb"></span>Récupération lente</span>
+    </div>
+    <div class="coach"><span>Coach :</span><span class="ln"></span></div>
+  </div>
+
+  <!-- SYNTHESE -->
+  <div class="sec-head" style="border-left:none">Synthèse coach</div>
+
+  <div class="twocol">
+    <div>
+      <div class="syn-head">Points forts <span class="hint">(2-3 max)</span></div>
+      <div class="syn-line"><span class="d">—</span><span class="ln"></span></div>
+      <div class="syn-line"><span class="d">—</span><span class="ln"></span></div>
+      <div class="syn-line"><span class="d">—</span><span class="ln"></span></div>
+    </div>
+    <div>
+      <div class="syn-head">Leviers à travailler <span class="hint">(3 max)</span></div>
+      <div class="syn-line"><span class="d">—</span><span class="ln"></span></div>
+      <div class="syn-line"><span class="d">—</span><span class="ln"></span></div>
+      <div class="syn-line"><span class="d">—</span><span class="ln"></span></div>
+    </div>
+  </div>
+
+  <div class="syn-head">Plan d'action</div>
+  <div class="syn-line"><label>Action 1 (résultat rapide) :</label><span class="ln"></span></div>
+  <div class="syn-line"><label>Action 2 (priorité principale) :</label><span class="ln"></span></div>
+  <div class="syn-line"><label>Action 3 (objectif long terme) :</label><span class="ln"></span></div>
+
+  <div class="box">
+    <div class="bh">Offre recommandée</div>
+    <div class="row">
+      <span class="opt"><span class="cb"></span>Séances PT à la carte</span>
+      <span class="opt"><span class="cb"></span>Suivi mensuel RSP</span>
+      <span class="opt"><span class="cb"></span>Méthode RSP Hybride 8 semaines</span>
+    </div>
+    <div class="row">
+      <span>Prix annoncé : <span class="fill"></span> €</span>
+      <span class="opt"><span class="cb"></span>Paiement en 2 fois proposé</span>
+    </div>
+    <div class="syn-line" style="margin:2px 0 0"><span class="d">—</span><span class="ln"></span></div>
+  </div>
+
+  <div class="box">
+    <div class="row" style="margin:0">
+      <span class="bh" style="margin:0">Photos</span>
+      <span class="opt"><span class="cb"></span>Consentement reçu avant séance</span>
+      <span class="opt"><span class="cb"></span>Photos prises :</span>
+      <span class="opt"><span class="cb"></span>Face</span>
+      <span class="opt"><span class="cb"></span>Profil G</span>
+      <span class="opt"><span class="cb"></span>Dos</span>
+      <span>Tenue notée : <span class="fill xl"></span></span>
+    </div>
+  </div>
+
+  <div class="page-foot">
+    <span>RSP Training — Julien — Document confidentiel — Bilan conservé par le coach</span>
+    <span>Verso — 2 / 2</span>
+  </div>
+
+</section>
+
+<script>
+  (async function () {
+    try { if (document.fonts && document.fonts.ready) { await document.fonts.ready; } } catch (e) {}
+    setTimeout(function () { window.print(); }, 500);
+  })();
+</script>
+
+</body>
+</html>
