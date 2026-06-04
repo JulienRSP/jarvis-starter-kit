@@ -7,6 +7,20 @@
 
 ---
 
+## 2026-06-04
+
+### Construction de l'offre principale RSP 8 semaines + philosophie de coaching formalisée
+
+- Travail approfondi sur la formule principale de coaching : parcours complet formalisé (formulaire court → analyse → séance découverte → signature → formulaire approfondi → S1-S8 → bilan final)
+- Analyse critique du protocole : ce qui est excellent (journal de vie réelle, double filtre qualification, progression présentiel→distance), ce qui manque (appel onboarding, contrat engagement, séance transition S4, guide continuation)
+- V1 de l'offre construite : Méthode RSP Transformation 8 semaines, pricing 499€ lancement → 649€ standard → 799€ cible, livrables semaine par semaine définis
+- Julien a partagé son histoire personnelle complète : musculation classique → relation malsaine nutrition → blessure épaule nov 2025 → reconstruction 2026 → philosophie fonctionnelle
+- Philosophie de coaching formalisée et sauvegardée : mouvement comme mode de vie, activité adaptée à la personne, nutrition pour vivre pas pour les abdos, éducation comme moteur d'autonomie
+- Ordre de compétences confirmé : sport/activité physique (principal) → nutrition → sommeil → stress
+- Prochaine étape : construire le formulaire approfondi pour les clients signés
+
+---
+
 ## 2026-05-29
 
 ### Développement et déploiement de SeniorFit V1 + mise à jour stratégique
