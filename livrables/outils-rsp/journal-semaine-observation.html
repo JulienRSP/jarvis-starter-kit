@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Journal Semaine d'Observation — RSP Training</title>
+<style>
+  :root {
+    --bd: 1px solid #333;
+    --bd-light: 1px solid #bbb;
+    --fill: #f2f2f2;
+    --fill-light: #f8f8f8;
+    --base: 7.5pt;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: var(--base);
+    color: #000;
+    background: #888;
+    line-height: 1.2;
+  }
+
+  body { padding: 20px 0; }
+
+  /* ── Page A4 paysage ── */
+  .page {
+    width: 297mm;
+    height: 210mm;
+    background: #fff;
+    margin: 0 auto 20px;
+    padding: 6mm 7mm;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,.3);
+  }
+
+  /* ── En-tête ── */
+  .doc-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid #000;
+    padding-bottom: 4px;
+    margin-bottom: 5px;
+  }
+  .head-left { display: flex; align-items: center; gap: 7px; }
+  .doc-title { font-size: 11pt; font-weight: 800; text-transform: uppercase; letter-spacing: .4px; }
+  .doc-sub { font-size: 8pt; color: #444; }
+  .head-right {
+    display: flex;
+    gap: 16px;
+    font-size: 7pt;
+  }
+  .head-field {
+    display: flex;
+    align-items: flex-end;
+    gap: 4px;
+  }
+  .head-field label { font-weight: 700; white-space: nowrap; }
+  .head-field .ln {
+    border-bottom: 1px solid #333;
+    min-width: 50px;
+    height: 11px;
+  }
+
+  /* ── Grille des jours ── */
+  .grid {
+    display: grid;
+    gap: 0;
+    height: calc(100% - 32px);
+  }
+  .grid-5 { grid-template-columns: repeat(5, 1fr); }
+  .grid-3 { grid-template-columns: repeat(3, 1fr); }
+
+  /* ── Colonne jour ── */
+  .day-col {
+    border: var(--bd);
+    border-right: none;
+    display: flex;
+    flex-direction: column;
+  }
+  .day-col:last-child { border-right: var(--bd); }
+
+  .day-head {
+    background: #000;
+    color: #fff;
+    text-align: center;
+    font-weight: 800;
+    font-size: 8.5pt;
+    text-transform: uppercase;
+    padding: 3px 2px;
+    letter-spacing: .3px;
+    flex: none;
+  }
+  .day-date {
+    border-bottom: var(--bd-light);
+    padding: 2px 4px;
+    font-size: 6.5pt;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    flex: none;
+  }
+  .day-date .ln { flex: 1; border-bottom: var(--bd-light); height: 9px; }
+
+  /* ── Bloc repas ── */
+  .meal-block {
+    border-bottom: var(--bd-light);
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+  .meal-label {
+    background: var(--fill);
+    border-bottom: var(--bd-light);
+    padding: 1px 4px;
+    font-weight: 700;
+    font-size: 6.5pt;
+    text-transform: uppercase;
+    letter-spacing: .2px;
+    flex: none;
+  }
+  .meal-hint {
+    font-size: 5.5pt;
+    color: #666;
+    padding: 0 4px;
+    font-style: italic;
+    flex: none;
+    border-bottom: var(--bd-light);
+    padding-bottom: 1px;
+  }
+  .meal-content {
+    flex: 1;
+    padding: 2px 4px;
+    position: relative;
+  }
+  /* lignes d'écriture dans les cases repas */
+  .meal-content::after {
+    content: '';
+    position: absolute;
+    bottom: 3px;
+    left: 4px;
+    right: 4px;
+    height: 1px;
+    background: #ddd;
+    box-shadow: 0 -7px 0 #ddd, 0 -14px 0 #ddd;
+  }
+
+  /* ── Bloc snack / grignotage (plus petit) ── */
+  .snack-block {
+    border-bottom: var(--bd-light);
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+  .snack-label {
+    background: var(--fill-light);
+    border-bottom: var(--bd-light);
+    padding: 1px 4px;
+    font-weight: 700;
+    font-size: 6pt;
+    text-transform: uppercase;
+    letter-spacing: .2px;
+    flex: none;
+    color: #444;
+  }
+  .snack-content {
+    flex: 1;
+    padding: 1px 4px;
+    font-size: 6.5pt;
+    color: #666;
+    font-style: italic;
+  }
+
+  /* ── Indicateurs journaliers ── */
+  .indicators {
+    border-bottom: var(--bd-light);
+    padding: 2px 4px;
+    flex: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1px 6px;
+  }
+  .ind {
+    display: flex;
+    align-items: flex-end;
+    gap: 2px;
+    white-space: nowrap;
+    font-size: 6pt;
+  }
+  .ind label { font-weight: 700; }
+  .ind .ln {
+    border-bottom: 1px solid #555;
+    min-width: 20px;
+    height: 9px;
+  }
+  .ind .unit { color: #666; font-size: 5.5pt; }
+
+  /* ── Case commentaire ── */
+  .comment-block {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+  .comment-label {
+    background: var(--fill-light);
+    border-bottom: var(--bd-light);
+    padding: 1px 4px;
+    font-weight: 700;
+    font-size: 6pt;
+    text-transform: uppercase;
+    color: #444;
+    flex: none;
+  }
+  .comment-content {
+    flex: 1;
+    padding: 2px 4px;
+    position: relative;
+  }
+  .comment-content::after {
+    content: '';
+    position: absolute;
+    bottom: 3px;
+    left: 4px;
+    right: 4px;
+    height: 1px;
+    background: #ddd;
+    box-shadow: 0 -7px 0 #ddd;
+  }
+
+  /* ── Verso : colonne synthèse ── */
+  .synth-col {
+    border: var(--bd);
+    border-left: none;
+    display: flex;
+    flex-direction: column;
+    background: var(--fill-light);
+  }
+  .synth-head {
+    background: #000;
+    color: #fff;
+    text-align: center;
+    font-weight: 800;
+    font-size: 8pt;
+    text-transform: uppercase;
+    padding: 3px 2px;
+    flex: none;
+  }
+  .synth-section {
+    border-bottom: var(--bd-light);
+    padding: 3px 5px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .synth-section-title {
+    font-weight: 700;
+    font-size: 6.5pt;
+    text-transform: uppercase;
+    color: #333;
+    border-bottom: var(--bd-light);
+    padding-bottom: 2px;
+    margin-bottom: 1px;
+  }
+  .synth-line {
+    display: flex;
+    align-items: flex-end;
+    gap: 4px;
+    font-size: 6pt;
+  }
+  .synth-line label { font-weight: 700; white-space: nowrap; }
+  .synth-line .ln { flex: 1; border-bottom: 1px solid #999; height: 9px; }
+
+  .synth-bigbox {
+    flex: 1;
+    padding: 2px 5px;
+    position: relative;
+    min-height: 20px;
+  }
+  .synth-bigbox::after {
+    content: '';
+    position: absolute;
+    bottom: 3px; left: 5px; right: 5px;
+    height: 1px;
+    background: #ccc;
+    box-shadow: 0 -7px 0 #ccc, 0 -14px 0 #ccc, 0 -21px 0 #ccc;
+  }
+
+  /* ── Pied de page ── */
+  .page-foot {
+    position: absolute;
+    bottom: 3mm;
+    left: 7mm;
+    right: 7mm;
+    font-size: 6pt;
+    color: #888;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #ddd;
+    padding-top: 2px;
+  }
+
+  /* ── Impression ── */
+  @page { size: A4 landscape; margin: 6mm 7mm; }
+  @media print {
+    html, body { background: #fff; padding: 0; }
+    .page {
+      width: auto; height: auto;
+      margin: 0; padding: 0;
+      box-shadow: none; overflow: visible;
+    }
+    .page.recto { page-break-after: always; }
+    .page-foot { position: fixed; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════
+     PAGE 1 — RECTO — JOURS 1 à 3
+══════════════════════════════════════════ -->
+<section class="page recto">
+
+  <div class="doc-head">
+    <div class="head-left">
+      <svg width="20" height="17" viewBox="0 0 23 20"><polygon points="11.5,0 23,20 0,20" fill="#000"/></svg>
+      <div>
+        <div class="doc-title">RSP Training — Journal d'observation</div>
+        <div class="doc-sub">Note ce que tu manges et comment tu te sens — sans te juger. Ce document reste confidentiel.</div>
+      </div>
+    </div>
+    <div class="head-right">
+      <div class="head-field"><label>Prénom :</label><span class="ln" style="min-width:80px"></span></div>
+      <div class="head-field"><label>Semaine du :</label><span class="ln" style="min-width:60px"></span></div>
+    </div>
+  </div>
+
+  <div class="grid grid-3">
+
+    <!-- JOUR 1 -->
+    <div class="day-col">
+      <div class="day-head">Jour 1</div>
+      <div class="day-date"><label>Date :</label><span class="ln"></span></div>
+
+      <div class="meal-block">
+        <div class="meal-label">🌅 Petit-déjeuner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">☕ Collation matin</div>
+        <div class="snack-content">Quoi + quantité</div>
+      </div>
+
+      <div class="meal-block">
+        <div class="meal-label">🍽️ Déjeuner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">🍎 Collation après-midi</div>
+        <div class="snack-content">Quoi + quantité</div>
+      </div>
+
+      <div class="meal-block">
+        <div class="meal-label">🌙 Dîner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">🍪 Grignotages</div>
+        <div class="snack-content">Tout ce qui est mangé en dehors des repas</div>
+      </div>
+
+      <div class="indicators">
+        <div class="ind"><label>Coucher :</label><span class="ln"></span><span class="unit">h</span></div>
+        <div class="ind"><label>Lever :</label><span class="ln"></span><span class="unit">h</span></div>
+        <div class="ind"><label>Sommeil :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Énergie :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Stress :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Eau :</label><span class="ln" style="min-width:16px"></span><span class="unit">L</span></div>
+        <div class="ind"><label>Sport :</label><span class="ln"></span></div>
+      </div>
+
+      <div class="comment-block">
+        <div class="comment-label">💬 Ressenti du jour</div>
+        <div class="comment-content"></div>
+      </div>
+    </div>
+
+    <!-- JOUR 2 -->
+    <div class="day-col">
+      <div class="day-head">Jour 2</div>
+      <div class="day-date"><label>Date :</label><span class="ln"></span></div>
+
+      <div class="meal-block">
+        <div class="meal-label">🌅 Petit-déjeuner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">☕ Collation matin</div>
+        <div class="snack-content">Quoi + quantité</div>
+      </div>
+
+      <div class="meal-block">
+        <div class="meal-label">🍽️ Déjeuner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">🍎 Collation après-midi</div>
+        <div class="snack-content">Quoi + quantité</div>
+      </div>
+
+      <div class="meal-block">
+        <div class="meal-label">🌙 Dîner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">🍪 Grignotages</div>
+        <div class="snack-content">Tout ce qui est mangé en dehors des repas</div>
+      </div>
+
+      <div class="indicators">
+        <div class="ind"><label>Coucher :</label><span class="ln"></span><span class="unit">h</span></div>
+        <div class="ind"><label>Lever :</label><span class="ln"></span><span class="unit">h</span></div>
+        <div class="ind"><label>Sommeil :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Énergie :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Stress :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Eau :</label><span class="ln" style="min-width:16px"></span><span class="unit">L</span></div>
+        <div class="ind"><label>Sport :</label><span class="ln"></span></div>
+      </div>
+
+      <div class="comment-block">
+        <div class="comment-label">💬 Ressenti du jour</div>
+        <div class="comment-content"></div>
+      </div>
+    </div>
+
+    <!-- JOUR 3 -->
+    <div class="day-col">
+      <div class="day-head">Jour 3</div>
+      <div class="day-date"><label>Date :</label><span class="ln"></span></div>
+
+      <div class="meal-block">
+        <div class="meal-label">🌅 Petit-déjeuner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">☕ Collation matin</div>
+        <div class="snack-content">Quoi + quantité</div>
+      </div>
+
+      <div class="meal-block">
+        <div class="meal-label">🍽️ Déjeuner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">🍎 Collation après-midi</div>
+        <div class="snack-content">Quoi + quantité</div>
+      </div>
+
+      <div class="meal-block">
+        <div class="meal-label">🌙 Dîner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">🍪 Grignotages</div>
+        <div class="snack-content">Tout ce qui est mangé en dehors des repas</div>
+      </div>
+
+      <div class="indicators">
+        <div class="ind"><label>Coucher :</label><span class="ln"></span><span class="unit">h</span></div>
+        <div class="ind"><label>Lever :</label><span class="ln"></span><span class="unit">h</span></div>
+        <div class="ind"><label>Sommeil :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Énergie :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Stress :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Eau :</label><span class="ln" style="min-width:16px"></span><span class="unit">L</span></div>
+        <div class="ind"><label>Sport :</label><span class="ln"></span></div>
+      </div>
+
+      <div class="comment-block">
+        <div class="comment-label">💬 Ressenti du jour</div>
+        <div class="comment-content"></div>
+      </div>
+    </div>
+
+  </div><!-- fin grid -->
+
+  <div class="page-foot">
+    <span>RSP Training — Julien — Document confidentiel</span>
+    <span>Recto — Jours 1 à 3</span>
+  </div>
+
+</section>
+
+
+<!-- ══════════════════════════════════════════
+     PAGE 2 — VERSO — JOURS 4 à 5 + SYNTHÈSE
+══════════════════════════════════════════ -->
+<section class="page verso">
+
+  <div class="doc-head">
+    <div class="head-left">
+      <svg width="20" height="17" viewBox="0 0 23 20"><polygon points="11.5,0 23,20 0,20" fill="#000"/></svg>
+      <div>
+        <div class="doc-title">RSP Training — Journal d'observation</div>
+        <div class="doc-sub">Suite — Jours 4 et 5 + Bilan de la semaine</div>
+      </div>
+    </div>
+    <div class="head-right">
+      <div class="head-field"><label>Prénom :</label><span class="ln" style="min-width:80px"></span></div>
+    </div>
+  </div>
+
+  <div class="grid" style="grid-template-columns: 1fr 1fr 1.3fr;">
+
+    <!-- JOUR 4 -->
+    <div class="day-col">
+      <div class="day-head">Jour 4</div>
+      <div class="day-date"><label>Date :</label><span class="ln"></span></div>
+
+      <div class="meal-block">
+        <div class="meal-label">🌅 Petit-déjeuner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">☕ Collation matin</div>
+        <div class="snack-content">Quoi + quantité</div>
+      </div>
+
+      <div class="meal-block">
+        <div class="meal-label">🍽️ Déjeuner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">🍎 Collation après-midi</div>
+        <div class="snack-content">Quoi + quantité</div>
+      </div>
+
+      <div class="meal-block">
+        <div class="meal-label">🌙 Dîner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">🍪 Grignotages</div>
+        <div class="snack-content">Tout ce qui est mangé en dehors des repas</div>
+      </div>
+
+      <div class="indicators">
+        <div class="ind"><label>Coucher :</label><span class="ln"></span><span class="unit">h</span></div>
+        <div class="ind"><label>Lever :</label><span class="ln"></span><span class="unit">h</span></div>
+        <div class="ind"><label>Sommeil :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Énergie :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Stress :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Eau :</label><span class="ln" style="min-width:16px"></span><span class="unit">L</span></div>
+        <div class="ind"><label>Sport :</label><span class="ln"></span></div>
+      </div>
+
+      <div class="comment-block">
+        <div class="comment-label">💬 Ressenti du jour</div>
+        <div class="comment-content"></div>
+      </div>
+    </div>
+
+    <!-- JOUR 5 -->
+    <div class="day-col">
+      <div class="day-head">Jour 5</div>
+      <div class="day-date"><label>Date :</label><span class="ln"></span></div>
+
+      <div class="meal-block">
+        <div class="meal-label">🌅 Petit-déjeuner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">☕ Collation matin</div>
+        <div class="snack-content">Quoi + quantité</div>
+      </div>
+
+      <div class="meal-block">
+        <div class="meal-label">🍽️ Déjeuner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">🍎 Collation après-midi</div>
+        <div class="snack-content">Quoi + quantité</div>
+      </div>
+
+      <div class="meal-block">
+        <div class="meal-label">🌙 Dîner</div>
+        <div class="meal-hint">Quoi + quantité (gr / poignée / portion)</div>
+        <div class="meal-content"></div>
+      </div>
+
+      <div class="snack-block">
+        <div class="snack-label">🍪 Grignotages</div>
+        <div class="snack-content">Tout ce qui est mangé en dehors des repas</div>
+      </div>
+
+      <div class="indicators">
+        <div class="ind"><label>Coucher :</label><span class="ln"></span><span class="unit">h</span></div>
+        <div class="ind"><label>Lever :</label><span class="ln"></span><span class="unit">h</span></div>
+        <div class="ind"><label>Sommeil :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Énergie :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Stress :</label><span class="ln" style="min-width:16px"></span><span class="unit">/10</span></div>
+        <div class="ind"><label>Eau :</label><span class="ln" style="min-width:16px"></span><span class="unit">L</span></div>
+        <div class="ind"><label>Sport :</label><span class="ln"></span></div>
+      </div>
+
+      <div class="comment-block">
+        <div class="comment-label">💬 Ressenti du jour</div>
+        <div class="comment-content"></div>
+      </div>
+    </div>
+
+    <!-- SYNTHÈSE DE LA SEMAINE -->
+    <div class="synth-col">
+      <div class="synth-head">Bilan de la semaine</div>
+
+      <div class="synth-section" style="flex:none">
+        <div class="synth-section-title">Poids (à jeun, même heure)</div>
+        <div class="synth-line"><label>Début :</label><span class="ln"></span><span style="font-size:6pt">kg</span></div>
+        <div class="synth-line"><label>Fin :</label><span class="ln"></span><span style="font-size:6pt">kg</span></div>
+      </div>
+
+      <div class="synth-section" style="flex:none">
+        <div class="synth-section-title">Moyennes de la semaine</div>
+        <div class="synth-line"><label>Sommeil moyen :</label><span class="ln"></span><span style="font-size:6pt">/10</span></div>
+        <div class="synth-line"><label>Énergie moyenne :</label><span class="ln"></span><span style="font-size:6pt">/10</span></div>
+        <div class="synth-line"><label>Stress moyen :</label><span class="ln"></span><span style="font-size:6pt">/10</span></div>
+        <div class="synth-line"><label>Séances sport :</label><span class="ln"></span></div>
+        <div class="synth-line"><label>Eau moyenne :</label><span class="ln"></span><span style="font-size:6pt">L/j</span></div>
+      </div>
+
+      <div class="synth-section" style="flex:none">
+        <div class="synth-section-title">Ce qui a bien marché cette semaine</div>
+        <div class="synth-bigbox" style="min-height:30px"></div>
+      </div>
+
+      <div class="synth-section" style="flex:none">
+        <div class="synth-section-title">Ce qui a été difficile</div>
+        <div class="synth-bigbox" style="min-height:30px"></div>
+      </div>
+
+      <div class="synth-section" style="flex:1">
+        <div class="synth-section-title">Ce que j'aimerais changer / améliorer</div>
+        <div class="synth-bigbox"></div>
+      </div>
+
+      <div style="padding:3px 5px; font-size:5.5pt; color:#888; border-top:1px solid #ddd; flex:none;">
+        Renvoie ce document à Julien en fin de semaine par WhatsApp ou photo.
+      </div>
+    </div>
+
+  </div><!-- fin grid -->
+
+  <div class="page-foot">
+    <span>RSP Training — Julien — Document confidentiel</span>
+    <span>Verso — Jours 4 à 5 + Bilan</span>
+  </div>
+
+</section>
+
+</body>
+</html>

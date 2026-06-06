@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RSP Training — Journal de suivi 6 jours</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{ --hair:#ccc; }
+*{ box-sizing:border-box; margin:0; padding:0; }
+html,body{ background:#e9e9e9; }
+body{ font-family:'Inter',Arial,Helvetica,sans-serif; color:#000; font-size:7.5pt; line-height:1.22; -webkit-font-smoothing:antialiased; }
+
+.page{ width:210mm; height:297mm; background:#fff; padding:8mm; margin:6mm auto;
+  position:relative; display:flex; flex-direction:column; box-shadow:0 1mm 4mm rgba(0,0,0,.25); }
+
+/* ---------- document header ---------- */
+.doc-header{ display:flex; justify-content:space-between; align-items:flex-end;
+  border-bottom:2px solid #000; padding-bottom:2.2mm; }
+.dh-left{ display:flex; align-items:center; gap:3mm; }
+.logo{ width:15mm; height:auto; display:block; }
+.doc-title{ font-size:13pt; font-weight:800; text-transform:uppercase; letter-spacing:.04em; line-height:1.05; }
+.doc-sub{ font-size:7pt; font-style:italic; color:#333; margin-top:1mm; max-width:120mm; }
+.dh-meta{ display:flex; flex-direction:column; gap:1.2mm; min-width:58mm; }
+.meta-row{ display:flex; align-items:flex-end; gap:1.6mm; font-size:7.5pt; text-transform:uppercase; letter-spacing:.03em; font-weight:600; }
+.meta-row > span:first-child{ white-space:nowrap; }
+.fl{ flex:1; border-bottom:1px solid #000; min-width:14mm; height:3.4mm; }
+.fl.wide{ min-width:30mm; }
+.coach{ flex:1; border-bottom:1px solid #000; height:3.4mm; font-weight:700; text-transform:none; }
+
+/* ---------- instructions ---------- */
+.instr{ border:1px solid #000; padding:1.6mm 2.4mm; margin-top:2.6mm; }
+.instr-title{ font-size:8pt; font-weight:800; text-transform:uppercase; letter-spacing:.05em;
+  border-bottom:2px solid #000; padding-bottom:1mm; margin-bottom:1.2mm; }
+.instr-body{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:4mm; }
+.ip-h{ font-size:7pt; font-weight:800; text-transform:uppercase; letter-spacing:.03em; margin-bottom:.8mm; }
+.ip-t{ font-size:6.7pt; line-height:1.25; text-wrap:pretty; }
+
+/* ---------- day grid ---------- */
+.grid{ flex:1; display:grid; grid-template-columns:1fr 1fr 1fr; margin-top:2.4mm; }
+.day{ border-left:1px solid var(--hair); padding:0 2.4mm; display:flex; flex-direction:column; }
+.day:first-child{ border-left:none; padding-left:0; }
+.day:last-child{ padding-right:0; }
+
+.day-head{ display:flex; align-items:flex-end; justify-content:space-between; gap:2mm;
+  border-bottom:2px solid #000; padding-bottom:1.2mm; }
+.dh-title{ font-size:9pt; font-weight:800; text-transform:uppercase; letter-spacing:.06em; white-space:nowrap; }
+.dh-fields{ display:flex; align-items:flex-end; gap:1.2mm; font-size:6.5pt; text-transform:uppercase; letter-spacing:.02em; }
+.dh-fields .fl{ border-bottom:1px solid #000; min-width:7mm; height:3mm; }
+
+.wake{ display:flex; align-items:flex-end; flex-wrap:wrap; gap:1mm 1.4mm; font-size:7pt; margin-top:1.6mm; }
+.wake .lab{ font-weight:700; white-space:nowrap; }
+.wake .gap{ margin-left:2mm; white-space:nowrap; font-weight:700; }
+.wake .u{ white-space:nowrap; }
+.wake .wk{ display:inline-flex; align-items:flex-end; gap:1mm; white-space:nowrap; }
+.wake .wk + .wk{ margin-left:2mm; }
+
+.qsleep{ display:flex; flex-direction:column; gap:.4mm; margin-top:1.6mm; }
+.qsleep .il{ font-size:6.8pt; font-weight:700; text-transform:uppercase; letter-spacing:.03em; }
+.qsleep .opts{ font-size:7pt; }
+
+.sec{ font-size:7.5pt; font-weight:800; text-transform:uppercase; letter-spacing:.05em;
+  border-bottom:2px solid #000; padding-bottom:.8mm; margin-top:2.2mm; }
+
+/* ---------- alimentation timeline ---------- */
+.faim-legend{ font-size:6pt; font-style:italic; color:#333; margin:1mm 0 0; text-wrap:pretty; line-height:1.3; }
+.timeline{ position:relative; margin-top:1.2mm; }
+.tl-faim-h{ position:absolute; top:0; right:0; width:10mm; text-align:center; font-size:6pt; font-weight:800; text-transform:uppercase; letter-spacing:.04em; border-left:1px solid #000; }
+.tl-faim-col{ position:absolute; top:0; bottom:0; right:0; width:10mm; border-left:1px solid #000; }
+.tl-faim-tick{ position:absolute; right:2mm; width:6mm; transform:translateY(-50%); border-top:1px solid #ccc; }
+.tl-plot{ position:relative; margin-top:4mm; height:calc(var(--g) * 14); }
+.tl-vline{ position:absolute; left:9mm; top:0; bottom:0; border-left:1px solid #000; }
+.tl-lines{ position:absolute; left:11mm; right:10mm; top:0; height:0; border-top:1px solid #000; }
+.tl-hr{ position:absolute; left:0; width:8mm; text-align:right; transform:translateY(-50%); line-height:1; }
+.tl-hr span{ display:inline-block; }
+.tl-hr.big span{ font-size:6.5pt; font-weight:800; }
+.tl-hr.small span{ font-size:5.6pt; font-weight:600; color:#666; }
+.tl-tick{ position:absolute; transform:translateY(-50%); border-top:1px solid #000; }
+.tl-tick.big{ left:7mm; width:2mm; }
+.tl-tick.small{ left:7.8mm; width:1.2mm; }
+
+/* ---------- options / digestion ---------- */
+.opts{ font-size:6.6pt; line-height:1.35; text-wrap:pretty; }
+.opts.dig{ margin-top:1.4mm; font-size:7pt; }
+
+/* ---------- indicators (spaced) ---------- */
+.ind{ padding-top:1.6mm; display:flex; flex-direction:column; gap:2.6mm; }
+.ind-row{ display:flex; align-items:flex-end; flex-wrap:wrap; gap:1mm 1.4mm; font-size:7.3pt; }
+.ind-row .lab{ white-space:nowrap; font-weight:600; }
+.ind-row .u{ white-space:nowrap; }
+.cb{ display:inline-block; width:8px; height:8px; border:1px solid #000; vertical-align:middle; }
+.ind-opt{ display:flex; flex-direction:column; gap:.8mm; }
+.ind-opt .il{ font-size:6.8pt; font-weight:700; text-transform:uppercase; letter-spacing:.03em; }
+.ind-opt .opts{ font-size:7pt; }
+
+.fl-sm{ display:inline-block; border-bottom:1px solid #000; width:10mm; height:3mm; }
+
+/* ---------- writing lines (box-shadow) ---------- */
+.write{ position:relative; }
+.write.l3::after{ content:""; display:block; height:0; border-bottom:1px solid #000;
+  margin-top:5.5mm; box-shadow:0 5.5mm #000, 0 11mm #000; }
+.write.l3{ height:13mm; }
+.ressenti{ margin-top:auto; }
+
+.hint{ font-size:6.3pt; font-style:italic; color:#444; margin:1mm 0 1.6mm; text-wrap:pretty; }
+
+/* ---------- footer ---------- */
+.foot{ border-top:1px solid #000; margin-top:2.4mm; padding-top:1.4mm; font-size:6.6pt; color:#222; }
+
+@media print{
+  html,body{ background:#fff; }
+  .page{ margin:0; box-shadow:none; }
+  .page:first-child{ page-break-after:always; }
+}
+@page{ size:A4 portrait; margin:0; }
+</style>
+</head>
+<body>
+
+  <div class="page">
+    
+  <div class="doc-header">
+    <div class="dh-left">
+      <img class="logo" src="assets/rsp-logo.png" alt="RGT Training">
+      <div class="dh-text">
+        <div class="doc-title">RSP Training — Journal de suivi</div>
+        <div class="doc-sub">Note ce que tu manges et ressens chaque jour — plus c'est précis, meilleurs sont tes résultats.</div>
+      </div>
+    </div>
+    <div class="dh-meta">
+      <div class="meta-row"><span>Nom</span><span class="fl wide"></span></div>
+      <div class="meta-row"><span>Prénom</span><span class="fl wide"></span></div>
+      <div class="meta-row"><span>Date de début</span><span class="fl wide"></span></div>
+      <div class="meta-row"><span>Coach</span><span class="coach">Julien</span></div>
+    </div>
+  </div>
+    
+  <div class="instr">
+    <div class="instr-title">Mode d'emploi — lis ça avant de commencer</div>
+    <div class="instr-body">
+      <div class="instr-pt">
+        <div class="ip-h">1 · Pourquoi ce journal</div>
+        <div class="ip-t">Ce document est ton outil de coaching. Plus tu le remplis avec précision, plus je peux t'aider efficacement. Chaque info que tu notes me permet d'adapter ton programme, ta nutrition et ton suivi à ce que tu vis vraiment — pas à des suppositions.</div>
+      </div>
+      <div class="instr-pt">
+        <div class="ip-h">2 · Comment remplir</div>
+        <div class="ip-t">Écris ce que tu manges sur la timeline, à hauteur de l'heure correspondante. Note ta faim de 0 à 5 dans la colonne de droite, en face de ce que tu as mangé. Entoure ou coche les autres options. Remplis au fil de la journée, pas tout d'un coup le soir.</div>
+      </div>
+      <div class="instr-pt">
+        <div class="ip-h">3 · Photos</div>
+        <div class="ip-t">Si tu peux, prends une photo de ton assiette avant de manger et envoie-la sur WhatsApp. Ce n'est pas obligatoire mais c'est un vrai plus pour l'analyse.</div>
+      </div>
+    </div>
+  </div>
+    <div class="grid">
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 1</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+    <div class="wake"><span class="wk"><span class="lab">Coucher (hier soir) :</span><span class="fl-sm"></span><span class="u">h</span></span><span class="wk"><span class="lab">Réveil ce matin :</span><span class="fl-sm"></span><span class="u">h</span></span></div>
+    <div class="qsleep"><span class="il">Qualité du sommeil</span><span class="opts">Excellent · Bon · Moyen · Mauvais · Très mauvais</span></div>
+
+    <div class="sec">Alimentation</div>
+    <div class="faim-legend">Faim : 0 = aucune · 1-2 = légère · 3 = normale · 4 = forte · 5 = très intense</div>
+    
+    <div class="timeline" style="--g:7mm;">
+      <div class="tl-faim-h">Faim</div>
+      <div class="tl-plot">
+        <div class="tl-vline"></div>
+        <div class="tl-faim-col"></div>
+        <div class="tl-lines" style="box-shadow:0 7mm #000, 0 14mm #000, 0 21mm #000, 0 28mm #000, 0 35mm #000, 0 42mm #000, 0 49mm #000, 0 56mm #000, 0 63mm #000, 0 70mm #000, 0 77mm #000, 0 84mm #000, 0 91mm #000, 0 98mm #000"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 0)"><span>6h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 0)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 0)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 2.3333)"><span>9h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 2.3333)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 4.6667)"><span>12h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 4.6667)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 4.6667)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 7)"><span>15h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 7)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 9.3333)"><span>18h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 9.3333)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 9.3333)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 11.6667)"><span>21h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 11.6667)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 14)"><span>0h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 14)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 14)"></div>
+      </div>
+    </div>
+
+    <div class="sec">Digestion &amp; ressenti</div>
+    <div class="opts dig">Bien · Lourd · Ballonné · Trop mangé · Ventre douloureux · Faim constante · Rien à signaler</div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Sieste :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-row"><span class="lab">Sport :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-opt"><span class="il">Énergie dans la journée</span><span class="opts">Très haute · Bonne · Moyenne · Basse · Épuisé</span></div>
+      <div class="ind-opt"><span class="il">Stress ressenti</span><span class="opts">Aucun · Léger · Modéré · Élevé · Débordant</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="hint">Humeur, fatigue particulière, événement qui a impacté la journée, douleur, pensée…</div>
+    <div class="write l3"></div>
+  </div>
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 2</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+    <div class="wake"><span class="wk"><span class="lab">Coucher (hier soir) :</span><span class="fl-sm"></span><span class="u">h</span></span><span class="wk"><span class="lab">Réveil ce matin :</span><span class="fl-sm"></span><span class="u">h</span></span></div>
+    <div class="qsleep"><span class="il">Qualité du sommeil</span><span class="opts">Excellent · Bon · Moyen · Mauvais · Très mauvais</span></div>
+
+    <div class="sec">Alimentation</div>
+    <div class="faim-legend">Faim : 0 = aucune · 1-2 = légère · 3 = normale · 4 = forte · 5 = très intense</div>
+    
+    <div class="timeline" style="--g:7mm;">
+      <div class="tl-faim-h">Faim</div>
+      <div class="tl-plot">
+        <div class="tl-vline"></div>
+        <div class="tl-faim-col"></div>
+        <div class="tl-lines" style="box-shadow:0 7mm #000, 0 14mm #000, 0 21mm #000, 0 28mm #000, 0 35mm #000, 0 42mm #000, 0 49mm #000, 0 56mm #000, 0 63mm #000, 0 70mm #000, 0 77mm #000, 0 84mm #000, 0 91mm #000, 0 98mm #000"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 0)"><span>6h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 0)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 0)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 2.3333)"><span>9h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 2.3333)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 4.6667)"><span>12h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 4.6667)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 4.6667)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 7)"><span>15h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 7)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 9.3333)"><span>18h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 9.3333)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 9.3333)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 11.6667)"><span>21h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 11.6667)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 14)"><span>0h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 14)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 14)"></div>
+      </div>
+    </div>
+
+    <div class="sec">Digestion &amp; ressenti</div>
+    <div class="opts dig">Bien · Lourd · Ballonné · Trop mangé · Ventre douloureux · Faim constante · Rien à signaler</div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Sieste :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-row"><span class="lab">Sport :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-opt"><span class="il">Énergie dans la journée</span><span class="opts">Très haute · Bonne · Moyenne · Basse · Épuisé</span></div>
+      <div class="ind-opt"><span class="il">Stress ressenti</span><span class="opts">Aucun · Léger · Modéré · Élevé · Débordant</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="hint">Humeur, fatigue particulière, événement qui a impacté la journée, douleur, pensée…</div>
+    <div class="write l3"></div>
+  </div>
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 3</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+    <div class="wake"><span class="wk"><span class="lab">Coucher (hier soir) :</span><span class="fl-sm"></span><span class="u">h</span></span><span class="wk"><span class="lab">Réveil ce matin :</span><span class="fl-sm"></span><span class="u">h</span></span></div>
+    <div class="qsleep"><span class="il">Qualité du sommeil</span><span class="opts">Excellent · Bon · Moyen · Mauvais · Très mauvais</span></div>
+
+    <div class="sec">Alimentation</div>
+    <div class="faim-legend">Faim : 0 = aucune · 1-2 = légère · 3 = normale · 4 = forte · 5 = très intense</div>
+    
+    <div class="timeline" style="--g:7mm;">
+      <div class="tl-faim-h">Faim</div>
+      <div class="tl-plot">
+        <div class="tl-vline"></div>
+        <div class="tl-faim-col"></div>
+        <div class="tl-lines" style="box-shadow:0 7mm #000, 0 14mm #000, 0 21mm #000, 0 28mm #000, 0 35mm #000, 0 42mm #000, 0 49mm #000, 0 56mm #000, 0 63mm #000, 0 70mm #000, 0 77mm #000, 0 84mm #000, 0 91mm #000, 0 98mm #000"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 0)"><span>6h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 0)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 0)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 2.3333)"><span>9h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 2.3333)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 4.6667)"><span>12h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 4.6667)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 4.6667)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 7)"><span>15h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 7)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 9.3333)"><span>18h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 9.3333)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 9.3333)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 11.6667)"><span>21h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 11.6667)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 14)"><span>0h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 14)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 14)"></div>
+      </div>
+    </div>
+
+    <div class="sec">Digestion &amp; ressenti</div>
+    <div class="opts dig">Bien · Lourd · Ballonné · Trop mangé · Ventre douloureux · Faim constante · Rien à signaler</div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Sieste :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-row"><span class="lab">Sport :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-opt"><span class="il">Énergie dans la journée</span><span class="opts">Très haute · Bonne · Moyenne · Basse · Épuisé</span></div>
+      <div class="ind-opt"><span class="il">Stress ressenti</span><span class="opts">Aucun · Léger · Modéré · Élevé · Débordant</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="hint">Humeur, fatigue particulière, événement qui a impacté la journée, douleur, pensée…</div>
+    <div class="write l3"></div>
+  </div>
+    </div>
+    
+  <div class="foot">
+    <span>RSP Training — Julien — Document confidentiel</span>
+  </div>
+  </div>
+
+  <div class="page">
+    
+  <div class="doc-header">
+    <div class="dh-left">
+      <img class="logo" src="assets/rsp-logo.png" alt="RGT Training">
+      <div class="dh-text">
+        <div class="doc-title">RSP Training — Journal de suivi</div>
+        <div class="doc-sub">Note ce que tu manges et ressens chaque jour — plus c'est précis, meilleurs sont tes résultats.</div>
+      </div>
+    </div>
+    <div class="dh-meta">
+      <div class="meta-row"><span>Nom</span><span class="fl wide"></span></div>
+      <div class="meta-row"><span>Prénom</span><span class="fl wide"></span></div>
+      <div class="meta-row"><span>Date de début</span><span class="fl wide"></span></div>
+      <div class="meta-row"><span>Coach</span><span class="coach">Julien</span></div>
+    </div>
+  </div>
+    <div class="grid">
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 4</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+    <div class="wake"><span class="wk"><span class="lab">Coucher (hier soir) :</span><span class="fl-sm"></span><span class="u">h</span></span><span class="wk"><span class="lab">Réveil ce matin :</span><span class="fl-sm"></span><span class="u">h</span></span></div>
+    <div class="qsleep"><span class="il">Qualité du sommeil</span><span class="opts">Excellent · Bon · Moyen · Mauvais · Très mauvais</span></div>
+
+    <div class="sec">Alimentation</div>
+    <div class="faim-legend">Faim : 0 = aucune · 1-2 = légère · 3 = normale · 4 = forte · 5 = très intense</div>
+    
+    <div class="timeline" style="--g:7mm;">
+      <div class="tl-faim-h">Faim</div>
+      <div class="tl-plot">
+        <div class="tl-vline"></div>
+        <div class="tl-faim-col"></div>
+        <div class="tl-lines" style="box-shadow:0 7mm #000, 0 14mm #000, 0 21mm #000, 0 28mm #000, 0 35mm #000, 0 42mm #000, 0 49mm #000, 0 56mm #000, 0 63mm #000, 0 70mm #000, 0 77mm #000, 0 84mm #000, 0 91mm #000, 0 98mm #000"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 0)"><span>6h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 0)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 0)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 2.3333)"><span>9h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 2.3333)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 4.6667)"><span>12h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 4.6667)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 4.6667)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 7)"><span>15h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 7)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 9.3333)"><span>18h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 9.3333)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 9.3333)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 11.6667)"><span>21h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 11.6667)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 14)"><span>0h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 14)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 14)"></div>
+      </div>
+    </div>
+
+    <div class="sec">Digestion &amp; ressenti</div>
+    <div class="opts dig">Bien · Lourd · Ballonné · Trop mangé · Ventre douloureux · Faim constante · Rien à signaler</div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Sieste :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-row"><span class="lab">Sport :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-opt"><span class="il">Énergie dans la journée</span><span class="opts">Très haute · Bonne · Moyenne · Basse · Épuisé</span></div>
+      <div class="ind-opt"><span class="il">Stress ressenti</span><span class="opts">Aucun · Léger · Modéré · Élevé · Débordant</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="hint">Humeur, fatigue particulière, événement qui a impacté la journée, douleur, pensée…</div>
+    <div class="write l3"></div>
+  </div>
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 5</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+    <div class="wake"><span class="wk"><span class="lab">Coucher (hier soir) :</span><span class="fl-sm"></span><span class="u">h</span></span><span class="wk"><span class="lab">Réveil ce matin :</span><span class="fl-sm"></span><span class="u">h</span></span></div>
+    <div class="qsleep"><span class="il">Qualité du sommeil</span><span class="opts">Excellent · Bon · Moyen · Mauvais · Très mauvais</span></div>
+
+    <div class="sec">Alimentation</div>
+    <div class="faim-legend">Faim : 0 = aucune · 1-2 = légère · 3 = normale · 4 = forte · 5 = très intense</div>
+    
+    <div class="timeline" style="--g:7mm;">
+      <div class="tl-faim-h">Faim</div>
+      <div class="tl-plot">
+        <div class="tl-vline"></div>
+        <div class="tl-faim-col"></div>
+        <div class="tl-lines" style="box-shadow:0 7mm #000, 0 14mm #000, 0 21mm #000, 0 28mm #000, 0 35mm #000, 0 42mm #000, 0 49mm #000, 0 56mm #000, 0 63mm #000, 0 70mm #000, 0 77mm #000, 0 84mm #000, 0 91mm #000, 0 98mm #000"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 0)"><span>6h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 0)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 0)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 2.3333)"><span>9h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 2.3333)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 4.6667)"><span>12h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 4.6667)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 4.6667)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 7)"><span>15h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 7)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 9.3333)"><span>18h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 9.3333)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 9.3333)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 11.6667)"><span>21h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 11.6667)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 14)"><span>0h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 14)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 14)"></div>
+      </div>
+    </div>
+
+    <div class="sec">Digestion &amp; ressenti</div>
+    <div class="opts dig">Bien · Lourd · Ballonné · Trop mangé · Ventre douloureux · Faim constante · Rien à signaler</div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Sieste :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-row"><span class="lab">Sport :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-opt"><span class="il">Énergie dans la journée</span><span class="opts">Très haute · Bonne · Moyenne · Basse · Épuisé</span></div>
+      <div class="ind-opt"><span class="il">Stress ressenti</span><span class="opts">Aucun · Léger · Modéré · Élevé · Débordant</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="hint">Humeur, fatigue particulière, événement qui a impacté la journée, douleur, pensée…</div>
+    <div class="write l3"></div>
+  </div>
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 6</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+    <div class="wake"><span class="wk"><span class="lab">Coucher (hier soir) :</span><span class="fl-sm"></span><span class="u">h</span></span><span class="wk"><span class="lab">Réveil ce matin :</span><span class="fl-sm"></span><span class="u">h</span></span></div>
+    <div class="qsleep"><span class="il">Qualité du sommeil</span><span class="opts">Excellent · Bon · Moyen · Mauvais · Très mauvais</span></div>
+
+    <div class="sec">Alimentation</div>
+    <div class="faim-legend">Faim : 0 = aucune · 1-2 = légère · 3 = normale · 4 = forte · 5 = très intense</div>
+    
+    <div class="timeline" style="--g:7mm;">
+      <div class="tl-faim-h">Faim</div>
+      <div class="tl-plot">
+        <div class="tl-vline"></div>
+        <div class="tl-faim-col"></div>
+        <div class="tl-lines" style="box-shadow:0 7mm #000, 0 14mm #000, 0 21mm #000, 0 28mm #000, 0 35mm #000, 0 42mm #000, 0 49mm #000, 0 56mm #000, 0 63mm #000, 0 70mm #000, 0 77mm #000, 0 84mm #000, 0 91mm #000, 0 98mm #000"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 0)"><span>6h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 0)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 0)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 2.3333)"><span>9h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 2.3333)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 4.6667)"><span>12h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 4.6667)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 4.6667)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 7)"><span>15h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 7)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 9.3333)"><span>18h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 9.3333)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 9.3333)"></div>
+        <div class="tl-hr small" style="top:calc(var(--g) * 11.6667)"><span>21h</span></div><div class="tl-tick small" style="top:calc(var(--g) * 11.6667)"></div>
+        <div class="tl-hr big" style="top:calc(var(--g) * 14)"><span>0h</span></div><div class="tl-tick big" style="top:calc(var(--g) * 14)"></div><div class="tl-faim-tick" style="top:calc(var(--g) * 14)"></div>
+      </div>
+    </div>
+
+    <div class="sec">Digestion &amp; ressenti</div>
+    <div class="opts dig">Bien · Lourd · Ballonné · Trop mangé · Ventre douloureux · Faim constante · Rien à signaler</div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Sieste :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-row"><span class="lab">Sport :</span><span class="cb"></span><span>Non</span><span class="cb"></span><span>Oui →</span><span class="fl-sm"></span><span class="u">min</span></div>
+      <div class="ind-opt"><span class="il">Énergie dans la journée</span><span class="opts">Très haute · Bonne · Moyenne · Basse · Épuisé</span></div>
+      <div class="ind-opt"><span class="il">Stress ressenti</span><span class="opts">Aucun · Léger · Modéré · Élevé · Débordant</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="hint">Humeur, fatigue particulière, événement qui a impacté la journée, douleur, pensée…</div>
+    <div class="write l3"></div>
+  </div>
+    </div>
+    
+  <div class="foot">
+    <span>RSP Training — Julien — Document confidentiel</span>
+  </div>
+  </div>
+
+</body>
+</html>

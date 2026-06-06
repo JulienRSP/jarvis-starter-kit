@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RSP Training — Journal de suivi 6 jours</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{ --gray:#f2f2f2; --line:#999; --strong:#333; }
+*{ box-sizing:border-box; margin:0; padding:0; }
+html,body{ background:#e9e9e9; }
+body{ font-family:'Inter',Arial,Helvetica,sans-serif; color:#000; font-size:8pt; line-height:1.25; -webkit-font-smoothing:antialiased; }
+
+.page{
+  width:210mm; height:297mm; background:#fff; padding:8mm;
+  margin:6mm auto; position:relative; display:flex; flex-direction:column;
+  box-shadow:0 1mm 4mm rgba(0,0,0,.25);
+}
+
+/* ---------- document header ---------- */
+.doc-header{ display:flex; justify-content:space-between; align-items:flex-end;
+  border-bottom:2px solid #000; padding-bottom:2.4mm; }
+.dh-left{ display:flex; align-items:center; gap:3mm; }
+.logo{ width:11mm; height:auto; display:block; }
+.doc-title{ font-size:13pt; font-weight:800; text-transform:uppercase; letter-spacing:.04em; line-height:1.05; }
+.doc-sub{ font-size:7pt; font-style:italic; color:#333; margin-top:1mm; max-width:120mm; }
+.dh-meta{ display:flex; flex-direction:column; gap:1.3mm; min-width:58mm; }
+.meta-row{ display:flex; align-items:flex-end; gap:1.6mm; font-size:7.5pt; text-transform:uppercase; letter-spacing:.03em; font-weight:600; }
+.meta-row > span:first-child{ white-space:nowrap; }
+.fl{ flex:1; border-bottom:1px solid var(--strong); min-width:14mm; height:3.4mm; }
+.fl.wide{ min-width:30mm; }
+.coach{ flex:1; border-bottom:1px solid var(--strong); height:3.4mm; font-weight:700; text-transform:none; }
+
+/* ---------- day grid ---------- */
+.grid{ flex:1; display:grid; grid-template-columns:1fr 1fr 1fr; margin-top:3mm; }
+.day{ border-left:1px solid var(--line); padding:0 2.6mm; }
+.day:first-child{ border-left:none; padding-left:0; }
+.day:last-child{ padding-right:0; }
+
+.day-head{ background:#000; color:#fff; padding:1.6mm 2mm; display:flex; align-items:center; justify-content:space-between; gap:2mm; }
+.dh-title{ font-size:9pt; font-weight:800; text-transform:uppercase; letter-spacing:.06em; }
+.dh-fields{ display:flex; align-items:flex-end; gap:1.2mm; font-size:6.5pt; text-transform:uppercase; letter-spacing:.02em; }
+.dh-fields .fl{ border-bottom:1px solid #fff; min-width:7mm; height:3mm; }
+
+.sec{ background:var(--gray); border:1px solid var(--strong); border-left:none; border-right:none;
+  font-size:7.5pt; font-weight:800; text-transform:uppercase; letter-spacing:.05em;
+  padding:1mm 1.4mm; margin-top:2.2mm; }
+
+.meal{ padding:1.4mm 0 0.4mm; }
+.meal-label{ font-size:7pt; font-weight:700; text-transform:uppercase; letter-spacing:.03em;
+  background:#f8f8f8; padding:.6mm 1.2mm; border-bottom:1px solid #ddd; }
+.hint{ font-size:6.3pt; font-style:italic; color:#555; margin:.8mm 0 1.4mm; }
+
+/* css writing lines via box-shadow */
+.write{ position:relative; }
+.write.l2::after{ content:""; display:block; height:0; border-bottom:1px solid var(--line);
+  margin-top:5mm; box-shadow:0 5mm var(--line); }
+.write.l2{ height:11mm; }
+.write.l3::after{ content:""; display:block; height:0; border-bottom:1px solid var(--line);
+  margin-top:5mm; box-shadow:0 5mm var(--line), 0 10mm var(--line); }
+.write.l3{ height:16mm; }
+
+/* indicators */
+.ind{ padding-top:1.2mm; display:flex; flex-direction:column; gap:.4mm; }
+.ind-row{ display:flex; align-items:flex-end; gap:1.4mm; font-size:7.3pt; }
+.ind-row .lab{ white-space:nowrap; }
+.ind-row .fill{ flex:1; border-bottom:1px solid var(--line); height:3.6mm; min-width:6mm; }
+.ind-row .u{ white-space:nowrap; color:#333; font-weight:600; }
+.ind-row.full .fill{ min-width:20mm; }
+
+/* footer */
+.foot{ display:flex; justify-content:space-between; border-top:1px solid var(--strong);
+  margin-top:3mm; padding-top:1.6mm; font-size:6.4pt; color:#333; }
+
+/* ---------- bilan ---------- */
+.bilan{ margin-top:3mm; border:1px solid var(--strong); }
+.bilan-head{ background:#000; color:#fff; font-size:8.5pt; font-weight:800;
+  text-transform:uppercase; letter-spacing:.06em; padding:1.4mm 2mm; }
+.bilan-body{ display:grid; grid-template-columns:1fr 1.2fr; }
+.bilan-left{ padding:2.4mm 3mm; border-right:1px solid var(--line); background:var(--gray); display:flex; flex-direction:column; gap:.6mm; }
+.bilan-right{ padding:2.4mm 3mm; background:var(--gray); }
+.bsub{ font-size:7pt; font-weight:800; text-transform:uppercase; letter-spacing:.04em; margin-bottom:1mm; }
+.bsub.mt{ margin-top:2.4mm; }
+.opt{ font-weight:500; text-transform:none; font-style:italic; color:#555; }
+.bilan-left .ind-row .fill{ border-bottom:1px solid var(--strong); }
+.brq{ font-size:7pt; font-weight:700; margin:1.6mm 0 .4mm; }
+.brq:first-child{ margin-top:0; }
+.bilan-right .write.l3::after{ box-shadow:0 5mm var(--strong), 0 10mm var(--strong); border-color:var(--strong); }
+
+/* ---------- verso compression (fit days + bilan on one A4) ---------- */
+.verso .grid{ margin-top:2mm; }
+.verso .sec{ margin-top:1.4mm; }
+.verso .meal{ padding-top:1mm; }
+.verso .hint{ margin:.6mm 0 1mm; }
+.verso .write.l3{ height:11mm; }
+.verso .write.l3::after{ margin-top:3.6mm; box-shadow:0 3.6mm var(--line), 0 7.2mm var(--line); }
+.verso .write.l2{ height:7.5mm; }
+.verso .write.l2::after{ margin-top:3.6mm; box-shadow:0 3.6mm var(--line); }
+.verso .ind{ gap:.2mm; padding-top:.8mm; }
+.verso .ind-row{ font-size:7pt; }
+.verso .ind-row .fill{ height:2.8mm; }
+.verso .bilan{ margin-top:2mm; }
+.verso .bilan-head{ padding:1mm 2mm; }
+.verso .bilan-left,.verso .bilan-right{ padding:1.8mm 3mm; }
+.verso .bsub.mt{ margin-top:1.6mm; }
+.verso .brq{ margin:1.2mm 0 .4mm; }
+.verso .bilan-right .write.l3{ height:12mm; }
+.verso .bilan-right .write.l3::after{ margin-top:4mm; box-shadow:0 4mm var(--strong), 0 8mm var(--strong); }
+.verso .foot{ margin-top:2mm; }
+
+@media print{
+  html,body{ background:#fff; }
+  .page{ margin:0; box-shadow:none; }
+  .page:first-child{ page-break-after:always; }
+}
+@page{ size:A4 portrait; margin:0; }
+</style>
+</head>
+<body>
+
+  <div class="page">
+    
+  <div class="doc-header">
+    <div class="dh-left">
+      <svg class="logo" viewBox="0 0 40 36" aria-hidden="true"><polygon points="20,2 38,34 2,34" fill="#000"/></svg>
+      <div class="dh-text">
+        <div class="doc-title">RSP Training — Journal de suivi</div>
+        <div class="doc-sub">Note ce que tu manges et ressens chaque jour — plus c'est précis, meilleurs sont tes résultats.</div>
+      </div>
+    </div>
+    <div class="dh-meta">
+      <div class="meta-row"><span>Prénom</span><span class="fl wide"></span></div>
+      <div class="meta-row"><span>Semaine du</span><span class="fl wide"></span></div>
+      <div class="meta-row"><span>Coach</span><span class="coach">Julien</span></div>
+    </div>
+  </div>
+    <div class="grid">
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 1</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+
+    <div class="sec">Alimentation</div>
+    <div class="meal">
+      <div class="meal-label">Petit-déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Dîner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+
+    <div class="sec">Collations / Grignotages</div>
+    <div class="meal">
+      <div class="hint">Tout ce qui est mangé en dehors des 3 repas</div>
+      <div class="write l2"></div>
+    </div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Coucher</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Lever</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Heures dormies</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Qualité sommeil</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Énergie journée</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Niveau de stress</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Faim ressentie</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Eau bue</span><span class="fill"></span><span class="u">L</span></div>
+      <div class="ind-row full"><span class="lab">Sport</span><span class="fill"></span></div>
+      <div class="ind-row"><span class="lab">Durée</span><span class="fill"></span><span class="u">min</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="meal">
+      <div class="hint">En une phrase : comment tu t'es senti aujourd'hui ?</div>
+      <div class="write l2"></div>
+    </div>
+  </div>
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 2</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+
+    <div class="sec">Alimentation</div>
+    <div class="meal">
+      <div class="meal-label">Petit-déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Dîner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+
+    <div class="sec">Collations / Grignotages</div>
+    <div class="meal">
+      <div class="hint">Tout ce qui est mangé en dehors des 3 repas</div>
+      <div class="write l2"></div>
+    </div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Coucher</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Lever</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Heures dormies</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Qualité sommeil</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Énergie journée</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Niveau de stress</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Faim ressentie</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Eau bue</span><span class="fill"></span><span class="u">L</span></div>
+      <div class="ind-row full"><span class="lab">Sport</span><span class="fill"></span></div>
+      <div class="ind-row"><span class="lab">Durée</span><span class="fill"></span><span class="u">min</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="meal">
+      <div class="hint">En une phrase : comment tu t'es senti aujourd'hui ?</div>
+      <div class="write l2"></div>
+    </div>
+  </div>
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 3</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+
+    <div class="sec">Alimentation</div>
+    <div class="meal">
+      <div class="meal-label">Petit-déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Dîner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+
+    <div class="sec">Collations / Grignotages</div>
+    <div class="meal">
+      <div class="hint">Tout ce qui est mangé en dehors des 3 repas</div>
+      <div class="write l2"></div>
+    </div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Coucher</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Lever</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Heures dormies</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Qualité sommeil</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Énergie journée</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Niveau de stress</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Faim ressentie</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Eau bue</span><span class="fill"></span><span class="u">L</span></div>
+      <div class="ind-row full"><span class="lab">Sport</span><span class="fill"></span></div>
+      <div class="ind-row"><span class="lab">Durée</span><span class="fill"></span><span class="u">min</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="meal">
+      <div class="hint">En une phrase : comment tu t'es senti aujourd'hui ?</div>
+      <div class="write l2"></div>
+    </div>
+  </div>
+    </div>
+    
+  <div class="foot">
+    <span>RSP Training — Julien — Document confidentiel</span>
+    <span>Renvoie ce document par photo WhatsApp en fin de semaine</span>
+  </div>
+  </div>
+
+  <div class="page verso">
+    
+  <div class="doc-header">
+    <div class="dh-left">
+      <svg class="logo" viewBox="0 0 40 36" aria-hidden="true"><polygon points="20,2 38,34 2,34" fill="#000"/></svg>
+      <div class="dh-text">
+        <div class="doc-title">RSP Training — Journal de suivi</div>
+        <div class="doc-sub">Note ce que tu manges et ressens chaque jour — plus c'est précis, meilleurs sont tes résultats.</div>
+      </div>
+    </div>
+    <div class="dh-meta">
+      <div class="meta-row"><span>Prénom</span><span class="fl wide"></span></div>
+      <div class="meta-row"><span>Semaine du</span><span class="fl wide"></span></div>
+      <div class="meta-row"><span>Coach</span><span class="coach">Julien</span></div>
+    </div>
+  </div>
+    <div class="grid">
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 4</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+
+    <div class="sec">Alimentation</div>
+    <div class="meal">
+      <div class="meal-label">Petit-déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Dîner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+
+    <div class="sec">Collations / Grignotages</div>
+    <div class="meal">
+      <div class="hint">Tout ce qui est mangé en dehors des 3 repas</div>
+      <div class="write l2"></div>
+    </div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Coucher</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Lever</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Heures dormies</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Qualité sommeil</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Énergie journée</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Niveau de stress</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Faim ressentie</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Eau bue</span><span class="fill"></span><span class="u">L</span></div>
+      <div class="ind-row full"><span class="lab">Sport</span><span class="fill"></span></div>
+      <div class="ind-row"><span class="lab">Durée</span><span class="fill"></span><span class="u">min</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="meal">
+      <div class="hint">En une phrase : comment tu t'es senti aujourd'hui ?</div>
+      <div class="write l2"></div>
+    </div>
+  </div>
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 5</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+
+    <div class="sec">Alimentation</div>
+    <div class="meal">
+      <div class="meal-label">Petit-déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Dîner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+
+    <div class="sec">Collations / Grignotages</div>
+    <div class="meal">
+      <div class="hint">Tout ce qui est mangé en dehors des 3 repas</div>
+      <div class="write l2"></div>
+    </div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Coucher</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Lever</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Heures dormies</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Qualité sommeil</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Énergie journée</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Niveau de stress</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Faim ressentie</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Eau bue</span><span class="fill"></span><span class="u">L</span></div>
+      <div class="ind-row full"><span class="lab">Sport</span><span class="fill"></span></div>
+      <div class="ind-row"><span class="lab">Durée</span><span class="fill"></span><span class="u">min</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="meal">
+      <div class="hint">En une phrase : comment tu t'es senti aujourd'hui ?</div>
+      <div class="write l2"></div>
+    </div>
+  </div>
+      
+  <div class="day">
+    <div class="day-head">
+      <div class="dh-title">JOUR 6</div>
+      <div class="dh-fields"><span>Jour</span><span class="fl"></span><span>Date</span><span class="fl"></span></div>
+    </div>
+
+    <div class="sec">Alimentation</div>
+    <div class="meal">
+      <div class="meal-label">Petit-déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Déjeuner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+    <div class="meal">
+      <div class="meal-label">Dîner</div>
+      <div class="hint">Quoi + quantité si possible (poignée / gr / portion)</div>
+      <div class="write l3"></div>
+    </div>
+
+    <div class="sec">Collations / Grignotages</div>
+    <div class="meal">
+      <div class="hint">Tout ce qui est mangé en dehors des 3 repas</div>
+      <div class="write l2"></div>
+    </div>
+
+    <div class="sec">Indicateurs</div>
+    <div class="ind">
+      <div class="ind-row"><span class="lab">Coucher</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Lever</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Heures dormies</span><span class="fill"></span><span class="u">h</span></div>
+      <div class="ind-row"><span class="lab">Qualité sommeil</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Énergie journée</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Niveau de stress</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Faim ressentie</span><span class="fill"></span><span class="u">/10</span></div>
+      <div class="ind-row"><span class="lab">Eau bue</span><span class="fill"></span><span class="u">L</span></div>
+      <div class="ind-row full"><span class="lab">Sport</span><span class="fill"></span></div>
+      <div class="ind-row"><span class="lab">Durée</span><span class="fill"></span><span class="u">min</span></div>
+    </div>
+
+    <div class="sec">Ressenti du jour</div>
+    <div class="meal">
+      <div class="hint">En une phrase : comment tu t'es senti aujourd'hui ?</div>
+      <div class="write l2"></div>
+    </div>
+  </div>
+    </div>
+    
+  <div class="bilan">
+    <div class="bilan-head">Bilan de la semaine</div>
+    <div class="bilan-body">
+      <div class="bilan-left">
+        <div class="bsub">Moyennes hebdomadaires</div>
+        <div class="ind-row"><span class="lab">Sommeil moyen</span><span class="fill"></span><span class="u">/10</span></div>
+        <div class="ind-row"><span class="lab">Énergie moyenne</span><span class="fill"></span><span class="u">/10</span></div>
+        <div class="ind-row"><span class="lab">Stress moyen</span><span class="fill"></span><span class="u">/10</span></div>
+        <div class="ind-row"><span class="lab">Séances sport</span><span class="fill"></span></div>
+        <div class="bsub mt">Poids <span class="opt">(facultatif)</span></div>
+        <div class="ind-row"><span class="lab">Début de semaine</span><span class="fill"></span><span class="u">kg</span></div>
+        <div class="ind-row"><span class="lab">Fin de semaine</span><span class="fill"></span><span class="u">kg</span></div>
+      </div>
+      <div class="bilan-right">
+        <div class="brq">Ce qui a bien marché :</div>
+        <div class="write l3"></div>
+        <div class="brq">Ce qui a été difficile :</div>
+        <div class="write l3"></div>
+        <div class="brq">Ce que je veux améliorer la semaine prochaine :</div>
+        <div class="write l3"></div>
+      </div>
+    </div>
+  </div>
+    
+  <div class="foot">
+    <span>RSP Training — Julien — Document confidentiel</span>
+    <span>Renvoie ce document par photo WhatsApp en fin de semaine</span>
+  </div>
+  </div>
+
+</body>
+</html>
