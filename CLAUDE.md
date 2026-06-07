@@ -160,6 +160,16 @@ Usage : "comment je structure ce protocole pour mon client", "est-ce validé sci
 
 Fichier : `.claude/skills/expert-science-coaching/SKILL.md`
 
+### analyse-journal-suivi
+
+Skill d'analyse du journal de suivi hebdomadaire RSP Training (6 jours). S'active quand Julien reçoit un journal rempli par un client. Analyse sur 7 axes : sommeil, alimentation, score faim 0-5, digestion, énergie/stress/sport, ressentis libres, croisement avec les autres outils RSP. Produit un bilan coach + un message retour client prêt à envoyer.
+
+Usage : "Analyse le journal de [Prénom]" ou "J'ai reçu le journal de [Prénom], voici les données"
+
+Lien outil client : **rsp-journal.netlify.app** — Message d'envoi prêt : `livrables/outils-rsp/message-envoi-journal.md`
+
+Fichier : `.claude/skills/analyse-journal-suivi/SKILL.md`
+
 ### analyse-initiale
 
 Skill de génération automatique du document d'analyse de départ personnalisé pour les prospects RSP Training. Activée en collant les réponses du formulaire Google Forms prospect.

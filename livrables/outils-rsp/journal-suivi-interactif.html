@@ -113,11 +113,103 @@ body{ font-family:'Inter',Arial,Helvetica,sans-serif; color:#000; font-size:7.5p
   html,body{ background:#fff; }
   .page{ margin:0; box-shadow:none; }
   .page:first-child{ page-break-after:always; }
+  .toolbar,.save-badge{ display:none !important; }
+  .opt-word.selected{ background:#000 !important; color:#fff !important; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  .cb-input:checked::after{ color:#000 !important; }
 }
 @page{ size:A4 portrait; margin:0; }
+
+/* ===== MODE INTERACTIF ===== */
+.toolbar{
+  position:fixed; top:12px; right:12px; z-index:9999;
+  display:flex; gap:8px; align-items:center;
+}
+.toolbar button{
+  padding:10px 20px; border:none; border-radius:5px;
+  font-family:'Inter',sans-serif; font-size:12px; font-weight:700;
+  text-transform:uppercase; letter-spacing:.05em; cursor:pointer;
+}
+.btn-print{ background:#000; color:#fff; }
+.btn-print:hover{ background:#222; }
+.btn-clear{ background:#fff; color:#000; border:2px solid #000; }
+.btn-clear:hover{ background:#f5f5f5; }
+.save-badge{
+  position:fixed; bottom:12px; right:12px; z-index:9999;
+  font-family:'Inter',sans-serif; font-size:11px; color:#666;
+  opacity:0; transition:opacity .4s; pointer-events:none;
+}
+.save-badge.show{ opacity:1; }
+
+/* Champs courts editables (fl, fl-sm) */
+.fl[contenteditable],.fl-sm[contenteditable]{
+  outline:none; cursor:text; caret-color:#000;
+  padding:0 1px; vertical-align:bottom; display:inline-block;
+}
+.fl[contenteditable]:focus,.fl-sm[contenteditable]:focus{ background:rgba(0,80,255,.05); }
+
+/* Zones d'écriture longues */
+.write{ position:relative; }
+.write textarea{
+  position:absolute; top:0; left:0; right:0; bottom:0;
+  width:100%; height:100%; background:transparent;
+  border:none; outline:none; resize:none;
+  font-family:'Inter',Arial,Helvetica,sans-serif;
+  font-size:7pt; color:#000; line-height:5.5mm;
+  padding:0 0 0 1px; z-index:2; overflow:hidden;
+}
+
+/* Options cliquables */
+.opt-word{
+  cursor:pointer; border-radius:2px; padding:0 2px;
+  display:inline; transition:background .1s, color .1s;
+  user-select:none;
+}
+.opt-word:hover:not(.selected){ background:#eee; }
+.opt-word.selected{ background:#000; color:#fff; }
+
+/* Checkboxes cliquables */
+.cb-input{
+  width:10px; height:10px; border:1px solid #000;
+  cursor:pointer; vertical-align:middle;
+  appearance:none; -webkit-appearance:none;
+  background:#fff; position:relative; display:inline-block;
+  flex-shrink:0; margin:0;
+}
+.cb-input:checked::after{
+  content:'✓'; position:absolute; top:-1px; left:1px;
+  font-size:8px; line-height:10px; color:#000; font-weight:900;
+}
+
+/* Timeline — overlay écriture */
+.tl-edit{
+  position:absolute; left:11mm; right:10mm; top:0; bottom:0;
+  outline:none; font-size:7pt; color:#000;
+  background:transparent; z-index:2; cursor:text;
+  line-height:var(--g); white-space:pre-wrap;
+  overflow:hidden; word-break:break-word; caret-color:#000;
+}
+
+/* Colonne faim — inputs numériques */
+.tl-faim-inputs{
+  position:absolute; right:0; top:0; bottom:0; width:10mm;
+  z-index:3;
+}
+.faim-input{
+  position:absolute; left:50%; transform:translateX(-50%);
+  width:7mm; height:6mm; border:none;
+  border-bottom:1px solid #aaa; background:transparent;
+  text-align:center; font-size:7pt; font-weight:700;
+  font-family:'Inter',sans-serif; outline:none; padding:0;
+}
 </style>
 </head>
 <body>
+
+<div class="toolbar">
+  <button class="btn-clear" onclick="clearData()">Effacer</button>
+  <button class="btn-print" onclick="window.print()">Imprimer</button>
+</div>
+<div class="save-badge" id="saveBadge">Sauvegardé ✓</div>
 
   <div class="page">
     
@@ -451,5 +543,132 @@ body{ font-family:'Inter',Arial,Helvetica,sans-serif; color:#000; font-size:7.5p
   </div>
   </div>
 
+<script>
+(function(){
+
+  /* ── 1. Rendre les champs .fl et .fl-sm éditables ── */
+  document.querySelectorAll('.fl, .fl-sm').forEach((el, i) => {
+    el.contentEditable = 'true';
+    el.dataset.id = 'fl-' + i;
+    el.spellcheck = false;
+    el.addEventListener('input', save);
+    el.addEventListener('keydown', e => { if(e.key === 'Enter') e.preventDefault(); });
+  });
+
+  /* ── 2. Remplacer .cb par des checkboxes ── */
+  document.querySelectorAll('.cb').forEach((el, i) => {
+    const cb = document.createElement('input');
+    cb.type = 'checkbox';
+    cb.className = 'cb-input';
+    cb.dataset.id = 'cb-' + i;
+    cb.addEventListener('change', save);
+    el.replaceWith(cb);
+  });
+
+  /* ── 3. Rendre les .opts cliquables ── */
+  document.querySelectorAll('.opts').forEach((el, elIdx) => {
+    const parts = el.textContent.split(' · ');
+    el.innerHTML = parts.map((w, i) =>
+      `<span class="opt-word" data-id="opt-${elIdx}-${i}">${w}</span>`
+    ).join(' · ');
+    el.querySelectorAll('.opt-word').forEach(span => {
+      span.addEventListener('click', () => {
+        span.classList.toggle('selected');
+        save();
+      });
+    });
+  });
+
+  /* ── 4. Ajouter un textarea dans chaque .write ── */
+  document.querySelectorAll('.write').forEach((el, i) => {
+    const ta = document.createElement('textarea');
+    ta.dataset.id = 'write-' + i;
+    ta.spellcheck = false;
+    ta.placeholder = '';
+    ta.addEventListener('input', save);
+    el.appendChild(ta);
+  });
+
+  /* ── 5. Ajouter un overlay écriture sur chaque timeline ── */
+  document.querySelectorAll('.tl-plot').forEach((el, i) => {
+    const div = document.createElement('div');
+    div.className = 'tl-edit';
+    div.contentEditable = 'true';
+    div.dataset.id = 'tl-' + i;
+    div.spellcheck = false;
+    div.addEventListener('input', save);
+    el.appendChild(div);
+  });
+
+  /* ── 6. Ajouter les inputs faim dans chaque timeline (1 par ligne) ── */
+  document.querySelectorAll('.tl-faim-col').forEach((el, i) => {
+    const wrap = document.createElement('div');
+    wrap.className = 'tl-faim-inputs';
+    for(let j = 0; j < 14; j++){
+      const inp = document.createElement('input');
+      inp.type = 'number';
+      inp.min = 0; inp.max = 5;
+      inp.className = 'faim-input';
+      inp.dataset.id = `faim-${i}-${j}`;
+      inp.placeholder = '';
+      inp.style.top = (j * 7 + 0.5) + 'mm';
+      inp.addEventListener('input', save);
+      wrap.appendChild(inp);
+    }
+    el.parentElement.appendChild(wrap);
+  });
+
+  /* ── Sauvegarde localStorage ── */
+  function collect(){
+    const d = {};
+    document.querySelectorAll('[data-id]').forEach(el => {
+      const id = el.dataset.id;
+      if(el.classList.contains('opt-word')) d[id] = el.classList.contains('selected');
+      else if(el.type === 'checkbox')       d[id] = el.checked;
+      else if(el.tagName === 'TEXTAREA')    d[id] = el.value;
+      else if(el.classList.contains('tl-edit')) d[id] = el.innerText;
+      else if(el.type === 'number')         d[id] = el.value;
+      else if(el.contentEditable === 'true') d[id] = el.innerText;
+    });
+    return d;
+  }
+
+  let saveTimer;
+  function save(){
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(() => {
+      localStorage.setItem('rsp-journal', JSON.stringify(collect()));
+      const badge = document.getElementById('saveBadge');
+      badge.classList.add('show');
+      setTimeout(() => badge.classList.remove('show'), 1800);
+    }, 400);
+  }
+
+  function restore(){
+    const raw = localStorage.getItem('rsp-journal');
+    if(!raw) return;
+    const d = JSON.parse(raw);
+    document.querySelectorAll('[data-id]').forEach(el => {
+      const v = d[el.dataset.id];
+      if(v === undefined) return;
+      if(el.classList.contains('opt-word')){ if(v) el.classList.add('selected'); }
+      else if(el.type === 'checkbox')       { el.checked = v; }
+      else if(el.tagName === 'TEXTAREA')    { el.value = v; }
+      else if(el.classList.contains('tl-edit')){ el.innerText = v; }
+      else if(el.type === 'number')         { el.value = v; }
+      else if(el.contentEditable === 'true'){ el.innerText = v; }
+    });
+  }
+
+  window.clearData = function(){
+    if(!confirm('Effacer toutes les données de cette semaine ?')) return;
+    localStorage.removeItem('rsp-journal');
+    location.reload();
+  };
+
+  restore();
+
+})();
+</script>
 </body>
 </html>
