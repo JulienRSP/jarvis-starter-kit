@@ -1,63 +1,62 @@
-# Brief RSP — 2026-06-12
+# Brief RSP — 2026-06-21
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Créer le formulaire approfondi client (32 questions).**
+**Rédige la page "À propos" de ton futur site RSP Training.**
 
-C'est l'étape identifiée comme "prochaine" lors de la session du 2026-06-04. Sans ce formulaire, le parcours post-signature est incomplet et tu ne peux pas scaler. Objectif aujourd'hui : rédiger les 32 questions structurées en 5 blocs (historique sport, alimentation, sommeil, stress, objectif profond). Pas besoin de le mettre en ligne aujourd'hui, un Google Forms suffit pour commencer.
+Ton histoire personnelle (musculation classique, relation malsaine avec la nourriture, blessure épaule, reconstruction) est ton principal levier de différenciation. C'est ce qui te distingue de n'importe quel autre coach sportif générique. Aujourd'hui, écris ce texte une bonne fois pour toutes : 150 à 250 mots, à la première personne, qui expliquent pourquoi tu coachies et ce que tu refuses de reproduire chez tes clients. Tu pourras l'utiliser sur le site, dans tes DMs de prospection, et pour adapter tes posts Instagram.
 
-**Pourquoi aujourd'hui :** Tu as 2 clients actifs et une offre 8 semaines formalisée. Le formulaire approfondi est le seul manque concret dans ton parcours client. Le construire te permet d'aller chercher le prochain client avec un process complet.
+Bloque 30 à 45 minutes. Écris un premier jet sans te censurer, envoie-le à ton Jarvis pour affiner.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de check-in personnalisé à tes 2 clients actuels cette semaine.**
+**Demande un témoignage écrit à l'un de tes 2 clients actuels.**
 
-Pas un message générique. Un message qui montre que tu observes leurs progrès. Exemple de structure :
+Tu as besoin de preuve sociale pour convertir tes prochains prospects. Un témoignage honnête de 2-3 phrases vaut mieux que 10 posts sans aucune référence. Message simple à envoyer aujourd'hui :
 
-> "Salut [Prénom], je repensais à [une chose concrète observée lors de la dernière séance]. J'ai une idée pour qu'on travaille ça différemment la semaine prochaine. Hâte d'en parler."
+> "Hey [Prénom], ça fait un moment qu'on travaille ensemble. Est-ce que tu pourrais m'écrire 2-3 phrases sur ce que tu as remarqué depuis qu'on bosse ensemble, ce que t'apporte le coaching ? Que ce soit pour tes sensations, ton quotidien, ta mobilité... C'est pour mon site, et ça m'aide beaucoup."
 
-Ce type de message fait deux choses en parallèle : il fidélise, et il crée de la confiance pour qu'ils parlent de toi autour d'eux. Les 2 clients actuels sont ta meilleure source de bouche-à-oreille à ce stade.
-
-**Bonus prospection BSport :** Au prochain cours (lundi soir ou mercredi matin), identifie un membre qui montre des signes de plateau ou de frustration. Engage une conversation courte et naturelle. Pas de pitch, juste de l'écoute. Une phrase d'ouverture suffit : "Tu fais ça depuis combien de temps ? Tu sens une progression ?"
+Envoie-le à WhatsApp. Si tu l'as déjà des deux, reprends le plus récent et demande-lui de parler de toi autour de lui dans son réseau.
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Format : Instagram Reel / TikTok (texte lu face caméra ou voix off + sous-titres)**
+**Format : Instagram / TikTok**
 
 ---
 
 **Accroche :**
-J'étais ultra discipliné. Et pourtant je n'étais pas en bonne santé.
+Tu t'entraînes depuis des années, et tu te sens pas vraiment mieux. C'est peut-être pas le manque de discipline le problème.
 
 ---
 
 **Texte :**
 
-Je me levais à 7h après 3h de sommeil pour ne pas rater ma séance.
-Je refusais le gâteau de ma mère pour "rester dans mes macros".
-Je calculais chaque gramme de nourriture.
-Je me suis blessé à l'épaule et j'ai continué à forcer dessus pendant des mois.
+Pendant longtemps, j'étais le gars le plus discipliné de la salle.
 
-J'étais discipliné. Vraiment discipliné.
-Mais je confondais discipline et santé.
+Lever à 7h même après 3h de sommeil. Jamais d'écart alimentaire. Refus du resto entre amis. Pesée de chaque gramme de nourriture.
 
-La vraie santé, c'est encore vouloir bouger à 60, à 70, à 80 ans.
-C'est manger avec plaisir et sans culpabilité.
-C'est un corps qui fonctionne, pas un corps qu'on punit.
+Résultat ? Une blessure à l'épaule que j'ai mis des mois à prendre au sérieux. Une relation catastrophique avec la bouffe. Et aucune joie dans mes entraînements.
 
-Si tu t'entraînes en te faisant violence, ce n'est pas de la rigueur.
-C'est le signe que quelque chose n'est pas aligné.
+J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
 
-Le sport doit te donner de l'énergie. Pas t'en prendre.
+La différence est énorme.
+
+Aujourd'hui je coache des gens en partant d'un principe simple : l'entraînement doit s'adapter à ta vie, pas l'inverse.
+
+Pas de programme copié sur un athlète sponsorisé. Pas de riz-poulet-brocoli strict. Pas de culpabilité si tu rates une séance.
+
+Du mouvement que tu vas finir par aimer. Une nutrition qui te ressemble. Un équilibre qui tient sur la durée.
+
+C'est ça, le sport-santé. Et c'est pour ça que j'ai créé RSP Training.
 
 ---
 
-#sportssante #longevite #coachhsportif #mentalite #trainsmarter #sante #bienetre #fitness #coachingbelgique #mouvement
+#sportetanté #coachinghybride #longevite #entrainementfonctionnel #coachsportif #sportpourlavie #mobilite #santedurable #rsptraining #belgique
 
 ---
