@@ -1,26 +1,31 @@
-# Brief RSP — 2026-06-21
+# Brief RSP Training — 2026-06-22
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige la page "À propos" de ton futur site RSP Training.**
+**Écris et envoie 3 DMs de prospection directe aujourd'hui.**
 
-Ton histoire personnelle (musculation classique, relation malsaine avec la nourriture, blessure épaule, reconstruction) est ton principal levier de différenciation. C'est ce qui te distingue de n'importe quel autre coach sportif générique. Aujourd'hui, écris ce texte une bonne fois pour toutes : 150 à 250 mots, à la première personne, qui expliquent pourquoi tu coachies et ce que tu refuses de reproduire chez tes clients. Tu pourras l'utiliser sur le site, dans tes DMs de prospection, et pour adapter tes posts Instagram.
+Tu as besoin d'un client n°3. Pas d'un site, pas de 1000 abonnés. D'un message envoyé à la bonne personne.
 
-Bloque 30 à 45 minutes. Écris un premier jet sans te censurer, envoie-le à ton Jarvis pour affiner.
+Protocole :
+- Identifie 3 personnes dans ton réseau personnel ou sur Instagram qui ont parlé récemment de forme, de poids, de dos, de mobilité, ou de stress. Collègues, anciens camarades, connaissances. Pas besoin qu'ils soient en état de crise, juste qu'ils soient susceptibles d'être concernés.
+- Envoie un message court et humain, pas un pitch commercial. Exemple : "Hey [Prénom], j'ai vu [X]. J'ai lancé mon activité de coaching en sport-santé et longévité, je travaille autour de Bruxelles. Si t'as envie de faire le point sur ta forme sans prise de tête, je propose une séance découverte gratuite. Pas d'engagement. Juste pour voir si c'est utile pour toi."
+- Ajuste selon la relation. Plus c'est proche, plus c'est direct.
+
+Objectif du jour : 3 messages envoyés. Pas 1, pas 2. 3.
 
 ---
 
 ## 2. Action client
 
-**Demande un témoignage écrit à l'un de tes 2 clients actuels.**
+**Demande à chacun de tes 2 clients de te recommander à une personne de leur réseau.**
 
-Tu as besoin de preuve sociale pour convertir tes prochains prospects. Un témoignage honnête de 2-3 phrases vaut mieux que 10 posts sans aucune référence. Message simple à envoyer aujourd'hui :
+Tu n'as pas besoin d'un système de parrainage élaboré. Juste ce message simple :
 
-> "Hey [Prénom], ça fait un moment qu'on travaille ensemble. Est-ce que tu pourrais m'écrire 2-3 phrases sur ce que tu as remarqué depuis qu'on bosse ensemble, ce que t'apporte le coaching ? Que ce soit pour tes sensations, ton quotidien, ta mobilité... C'est pour mon site, et ça m'aide beaucoup."
+> "Hey [Prénom], je cherche à accueillir 1 ou 2 nouveaux clients en ce moment. Si tu connais quelqu'un autour de toi qui a envie de se remettre en forme sérieusement, sans régime ni programme copié-collé, dis-leur de me contacter. Je ferai une séance découverte gratuite pour qu'ils voient si c'est fait pour eux."
 
-Envoie-le à WhatsApp. Si tu l'as déjà des deux, reprends le plus récent et demande-lui de parler de toi autour de lui dans son réseau.
+Pourquoi ça marche : tes clients existants te font déjà confiance. Leur recommandation vaut 10x une pub froide. C'est la prospection avec le moins d'effort et le plus fort taux de conversion que tu aies.
 
 ---
 
@@ -31,32 +36,37 @@ Envoie-le à WhatsApp. Si tu l'as déjà des deux, reprends le plus récent et d
 ---
 
 **Accroche :**
-Tu t'entraînes depuis des années, et tu te sens pas vraiment mieux. C'est peut-être pas le manque de discipline le problème.
+Après 40 ans, une seule chose détermine si tu vieilliras bien ou pas.
 
 ---
 
 **Texte :**
 
-Pendant longtemps, j'étais le gars le plus discipliné de la salle.
+Ce n'est pas ton poids.
 
-Lever à 7h même après 3h de sommeil. Jamais d'écart alimentaire. Refus du resto entre amis. Pesée de chaque gramme de nourriture.
+Ce n'est pas ton cardio.
 
-Résultat ? Une blessure à l'épaule que j'ai mis des mois à prendre au sérieux. Une relation catastrophique avec la bouffe. Et aucune joie dans mes entraînements.
+Ce n'est pas le nombre de fois que tu vas à la salle.
 
-J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
+C'est ta masse musculaire.
 
-La différence est énorme.
+À partir de 30 ans, on perd naturellement 1% de muscle par an. Après 50, ça s'accélère. Ce processus s'appelle la sarcopénie. Et la plupart des gens n'en entendent jamais parler avant que les dégâts soient faits.
 
-Aujourd'hui je coache des gens en partant d'un principe simple : l'entraînement doit s'adapter à ta vie, pas l'inverse.
+Conséquences concrètes : fatigue chronique, douleurs articulaires, mauvaise posture, prise de graisse progressive, risques de chute, perte d'autonomie.
 
-Pas de programme copié sur un athlète sponsorisé. Pas de riz-poulet-brocoli strict. Pas de culpabilité si tu rates une séance.
+La bonne nouvelle : c'est réversible. Et la solution n'est pas compliquée.
 
-Du mouvement que tu vas finir par aimer. Une nutrition qui te ressemble. Un équilibre qui tient sur la durée.
+Le renforcement musculaire 2 à 3x par semaine, bien dosé, bien exécuté, adapté à toi. Pas de salle obligatoire. Pas de souffrance. Juste de la régularité et de la progression.
 
-C'est ça, le sport-santé. Et c'est pour ça que j'ai créé RSP Training.
+Le muscle, c'est ton capital longévité. Ça se construit maintenant, ça se dépense plus tard.
+
+Si tu veux comprendre ce que ça change concrètement pour toi, dis-moi en commentaire ton âge et ton objectif. Je te réponds.
+
+---
+
+**10 hashtags :**
+#longevite #sportetante #sarcopenie #massemuscualire #coachsportif #vieillirenbonnnesante #renforcement #mobilite #rsptraining #belgique
 
 ---
 
-#sportetanté #coachinghybride #longevite #entrainementfonctionnel #coachsportif #sportpourlavie #mobilite #santedurable #rsptraining #belgique
-
----
+> *Brief généré automatiquement le 2026-06-22*
