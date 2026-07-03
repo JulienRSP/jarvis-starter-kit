@@ -1,20 +1,26 @@
-# Brief RSP — 2026-06-30
+# Brief RSP Training — 2026-07-03
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Construis les 10 premières questions du formulaire approfondi client.**
+**Envoie 5 messages de prospection personnalisés aujourd'hui.**
 
-C'est le chainon manquant identifié lors de la session du 4 juin : entre la signature et le démarrage de S1, il te faut un outil qui te donne une lecture complète du client. Ouvre Claude, liste 10 questions clés couvrant antécédents blessures, relation à la nourriture, qualité du sommeil, freins passés, motivations profondes, contraintes horaires. Une heure de travail. Un outil utilisable dès ton prochain client signé.
+- Identifie 5 personnes dans ton entourage immédiat (famille, amis, anciens camarades, contacts BSport) qui pourraient bénéficier d'un coaching sport-santé
+- Message court et direct : "Salut [Prénom], je lance officiellement mon coaching RSP Training. Je propose une séance découverte gratuite de 60 min pour [leur objectif probable]. Tu serais intéressé(e) ?"
+- N'attends pas d'avoir un site parfait. La séance découverte se vend à la conversation, pas à la page web
+- Objectif concret : 2 réponses positives = 2 prospects qualifiés cette semaine, tu passes de 2 à 4 clients potentiels d'un coup
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de suivi à tes 2 clients actuels aujourd'hui.**
+**Check-in actif + activation du bouche-à-oreille.**
 
-Un message court et authentique : "Comment tu te sens ces dernières semaines ? Tu vois des changements ?" Objectif double : garder le lien et planter la graine d'un témoignage spontané. Si l'un d'eux te répond avec un vrai retour positif, demande-lui s'il y a quelqu'un dans son entourage qui pourrait bénéficier d'un coaching sport-santé. Une recommandation bien placée est ton levier le plus rapide pour aller de 2 à 3 clients.
+- Envoie un message à chacun de tes 2 clients aujourd'hui : "Comment tu te sens cette semaine ? Des douleurs ou des blocages ?"
+- Glisse une micro-tip utile adaptée à ce que tu sais d'eux (mobilité, sommeil ou nutrition), ça renforce la valeur perçue entre les séances
+- Termine par : "Si tu connais quelqu'un qui cherche un coaching sport-santé sérieux, n'hésite pas à lui parler de moi, je suis dispo pour une séance découverte gratuite"
+- Tes 2 clients actuels sont ta meilleure pub. Ils ne le savent pas encore
 
 ---
 
@@ -23,33 +29,32 @@ Un message court et authentique : "Comment tu te sens ces dernières semaines ? 
 **Format : Instagram / TikTok**
 
 **Accroche :**
-J'ai sacrifié ma santé à la salle de sport. Voici ce que j'ai appris à la dure.
+J'étais ultra-discipliné. Et je n'étais pas en bonne santé.
 
 **Texte :**
-Pendant des mois, je calculais mes macros au gramme près.
+Lever à 7h après 3h de sommeil pour ne pas rater la séance.
+Refus de manger le gâteau de ma mère pour rester dans les macros.
+L'épaule qui crie depuis des mois. Mais la volonté de fer.
 
-Je refusais les restos avec mes amis.
+Pendant des années j'ai cru que discipline = santé.
+C'est faux.
 
-Je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
+La vraie santé, c'est quoi ?
+Être fort à 60 ans.
+Jouer avec tes enfants à 70.
+Manger avec plaisir et sans culpabilité à 80.
+Bouger tous les jours parce que tu l'aimes, pas parce que tu dois.
 
-J'étais extrêmement discipliné.
+Mon approche RSP Training, c'est ça.
+Pas des abdos en 8 semaines.
+Une relation durable avec ton corps, sur 20 ans.
 
-Je n'étais pas en bonne santé.
-
-En novembre 2025, une blessure à l'épaule que j'ignorais depuis trop longtemps est devenue chronique. C'est là que tout s'est effondré, et que j'ai tout remis à zéro.
-
-Aujourd'hui, je coach différemment :
-- On s'entraîne pour vivre mieux, pas pour un physique imaginaire
-- On mange pour avoir de l'énergie, pas pour les abdos
-- On adapte l'effort à la vraie vie, pas l'inverse
-
-La discipline sans la santé, c'est juste de la souffrance déguisée en vertu.
-
-Et toi, tu t'entraînes pour quoi, vraiment ?
+Si tu veux commencer, la séance découverte est gratuite.
+DM ouvert.
 
 **Hashtags :**
-#sportsante #longevite #coachsportif #fitnessmindset #bienetre #entrainementfonctionnel #santeholistique #coachingbelgique #mouvement #vivremieux
+#SportSanté #Longévité #CoachingSportif #RSPTraining #MouvementLibre #BienVieillir #FonctionnelCoaching #NutritionSaine #CoachBelgique #VieActive
 
 ---
 
-> *Brief généré automatiquement le 2026-06-30*
+> *Brief généré automatiquement le 2026-07-03*
