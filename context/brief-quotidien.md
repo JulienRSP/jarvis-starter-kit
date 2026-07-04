@@ -1,26 +1,33 @@
-# Brief RSP Training — 2026-07-03
+# Brief RSP Training — 2026-07-04
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Envoie 5 messages de prospection personnalisés aujourd'hui.**
+**Crée une offre estivale concrète et publie-la aujourd'hui.**
 
-- Identifie 5 personnes dans ton entourage immédiat (famille, amis, anciens camarades, contacts BSport) qui pourraient bénéficier d'un coaching sport-santé
-- Message court et direct : "Salut [Prénom], je lance officiellement mon coaching RSP Training. Je propose une séance découverte gratuite de 60 min pour [leur objectif probable]. Tu serais intéressé(e) ?"
-- N'attends pas d'avoir un site parfait. La séance découverte se vend à la conversation, pas à la page web
-- Objectif concret : 2 réponses positives = 2 prospects qualifiés cette semaine, tu passes de 2 à 4 clients potentiels d'un coup
+C'est le 4 juillet, début du weekend. Les gens pensent à septembre dès maintenant ("reprendre en septembre", "perdre du poids cet été"). C'est le meilleur moment pour positionner une offre avec une date butoir.
+
+Action concrète :
+- Ouvre Notes ou un Google Doc et rédige en 15 min une offre "Été RSP" : lancement d'un programme 8 semaines à 499€ (prix lancement) pour les 3 prochains clients signés avant le 31 août
+- Format du message d'offre : objectif clair (reprendre en forme avant la rentrée), ce qui est inclus (séances + suivi + nutrition), et un CTA direct ("DM 'RENTRÉE' pour les détails")
+- Publie ce message en story Instagram aujourd'hui + envoie-le en DM privé à 3 contacts ciblés
+
+Tu n'as pas besoin d'un site ni d'un Canva parfait. Un message clair et une date butoir réelle suffisent pour déclencher.
 
 ---
 
 ## 2. Action client
 
-**Check-in actif + activation du bouche-à-oreille.**
+**Demande un témoignage écrit à tes 2 clients cette semaine.**
 
-- Envoie un message à chacun de tes 2 clients aujourd'hui : "Comment tu te sens cette semaine ? Des douleurs ou des blocages ?"
-- Glisse une micro-tip utile adaptée à ce que tu sais d'eux (mobilité, sommeil ou nutrition), ça renforce la valeur perçue entre les séances
-- Termine par : "Si tu connais quelqu'un qui cherche un coaching sport-santé sérieux, n'hésite pas à lui parler de moi, je suis dispo pour une séance découverte gratuite"
-- Tes 2 clients actuels sont ta meilleure pub. Ils ne le savent pas encore
+Tu n'as pas encore de preuve sociale visible. C'est ton frein n°1 pour convaincre les prochains prospects. Un témoignage de 3 lignes vaut mieux que n'importe quel visuel.
+
+Message à envoyer (à adapter selon le prénom et la durée du suivi) :
+
+"Salut [Prénom], ça fait un moment qu'on bosse ensemble et je suis vraiment content de voir tes progrès. J'aurais un service à te demander : est-ce que tu pourrais m'écrire 2-3 phrases sur ce que t'as vécu depuis qu'on travaille ensemble ? Qu'est-ce qui a changé pour toi concrètement ? Je t'en serais vraiment reconnaissant, ça m'aide énormément pour la suite."
+
+Utilise ces témoignages en stories, sur ton profil, et dans tes DMs de prospection dès que tu les reçois.
 
 ---
 
@@ -29,32 +36,40 @@
 **Format : Instagram / TikTok**
 
 **Accroche :**
-J'étais ultra-discipliné. Et je n'étais pas en bonne santé.
-
-**Texte :**
-Lever à 7h après 3h de sommeil pour ne pas rater la séance.
-Refus de manger le gâteau de ma mère pour rester dans les macros.
-L'épaule qui crie depuis des mois. Mais la volonté de fer.
-
-Pendant des années j'ai cru que discipline = santé.
-C'est faux.
-
-La vraie santé, c'est quoi ?
-Être fort à 60 ans.
-Jouer avec tes enfants à 70.
-Manger avec plaisir et sans culpabilité à 80.
-Bouger tous les jours parce que tu l'aimes, pas parce que tu dois.
-
-Mon approche RSP Training, c'est ça.
-Pas des abdos en 8 semaines.
-Une relation durable avec ton corps, sur 20 ans.
-
-Si tu veux commencer, la séance découverte est gratuite.
-DM ouvert.
-
-**Hashtags :**
-#SportSanté #Longévité #CoachingSportif #RSPTraining #MouvementLibre #BienVieillir #FonctionnelCoaching #NutritionSaine #CoachBelgique #VieActive
+À 40 ans, ce n'est pas ton niveau de forme qui détermine ta vie dans 20 ans. C'est ça.
 
 ---
 
-> *Brief généré automatiquement le 2026-07-03*
+**Texte :**
+
+La plupart des gens pensent que vieillir en bonne santé c'est une question de chance ou de génétique.
+
+C'est faux.
+
+Ce qui détermine si tu peux encore monter les escaliers à 75 ans sans t'essouffler, c'est ce que tu fais aujourd'hui avec ton corps.
+
+Pas besoin de courir un marathon.
+Pas besoin de soulever 100kg.
+Pas besoin de manger parfait.
+
+Ce dont tu as besoin :
+
+- Bouger régulièrement, dans des patterns de mouvement complets (pas juste la salle)
+- Maintenir ta masse musculaire (clé n°1 de la longévité, souvent ignorée)
+- Dormir correctement
+- Manger assez, pas "propre"
+
+Ces 4 habitudes simples, appliquées sur 10 ans, créent une différence radicale entre quelqu'un qui "survit" à 70 ans et quelqu'un qui vit vraiment.
+
+Mon travail chez RSP Training : t'aider à construire ces habitudes pour qu'elles durent, pas juste pour l'été.
+
+Si tu veux savoir par où commencer, DM "LONGEVITE" et je te réponds personnellement.
+
+---
+
+**Hashtags :**
+#longevite #sportetsamte #vieillirenformé #coachsportif #movementismedicine #musculation #coachbelgique #rsptraining #fonctionnel #santeactive
+
+---
+
+> *Brief généré automatiquement le 2026-07-04*
