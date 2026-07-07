@@ -1,33 +1,30 @@
-# Brief RSP Training — 2026-07-04
+# Brief RSP Training — 2026-07-07
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Crée une offre estivale concrète et publie-la aujourd'hui.**
+**Envoie 3 messages de prospection ciblés à des contacts tièdes aujourd'hui.**
 
-C'est le 4 juillet, début du weekend. Les gens pensent à septembre dès maintenant ("reprendre en septembre", "perdre du poids cet été"). C'est le meilleur moment pour positionner une offre avec une date butoir.
+Tu as une offre définie (Méthode RSP Transformation 8 semaines, 499€ lancement), ta philosophie est formalisée, tes 2 clients valident ton approche. Ce qui manque : de la visibilité active dans ton réseau proche.
 
 Action concrète :
-- Ouvre Notes ou un Google Doc et rédige en 15 min une offre "Été RSP" : lancement d'un programme 8 semaines à 499€ (prix lancement) pour les 3 prochains clients signés avant le 31 août
-- Format du message d'offre : objectif clair (reprendre en forme avant la rentrée), ce qui est inclus (séances + suivi + nutrition), et un CTA direct ("DM 'RENTRÉE' pour les détails")
-- Publie ce message en story Instagram aujourd'hui + envoie-le en DM privé à 3 contacts ciblés
-
-Tu n'as pas besoin d'un site ni d'un Canva parfait. Un message clair et une date butoir réelle suffisent pour déclencher.
+- Identifie 3 personnes dans ton téléphone qui correspondent à ton client idéal (quelqu'un qui se plaint de douleurs, de fatigue, de poids, ou qui manque de routine sportive)
+- Envoie ce message (à adapter) : "Salut [Prénom], je lance officiellement mon coaching RSP cet été, spécialisé sport-santé et fonctionnel. Si tu connais quelqu'un qui cherche à reprendre en main son corps sans se détruire, pense à moi. Ça m'aiderait beaucoup."
+- Ce soir tu es à BSport Berchem. Si l'occasion se présente avec un habitué, parle naturellement de ta démarche indépendante. Un échange humain vaut 10 posts.
 
 ---
 
 ## 2. Action client
 
-**Demande un témoignage écrit à tes 2 clients cette semaine.**
+**Envoie un message de suivi personnalisé à chacun de tes 2 clients cette semaine.**
 
-Tu n'as pas encore de preuve sociale visible. C'est ton frein n°1 pour convaincre les prochains prospects. Un témoignage de 3 lignes vaut mieux que n'importe quel visuel.
+Un message court entre les séances renforce l'attachement et prépare le terrain pour un renouvellement ou une recommandation.
 
-Message à envoyer (à adapter selon le prénom et la durée du suivi) :
+Message type (à adapter) :
+"Salut [Prénom], je pensais à toi. Comment tu te sens depuis notre dernière séance ? Un truc à noter pour qu'on ajuste la prochaine ?"
 
-"Salut [Prénom], ça fait un moment qu'on bosse ensemble et je suis vraiment content de voir tes progrès. J'aurais un service à te demander : est-ce que tu pourrais m'écrire 2-3 phrases sur ce que t'as vécu depuis qu'on travaille ensemble ? Qu'est-ce qui a changé pour toi concrètement ? Je t'en serais vraiment reconnaissant, ça m'aide énormément pour la suite."
-
-Utilise ces témoignages en stories, sur ton profil, et dans tes DMs de prospection dès que tu les reçois.
+Un client satisfait qui se sent suivi parle de toi. C'est ton levier de bouche-à-oreille le plus solide à ce stade.
 
 ---
 
@@ -36,40 +33,33 @@ Utilise ces témoignages en stories, sur ton profil, et dans tes DMs de prospect
 **Format : Instagram / TikTok**
 
 **Accroche :**
-À 40 ans, ce n'est pas ton niveau de forme qui détermine ta vie dans 20 ans. C'est ça.
+J'étais hyper discipliné. Et j'étais en mauvaise santé.
 
 ---
 
 **Texte :**
 
-La plupart des gens pensent que vieillir en bonne santé c'est une question de chance ou de génétique.
+Pendant des mois, j'ai suivi des plans d'entraînement copiés sur des athlètes professionnels.
 
-C'est faux.
+Je pesais mes aliments au gramme près. Je refusais de manger au restaurant. Je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
 
-Ce qui détermine si tu peux encore monter les escaliers à 75 ans sans t'essouffler, c'est ce que tu fais aujourd'hui avec ton corps.
+J'étais discipliné. Vraiment.
 
-Pas besoin de courir un marathon.
-Pas besoin de soulever 100kg.
-Pas besoin de manger parfait.
+Mais j'avais une relation toxique avec la nourriture. Une blessure à l'épaule que j'ignorais. Zéro vie sociale. Et paradoxalement, je prenais du poids à cause du stress chronique que je m'imposais.
 
-Ce dont tu as besoin :
+Ce que j'ai compris après des mois de reconstruction :
 
-- Bouger régulièrement, dans des patterns de mouvement complets (pas juste la salle)
-- Maintenir ta masse musculaire (clé n°1 de la longévité, souvent ignorée)
-- Dormir correctement
-- Manger assez, pas "propre"
+La discipline et la santé ne sont pas la même chose.
 
-Ces 4 habitudes simples, appliquées sur 10 ans, créent une différence radicale entre quelqu'un qui "survit" à 70 ans et quelqu'un qui vit vraiment.
+Aujourd'hui je coache des gens qui veulent s'entraîner intelligemment, manger pour vivre (pas pour les abdos), et bouger toute leur vie sans se détruire.
 
-Mon travail chez RSP Training : t'aider à construire ces habitudes pour qu'elles durent, pas juste pour l'été.
-
-Si tu veux savoir par où commencer, DM "LONGEVITE" et je te réponds personnellement.
+Si tu te reconnais dans mon ancienne façon de faire, glisse-moi un message. On en parle.
 
 ---
 
 **Hashtags :**
-#longevite #sportetsamte #vieillirenformé #coachsportif #movementismedicine #musculation #coachbelgique #rsptraining #fonctionnel #santeactive
+#coachsportif #sportsante #longevite #coachingfonctionnel #belgique #bruxelles #fitnesssante #modedeviesain #nutritionsaine #rsptraining
 
 ---
 
-> *Brief généré automatiquement le 2026-07-04*
+> *Brief généré automatiquement le 2026-07-07*
