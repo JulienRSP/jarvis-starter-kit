@@ -1,30 +1,33 @@
-# Brief RSP Training — 2026-07-07
+# Brief RSP Training — 2026-07-09
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Envoie 3 messages de prospection ciblés à des contacts tièdes aujourd'hui.**
+**Crée le formulaire court de qualification prospect aujourd'hui (30 min max).**
 
-Tu as une offre définie (Méthode RSP Transformation 8 semaines, 499€ lancement), ta philosophie est formalisée, tes 2 clients valident ton approche. Ce qui manque : de la visibilité active dans ton réseau proche.
+C'est le premier maillon de ta Méthode RSP. Sans lui, tu ne peux pas filtrer avant la séance découverte, et chaque contact demande une conversation manuelle. Avec lui, tu délègues la première étape.
 
 Action concrète :
-- Identifie 3 personnes dans ton téléphone qui correspondent à ton client idéal (quelqu'un qui se plaint de douleurs, de fatigue, de poids, ou qui manque de routine sportive)
-- Envoie ce message (à adapter) : "Salut [Prénom], je lance officiellement mon coaching RSP cet été, spécialisé sport-santé et fonctionnel. Si tu connais quelqu'un qui cherche à reprendre en main son corps sans se détruire, pense à moi. Ça m'aiderait beaucoup."
-- Ce soir tu es à BSport Berchem. Si l'occasion se présente avec un habitué, parle naturellement de ta démarche indépendante. Un échange humain vaut 10 posts.
+- Ouvre Google Forms (gratuit, rapide, compatible mobile)
+- 5 questions seulement : prénom + email, objectif principal en 1 phrase, depuis combien de temps ce problème existe, qu'est-ce qui a déjà été essayé, préférence présentiel ou en ligne
+- Message de fin : "Merci, je vous réponds sous 24h avec les prochaines étapes."
+- Copie le lien et colle-le dans ta bio Instagram dès ce soir
+
+Ce formulaire vaut mieux qu'une page de vente complète à ce stade. Il agit immédiatement.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de suivi personnalisé à chacun de tes 2 clients cette semaine.**
+**Demande un témoignage écrit à l'un de tes 2 clients cette semaine.**
 
-Un message court entre les séances renforce l'attachement et prépare le terrain pour un renouvellement ou une recommandation.
+Tu as des clients qui avancent. Leurs mots vendent mieux que les tiens. Un témoignage de 3-4 lignes sur ce qu'ils ont changé dans leur quotidien depuis qu'ils travaillent avec toi, c'est du contenu et de la preuve sociale pour tes prochains prospects.
 
-Message type (à adapter) :
-"Salut [Prénom], je pensais à toi. Comment tu te sens depuis notre dernière séance ? Un truc à noter pour qu'on ajuste la prochaine ?"
+Message type (envoie à celui qui semble le plus engagé en ce moment) :
+"Salut [Prénom], ça fait [durée] qu'on travaille ensemble. Est-ce que tu aurais 5 minutes pour m'écrire 2-3 phrases sur ce que t'a apporté notre collaboration ? Je veux l'utiliser pour présenter mon travail à de nouveaux clients. Pas besoin que ce soit long, juste sincère."
 
-Un client satisfait qui se sent suivi parle de toi. C'est ton levier de bouche-à-oreille le plus solide à ce stade.
+Garde le témoignage dans un fichier dédié. Il servira pour ton site, tes DMs prospects, et tes posts.
 
 ---
 
@@ -33,33 +36,27 @@ Un client satisfait qui se sent suivi parle de toi. C'est ton levier de bouche-�
 **Format : Instagram / TikTok**
 
 **Accroche :**
-J'étais hyper discipliné. Et j'étais en mauvaise santé.
-
----
+> À 60 ans, ton corps peut encore faire des trucs que tu n'imagines pas.
 
 **Texte :**
+La plupart des gens pensent que vieillir = perdre de la force, perdre de la mobilité, accepter les douleurs.
 
-Pendant des mois, j'ai suivi des plans d'entraînement copiés sur des athlètes professionnels.
+C'est faux.
 
-Je pesais mes aliments au gramme près. Je refusais de manger au restaurant. Je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
+Ce qu'on perd avec l'âge, c'est principalement ce qu'on arrête de faire.
 
-J'étais discipliné. Vraiment.
+Les études sont claires : la sarcopénie (perte musculaire) n'est pas une fatalité. Elle est en grande partie liée à l'inactivité. Et elle est réversible, même après 65 ans, même après des années sans sport.
 
-Mais j'avais une relation toxique avec la nourriture. Une blessure à l'épaule que j'ignorais. Zéro vie sociale. Et paradoxalement, je prenais du poids à cause du stress chronique que je m'imposais.
+Ce que je vois à BSport chaque semaine : des personnes de 60, 70, 80 ans qui retrouvent de l'équilibre, de la force, de la mobilité. Pas parce qu'ils sont exceptionnels. Parce qu'ils bougent intelligemment et régulièrement.
 
-Ce que j'ai compris après des mois de reconstruction :
+Le meilleur moment pour commencer, c'était il y a 10 ans.
+Le deuxième meilleur moment, c'est maintenant.
 
-La discipline et la santé ne sont pas la même chose.
-
-Aujourd'hui je coache des gens qui veulent s'entraîner intelligemment, manger pour vivre (pas pour les abdos), et bouger toute leur vie sans se détruire.
-
-Si tu te reconnais dans mon ancienne façon de faire, glisse-moi un message. On en parle.
-
----
+Tu cherches à bouger mieux, avec quelqu'un qui comprend ton corps et ton rythme ? Dis-le moi en DM.
 
 **Hashtags :**
-#coachsportif #sportsante #longevite #coachingfonctionnel #belgique #bruxelles #fitnesssante #modedeviesain #nutritionsaine #rsptraining
+#longevite #sportsante #senior #coachsportif #vieillirenbonnesante #mobilite #sarcopenie #belgique #bruxelles #rsptraining
 
 ---
 
-> *Brief généré automatiquement le 2026-07-07*
+> *Brief généré automatiquement le 2026-07-09*
