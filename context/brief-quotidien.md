@@ -1,62 +1,60 @@
-# Brief RSP Training — 2026-07-09
+# Brief du jour — 2026-07-13
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Crée le formulaire court de qualification prospect aujourd'hui (30 min max).**
+**Rédige le texte de ta page "Mon histoire" pour le site RSP Training.**
 
-C'est le premier maillon de ta Méthode RSP. Sans lui, tu ne peux pas filtrer avant la séance découverte, et chaque contact demande une conversation manuelle. Avec lui, tu délègues la première étape.
+Prends 20-30 minutes aujourd'hui. Le site n'a pas besoin d'être en ligne pour commencer. L'objectif : avoir la version brouillon de ton histoire en 3-4 paragraphes courts (musculation classique, relation malsaine avec la nutrition, blessure épaule novembre 2025, reconstruction 2026, philosophie fonctionnelle qui en est née). C'est ton différenciateur numéro 1. Aucun autre coach en Belgique n'a cette trajectoire. Et elle n'existe encore nulle part en ligne.
 
-Action concrète :
-- Ouvre Google Forms (gratuit, rapide, compatible mobile)
-- 5 questions seulement : prénom + email, objectif principal en 1 phrase, depuis combien de temps ce problème existe, qu'est-ce qui a déjà été essayé, préférence présentiel ou en ligne
-- Message de fin : "Merci, je vous réponds sous 24h avec les prochaines étapes."
-- Copie le lien et colle-le dans ta bio Instagram dès ce soir
-
-Ce formulaire vaut mieux qu'une page de vente complète à ce stade. Il agit immédiatement.
+Sauvegarde le fichier dans `livrables/rsp-training/histoire-personnelle.md` pour l'avoir à portée quand le site sera prêt.
 
 ---
 
 ## 2. Action client
 
-**Demande un témoignage écrit à l'un de tes 2 clients cette semaine.**
+**Envoie un message vocal WhatsApp à chacun de tes 2 clients cette semaine, avant vendredi.**
 
-Tu as des clients qui avancent. Leurs mots vendent mieux que les tiens. Un témoignage de 3-4 lignes sur ce qu'ils ont changé dans leur quotidien depuis qu'ils travaillent avec toi, c'est du contenu et de la preuve sociale pour tes prochains prospects.
+Contenu : une victoire concrète observée. Exemple : "J'ai remarqué que ta mobilité a vraiment progressé depuis le début" ou "Tu soulèves maintenant ce que tu ne pouvais pas faire il y a 6 semaines." Pas de demande directe de recommandation. Un vrai point de progrès, sincère et précis.
 
-Message type (envoie à celui qui semble le plus engagé en ce moment) :
-"Salut [Prénom], ça fait [durée] qu'on travaille ensemble. Est-ce que tu aurais 5 minutes pour m'écrire 2-3 phrases sur ce que t'a apporté notre collaboration ? Je veux l'utiliser pour présenter mon travail à de nouveaux clients. Pas besoin que ce soit long, juste sincère."
-
-Garde le témoignage dans un fichier dédié. Il servira pour ton site, tes DMs prospects, et tes posts.
+Objectif : déclencher naturellement un "je peux en parler à quelqu'un que je connais ?" La recommandation chaude reste le canal d'acquisition le plus efficace à ton stade.
 
 ---
 
-## 3. Contenu prêt à publier
+## 3. Contenu prêt
 
-**Format : Instagram / TikTok**
+**Post Instagram / TikTok**
 
 **Accroche :**
-> À 60 ans, ton corps peut encore faire des trucs que tu n'imagines pas.
+J'avais 0 vie sociale, 3h de sommeil, et je croyais que j'étais en bonne santé.
 
 **Texte :**
-La plupart des gens pensent que vieillir = perdre de la force, perdre de la mobilité, accepter les douleurs.
+Un soir de festival, j'ai dormi 3h pour ne pas rater ma séance du matin.
 
-C'est faux.
+Je calculais chaque gramme de nourriture.
+Je refusais le gâteau de ma mère.
+Je ne mangeais pas au restaurant.
 
-Ce qu'on perd avec l'âge, c'est principalement ce qu'on arrête de faire.
+J'avais une discipline de fer.
 
-Les études sont claires : la sarcopénie (perte musculaire) n'est pas une fatalité. Elle est en grande partie liée à l'inactivité. Et elle est réversible, même après 65 ans, même après des années sans sport.
+Et je n'étais pas en bonne santé.
 
-Ce que je vois à BSport chaque semaine : des personnes de 60, 70, 80 ans qui retrouvent de l'équilibre, de la force, de la mobilité. Pas parce qu'ils sont exceptionnels. Parce qu'ils bougent intelligemment et régulièrement.
+Ce n'est pas la même chose.
 
-Le meilleur moment pour commencer, c'était il y a 10 ans.
-Le deuxième meilleur moment, c'est maintenant.
+Pendant des mois, j'ai forcé sur une épaule blessée. Aujourd'hui elle est chronique. Elle est aussi devenue le symbole de ma transformation.
 
-Tu cherches à bouger mieux, avec quelqu'un qui comprend ton corps et ton rythme ? Dis-le moi en DM.
+Ce que j'ai compris : la vraie santé, c'est bouger avec plaisir. Manger avec plaisir. Dormir. Avoir une vie. Et progresser quand même.
+
+Ce n'est pas de la discipline aveugle. C'est de la conscience.
+
+C'est ça que j'enseigne aujourd'hui.
+
+Si cette phrase te parle, dis-le en commentaire. J'aimerais savoir pourquoi.
 
 **Hashtags :**
-#longevite #sportsante #senior #coachsportif #vieillirenbonnesante #mobilite #sarcopenie #belgique #bruxelles #rsptraining
+#sportsanté #longévité #coachsportif #mouvement #bienvieillir #coachingholiste #transformationphysique #santédurable #coachbelgique #RSPTraining
 
 ---
 
-> *Brief généré automatiquement le 2026-07-09*
+> *Brief généré automatiquement le 2026-07-13*
