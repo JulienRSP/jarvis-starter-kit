@@ -1,22 +1,28 @@
-# Brief RSP Training — 2026-07-17
+# Brief RSP Training — 2026-07-24
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Contacte 3 personnes de ton entourage direct aujourd'hui pour présenter la méthode RSP.**
+**Envoie 5 messages de prospection directe sur Instagram aujourd'hui.**
 
-Pas un message copier-coller. Pour chaque personne, une phrase qui part de leur situation réelle (stress, douleurs, sédentarité, envie de changement) et une question ouverte. Exemple : "Je me souviens que tu m'avais dit que ton dos te faisait souffrir depuis quelques mois. J'ai une approche qui pourrait vraiment t'aider, t'aurais 10 min pour qu'on en parle ?"
+Tu as l'offre (Méthode RSP 8 semaines, 499€ lancement) et ton histoire personnelle comme différenciateur. Action concrète : identifie 5 profils dans ton réseau direct (anciens contacts de salle, connaissances qui ont déjà parlé de sport ou de poids, personnes qui likent tes posts) et envoie ce message :
 
-Tu es en juillet, tu as 2 clients, il t'en faut 5. C'est maintenant que ça se joue, pas quand le site sera parfait.
+> "Salut [Prénom], [contexte personnel / tu likais mes posts sur le sport-santé] et ça m'a fait penser à toi. Je propose des séances découverte gratuites ce mois-ci pour les personnes qui veulent reprendre l'activité physique sur le long terme, sans se blesser et sans les approches trop restrictives. Tu serais intéressé(e) à qu'on en discute 15 min ?"
+
+Pas de pitch produit direct. Une conversation ouverte. 5 messages envoyés = action commerciale réelle aujourd'hui.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de check-in à tes 2 clients actuels aujourd'hui.**
+**Demande un témoignage à tes 2 clients actuels, sous forme de 3 phrases simples.**
 
-Une seule question : "Comment tu te sens cette semaine, tu remarques des changements ?" Double objectif : renforcer la relation, et ouvrir la porte à un retour positif utilisable en témoignage. Si la réponse est bonne, pose la question directement : "Est-ce qu'il y a quelqu'un dans ton entourage qui pourrait bénéficier du même accompagnement ?"
+Tes clients existants sont ta meilleure preuve sociale. Envoie-leur ce message aujourd'hui :
+
+> "J'ai une petite faveur à te demander : est-ce que tu pourrais me décrire en 2-3 phrases ce que tu ressens depuis qu'on travaille ensemble ? Ce sera utilisé sur mon compte Instagram pour montrer ce que j'apporte concrètement. Pas besoin que ce soit long, juste honnête."
+
+Utilise ces témoignages dans tes stories, dans tes messages de prospection, sur ton futur site. C'est un levier sous-utilisé quand on cherche de nouveaux clients.
 
 ---
 
@@ -27,40 +33,40 @@ Une seule question : "Comment tu te sens cette semaine, tu remarques des changem
 ---
 
 **Accroche :**
-J'étais extrêmement discipliné. Et pourtant, je n'étais pas en bonne santé.
+"Je m'entraînais 6 fois par semaine. Je refusais le gâteau de ma mère. J'étais épuisé. Et j'appelais ça de la discipline."
 
 ---
 
 **Texte :**
-Pendant des mois, je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
-Je refusais de manger au restaurant.
-Je refusais le gâteau de ma mère.
-Je comptais chaque gramme dans mon assiette.
+J'ai longtemps confondu discipline et santé.
 
-J'avais une discipline de fer.
+J'étais extrêmement discipliné : réveil à 7h après 3h de sommeil, calcul au gramme près, aucun écart toléré. Je refusais les restos, les vacances "normales", le gâteau de ma mère.
 
-Et j'ai fini avec une épaule chronique, une relation toxique avec la nourriture, et zéro vie sociale.
+J'avais l'air en forme. Je n'étais pas en bonne santé.
 
-Ce jour-là, j'ai compris quelque chose que personne ne m'avait jamais dit :
-Discipline et santé, ce ne sont pas la même chose.
+Ce que personne ne m'a dit à l'époque :
+- Le stress chronique fait grossir, pas maigrir
+- L'entraînement sans récupération détruit le corps
+- Une relation malsaine avec la nourriture sabote tous tes résultats
+- La discipline sans plaisir ne dure jamais longtemps
 
-Tu peux t'entraîner dur et te détruire.
-Tu peux manger "propre" et souffrir psychologiquement.
-Tu peux être hyper rigoureux et être épuisé en permanence.
+Blessure à l'épaule. Burnout du corps. Reconstruction complète.
 
-La vraie santé, c'est encore là dans 30 ans.
-C'est bouger parce que tu aimes ça, pas parce que tu culpabilises.
-C'est manger sans compter, sans stresser, sans sacrifier ta vie.
+Aujourd'hui j'aide des gens à bouger parce qu'ils aiment bouger, pas parce qu'ils s'y forcent. À manger bien sans se priver. À être en forme dans 20 ans, pas juste pour cet été.
 
-C'est ça que j'enseigne maintenant.
+C'est ça, le sport-santé. C'est pour ça que j'ai créé RSP Training.
 
-Si tu veux construire ça, pas juste tenir 8 semaines, envoie-moi un DM.
+Si tu veux qu'on en parle, j'ai des créneaux disponibles en juillet. Lien en bio.
 
 ---
 
 **Hashtags :**
-#sportsanté #longévité #coachsportif #coachingbelgique #mouvement #bienêtre #santédurable #transformation #coachholiste #RSPTraining
+#RSPTraining #SportSanté #CoachingSportif #Longévité #BienEtreDurable #NutritionSaine #MouvementPourLaVie #CoachBelgique #FitnessRéel #TransformationDurable
 
 ---
 
-*Brief généré automatiquement le 2026-07-17*
+*Astuce publication : utilise une photo naturelle (entraînement, plein air, ou toi en action) plutôt qu'une image très "produite". L'authenticité du texte doit se retrouver dans le visuel.*
+
+---
+
+*Brief généré automatiquement le 2026-07-24*
