@@ -1,72 +1,57 @@
-# Brief RSP Training — 2026-07-24
-
----
+# Brief RSP — 2026-07-25
 
 ## 1. Focus RSP du jour
 
-**Envoie 5 messages de prospection directe sur Instagram aujourd'hui.**
+**Tâche : rédiger et envoyer 3 DM Instagram de prospection aujourd'hui**
 
-Tu as l'offre (Méthode RSP 8 semaines, 499€ lancement) et ton histoire personnelle comme différenciateur. Action concrète : identifie 5 profils dans ton réseau direct (anciens contacts de salle, connaissances qui ont déjà parlé de sport ou de poids, personnes qui likent tes posts) et envoie ce message :
-
-> "Salut [Prénom], [contexte personnel / tu likais mes posts sur le sport-santé] et ça m'a fait penser à toi. Je propose des séances découverte gratuites ce mois-ci pour les personnes qui veulent reprendre l'activité physique sur le long terme, sans se blesser et sans les approches trop restrictives. Tu serais intéressé(e) à qu'on en discute 15 min ?"
-
-Pas de pitch produit direct. Une conversation ouverte. 5 messages envoyés = action commerciale réelle aujourd'hui.
+- Base le message sur ton histoire personnelle : blessure épaule + reconstruction + transformation de ta vision du fitness
+- Structure en 3 blocs courts : douleur probable du prospect ("tu cherches à [objectif] mais...") + ton vécu en 1 phrase ("moi j'ai vécu ça...") + invitation ouverte ("dis-moi où tu en es en ce moment")
+- Envoie à : 3 contacts proches qui ne s'entrainent pas encore, qui ont abandonné, ou qui ont liké un de tes posts récents
+- Objectif du jour : ouvrir 1 conversation. Pas vendre. Juste discuter.
 
 ---
 
 ## 2. Action client
 
-**Demande un témoignage à tes 2 clients actuels, sous forme de 3 phrases simples.**
+**Envoyer un message de recommandation à tes 2 clients actuels**
 
-Tes clients existants sont ta meilleure preuve sociale. Envoie-leur ce message aujourd'hui :
+Message suggéré (à adapter selon la relation) :
 
-> "J'ai une petite faveur à te demander : est-ce que tu pourrais me décrire en 2-3 phrases ce que tu ressens depuis qu'on travaille ensemble ? Ce sera utilisé sur mon compte Instagram pour montrer ce que j'apporte concrètement. Pas besoin que ce soit long, juste honnête."
+> "Salut [Prénom], content qu'on travaille ensemble. Si tu connais quelqu'un dans ton entourage qui voudrait se remettre en mouvement ou gagner en énergie, parle-lui de moi. Si ça aboutit à une signature, ta prochaine séance est offerte."
 
-Utilise ces témoignages dans tes stories, dans tes messages de prospection, sur ton futur site. C'est un levier sous-utilisé quand on cherche de nouveaux clients.
-
----
-
-## 3. Contenu prêt
-
-**Post Instagram / TikTok**
+- Simple, humain, pas un flyer
+- Si tu les vois cette semaine, dis-le à voix haute plutôt que par message
+- 1 recommandation d'un client qui te fait confiance vaut 10 posts Instagram
 
 ---
 
-**Accroche :**
-"Je m'entraînais 6 fois par semaine. Je refusais le gâteau de ma mère. J'étais épuisé. Et j'appelais ça de la discipline."
+## 3. Contenu prêt — Post Instagram / TikTok
+
+**ACCROCHE :**
+J'étais plus discipliné que la plupart des gens que tu connais. Et pourtant, j'étais en mauvaise santé.
+
+**TEXTE :**
+Lever à 7h après 3h de sommeil pour ne pas rater ma séance.
+Refuser le gâteau de ma mère pour "rester dans mes macros".
+Ignorer une douleur à l'épaule pendant des mois parce que "la douleur c'est la faiblesse qui quitte le corps".
+
+J'étais extrêmement discipliné.
+Je n'étais pas en bonne santé.
+
+La différence entre discipline et santé, c'est ce que la culture fitness ne te dit jamais.
+
+La santé, c'est pas un sacrifice. C'est un mode de vie que tu construis pour tenir 40 ans, pas pour rentrer dans un jean dans 4 semaines.
+
+Mobilité, énergie, sommeil, force fonctionnelle.
+Manger pour vivre, pas juste pour tes abdos.
+Bouger parce que tu aimes ça, pas parce que tu dois brûler des calories.
+
+C'est ça, le sport-santé.
+Et ça commence par une conversation honnête avec toi-même.
+
+**HASHTAGS :**
+#sportsante #longevite #mobilite #coachingfonctionnel #bienetre #coachsportif #activitephysique #sante #mouvement #RSPTraining
 
 ---
 
-**Texte :**
-J'ai longtemps confondu discipline et santé.
-
-J'étais extrêmement discipliné : réveil à 7h après 3h de sommeil, calcul au gramme près, aucun écart toléré. Je refusais les restos, les vacances "normales", le gâteau de ma mère.
-
-J'avais l'air en forme. Je n'étais pas en bonne santé.
-
-Ce que personne ne m'a dit à l'époque :
-- Le stress chronique fait grossir, pas maigrir
-- L'entraînement sans récupération détruit le corps
-- Une relation malsaine avec la nourriture sabote tous tes résultats
-- La discipline sans plaisir ne dure jamais longtemps
-
-Blessure à l'épaule. Burnout du corps. Reconstruction complète.
-
-Aujourd'hui j'aide des gens à bouger parce qu'ils aiment bouger, pas parce qu'ils s'y forcent. À manger bien sans se priver. À être en forme dans 20 ans, pas juste pour cet été.
-
-C'est ça, le sport-santé. C'est pour ça que j'ai créé RSP Training.
-
-Si tu veux qu'on en parle, j'ai des créneaux disponibles en juillet. Lien en bio.
-
----
-
-**Hashtags :**
-#RSPTraining #SportSanté #CoachingSportif #Longévité #BienEtreDurable #NutritionSaine #MouvementPourLaVie #CoachBelgique #FitnessRéel #TransformationDurable
-
----
-
-*Astuce publication : utilise une photo naturelle (entraînement, plein air, ou toi en action) plutôt qu'une image très "produite". L'authenticité du texte doit se retrouver dans le visuel.*
-
----
-
-*Brief généré automatiquement le 2026-07-24*
+*Brief généré automatiquement le 2026-07-25*
