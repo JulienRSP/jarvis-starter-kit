@@ -1,57 +1,54 @@
-# Brief RSP — 2026-07-25
+# Brief RSP — 2026-07-26
 
 ## 1. Focus RSP du jour
 
-**Tâche : rédiger et envoyer 3 DM Instagram de prospection aujourd'hui**
+**Tâche : envoie 3 messages de prospection à chaud à des personnes précises de ton entourage**
 
-- Base le message sur ton histoire personnelle : blessure épaule + reconstruction + transformation de ta vision du fitness
-- Structure en 3 blocs courts : douleur probable du prospect ("tu cherches à [objectif] mais...") + ton vécu en 1 phrase ("moi j'ai vécu ça...") + invitation ouverte ("dis-moi où tu en es en ce moment")
-- Envoie à : 3 contacts proches qui ne s'entrainent pas encore, qui ont abandonné, ou qui ont liké un de tes posts récents
-- Objectif du jour : ouvrir 1 conversation. Pas vendre. Juste discuter.
+- Cible des proches de 35-60 ans qui ont mentionné une douleur, une blessure, ou l'envie de "se remettre en forme"
+- Pas des inconnus. Des gens que tu connais déjà et à qui tu penses spontanément
+- Structure du message (à personnaliser) :
+  > "Salut [Prénom], je pense à toi parce que [raison précise liée à cette personne]. Je développe mon activité de coaching sport-santé à domicile et je cherche 2-3 nouvelles personnes à accompagner. Si ça t'intéresse qu'on se parle 15 minutes, dis-le-moi."
+- Un dimanche, les gens sont disponibles et lisent leurs messages. Bon timing.
+- Objectif du jour : 3 messages envoyés, 1 réponse minimum
 
 ---
 
 ## 2. Action client
 
-**Envoyer un message de recommandation à tes 2 clients actuels**
+**Check-in personnalisé pour tes 2 clients fixes cette semaine**
 
-Message suggéré (à adapter selon la relation) :
-
-> "Salut [Prénom], content qu'on travaille ensemble. Si tu connais quelqu'un dans ton entourage qui voudrait se remettre en mouvement ou gagner en énergie, parle-lui de moi. Si ça aboutit à une signature, ta prochaine séance est offerte."
-
-- Simple, humain, pas un flyer
-- Si tu les vois cette semaine, dis-le à voix haute plutôt que par message
-- 1 recommandation d'un client qui te fait confiance vaut 10 posts Instagram
+- Envoie à chacun un message court qui mentionne un élément spécifique à leur situation : un progrès observé, un ajustement prévu, ou une intention pour la prochaine séance
+- Exemple : "Je pensais à toi, on va commencer à intégrer [exercice/objectif] dès la prochaine séance. Dis-moi comment tu te sens en ce moment."
+- Ajoute à la fin : "Est-ce que tu connais quelqu'un à qui mes séances pourraient faire du bien ?" C'est ton premier levier de bouche-à-oreille structuré
 
 ---
 
 ## 3. Contenu prêt — Post Instagram / TikTok
 
 **ACCROCHE :**
-J'étais plus discipliné que la plupart des gens que tu connais. Et pourtant, j'étais en mauvaise santé.
+T'as 40 ans et tu commences à sentir la raideur le matin ? Voilà ce que ça veut vraiment dire.
 
 **TEXTE :**
-Lever à 7h après 3h de sommeil pour ne pas rater ma séance.
-Refuser le gâteau de ma mère pour "rester dans mes macros".
-Ignorer une douleur à l'épaule pendant des mois parce que "la douleur c'est la faiblesse qui quitte le corps".
+La raideur au réveil, c'est pas l'âge.
 
-J'étais extrêmement discipliné.
-Je n'étais pas en bonne santé.
+C'est le signal que ton corps envoie quand il manque de mouvement.
 
-La différence entre discipline et santé, c'est ce que la culture fitness ne te dit jamais.
+Tes muscles se rappellent des positions où tu passes le plus de temps. 8h assis chaque jour ? Ton corps s'adapte à ça. Et il te le fait payer le matin.
 
-La santé, c'est pas un sacrifice. C'est un mode de vie que tu construis pour tenir 40 ans, pas pour rentrer dans un jean dans 4 semaines.
+La mobilité, c'est pas un truc de yoga réservé aux souplissimes. C'est ta capacité à te déplacer sans douleur, sans compensation, sans perdre 10 minutes à "te dérouiller" chaque matin.
 
-Mobilité, énergie, sommeil, force fonctionnelle.
-Manger pour vivre, pas juste pour tes abdos.
-Bouger parce que tu aimes ça, pas parce que tu dois brûler des calories.
+Ce que j'enseigne à mes clients :
+- 10 minutes par jour suffisent pour changer la donne
+- La progression est mesurable, semaine après semaine
+- Ça impacte ton sport, ton travail et ta qualité de vie à 60, 70, 80 ans
 
-C'est ça, le sport-santé.
-Et ça commence par une conversation honnête avec toi-même.
+L'entraînement fonctionnel n'est pas une option. C'est la base de tout le reste.
+
+Tu veux qu'on parle de ta situation ? Lien en bio.
 
 **HASHTAGS :**
-#sportsante #longevite #mobilite #coachingfonctionnel #bienetre #coachsportif #activitephysique #sante #mouvement #RSPTraining
+#sportsante #longevite #mobilitecorporelle #coachsportbelgique #coachingadomicile #mouvementfonctionnel #rsptraining #bienvieillir #coachsante #vivremieux
 
 ---
 
-*Brief généré automatiquement le 2026-07-25*
+*Brief généré automatiquement le 2026-07-26*
