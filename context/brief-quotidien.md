@@ -1,71 +1,65 @@
-# Brief RSP Training — 2026-07-29
+# Brief RSP Training — 2026-08-01
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige ta page "Mon histoire" pour le site RSP.**
+**Prépare ton message de prospection "rentrée de septembre" et envoie-le à 5 contacts ciblés**
 
-C'est le levier de différenciation le plus fort que tu as, et il n'est pas encore exploité en ligne. Ton parcours (musculation classique, relation malsaine avec la nutrition, blessure épaule, reconstruction) est exactement ce que ton prospect cible a besoin de lire pour te faire confiance.
+La rentrée est dans 4 à 5 semaines. Les gens commencent à y penser maintenant, mais ils n'ont pas encore choisi leur coach. C'est la fenêtre parfaite pour toi.
 
-Action concrète : ouvre un doc (ou un fichier dans le repo) et rédige ta story en 3 blocs :
-- Avant : qui tu étais, ce que tu vivais
-- Le déclic : la blessure, le kiné, la prise de conscience
-- Maintenant : ce que tu fais et pourquoi tu le fais différemment
+Action concrète :
+- Identifie 5 contacts précis : anciens camarades de classe, personnes croisées à BSport, personnes qui ont déjà commenté un post, connaissances qui t'ont dit "faudrait que je me remette au sport"
+- Rédige un message court et non-intrusif (pas un pitch, une vraie prise de contact) : "Coucou [Prénom], je pense à toi avec la rentrée qui approche. Tu avais mentionné vouloir reprendre le sport, tu en es où par rapport à ça ?" ou équivalent naturel
+- Envoie les 5 messages aujourd'hui, pas en batch automatisé, un par un avec personnalisation
 
-Objectif : 200 à 350 mots, ton vrai vocabulaire, pas du copywriting forcé. Ce texte ira directement sur le site et dans tes posts.
+Objectif minimum : 2 réponses qui ouvrent une conversation.
 
 ---
 
 ## 2. Action client
 
-**Demande un témoignage à tes 2 clients actuels cette semaine.**
+**Envoie un message de suivi personnalisé à chacun de tes 2 clients actuels**
 
-Envoie un message WhatsApp court et simple (pas un formulaire, pas un sondage) :
+Format direct, à adapter à chaque personne :
 
-> "Hey [Prénom], je développe ma communication RSP en ce moment. Est-ce que tu pourrais me dire en 1 ou 2 phrases ce que le coaching t'a apporté jusqu'ici ? Même quelque chose de simple, c'est parfait."
+> "Coucou [Prénom], petite pensée pour toi. Comment tu te sens depuis notre dernière séance ? [Note un détail concret de leur progression récente]. La rentrée approche, je réfléchis à la suite pour toi."
 
-Tu peux envoyer ça dès aujourd'hui. Ces témoignages deviennent ta preuve sociale de base : dans les posts, sur le site, dans tes DMs de prospection. Sans preuve sociale, l'offre flotte dans le vide.
+Après leur réponse, glisse naturellement :
+> "D'ailleurs, si tu connais quelqu'un qui cherche à reprendre le sport sérieusement en septembre, pense à moi. Je prépare des places pour la rentrée."
 
----
-
-## 3. Contenu prêt à publier
-
-**Post Instagram ou TikTok — Thème : discipline vs santé**
+C'est du suivi, de la fidélisation et de la prospection en un seul message. 10 minutes de travail, potentiel de 2 leads supplémentaires via référencement.
 
 ---
 
-**Accroche :**
-J'étais hyper discipliné. Je n'étais pas en bonne santé.
+## 3. Contenu prêt
 
----
+**Post Instagram ou TikTok**
 
-**Texte :**
-Je me levais à 7h après 3h de sommeil pour ne pas rater ma séance.
+Accroche :
+"Tu perds ta mobilité depuis 30 ans. Tu ne t'en rends compte qu'à 50."
 
-Je refusais le gâteau de ma mère. Je comptais chaque gramme.
+Texte :
+Le vrai problème, c'est pas le poids.
+C'est pas le cardio.
 
-J'étais "propre" sur le papier. Et j'ai quand même fini avec une épaule fichue, une relation toxique avec la bouffe, et zéro vie sociale.
+C'est que tu as arrêté de bouger normalement depuis si longtemps que ton corps a oublié comment faire.
 
-La discipline, ça peut te détruire si elle n'est pas au service de ta santé.
+Tu peux plus te baisser sans douleur.
+Tu peux plus lever les bras sans tension dans les épaules.
+Tu t'assois toujours pareil, tu dors toujours pareil, tu travailles toujours pareil.
 
-Ce que je coach aujourd'hui, c'est l'inverse de ce que je vivais :
+Et un jour tu te réveilles avec 50 ans, des douleurs chroniques, et personne pour t'expliquer pourquoi.
 
-Bouger parce que tu aimes ça, pas parce que tu te sens obligé.
-Manger pour avoir de l'énergie, pas pour compenser ou punir.
-Dormir. Vraiment dormir.
-Gérer le stress comme une variable d'entraînement, pas comme une honte.
+La mobilité, ça se travaille. Maintenant.
+Pas dans 10 ans, pas quand tu auras mal.
 
-Tu peux être en très bonne santé sans être parfait.
-Tu peux aimer bouger sans te flageller si tu rates un jour.
+Ce que je fais avec mes clients, c'est pas "perdre du poids pour l'été".
+C'est apprendre à leur corps à fonctionner correctement pour les 30 prochaines années.
 
-La vraie discipline, c'est construire un mode de vie que tu n'as pas envie de fuir.
+Un body qui bouge bien vieillit bien.
 
-C'est ça, RSP Training.
+La rentrée approche. Si tu veux qu'on regarde ta situation ensemble, DM ouvert.
 
----
-
-**Hashtags :**
-#sportetlongevite #sportsante #coachinghybride #mouvementcommemoddevie #longevite #santeglobale #coachbruxelles #RSPtraining #bienetre #activitephysique
-
----
+Hashtags :
+#Mobilité #Longévité #SportSanté #CoachSantéBruxelles #RSPTraining #BienVieillir #MouvementFonctionnel #SantéDurable #FitnessLongévité #ActiverSonCorps
