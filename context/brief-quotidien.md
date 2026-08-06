@@ -1,65 +1,67 @@
-# Brief RSP Training — 2026-08-01
+# Brief du 2026-08-06
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Prépare ton message de prospection "rentrée de septembre" et envoie-le à 5 contacts ciblés**
+**Construire une page "Offre" sur le site RSP Training.**
 
-La rentrée est dans 4 à 5 semaines. Les gens commencent à y penser maintenant, mais ils n'ont pas encore choisi leur coach. C'est la fenêtre parfaite pour toi.
+Août est le mois idéal pour préparer la rentrée de septembre, qui est traditionnellement la meilleure période pour signer des clients coaching. Tu as la Méthode RSP Transformation 8 semaines formalisée (499€ lancement). L'action concrète du jour : rédiger le texte de la page offre principale sur ton site (headline, sous-titre, les 3 bénéfices clés, ce que comprend l'accompagnement, prix, et CTA clair "Réserver ta séance découverte").
 
-Action concrète :
-- Identifie 5 contacts précis : anciens camarades de classe, personnes croisées à BSport, personnes qui ont déjà commenté un post, connaissances qui t'ont dit "faudrait que je me remette au sport"
-- Rédige un message court et non-intrusif (pas un pitch, une vraie prise de contact) : "Coucou [Prénom], je pense à toi avec la rentrée qui approche. Tu avais mentionné vouloir reprendre le sport, tu en es où par rapport à ça ?" ou équivalent naturel
-- Envoie les 5 messages aujourd'hui, pas en batch automatisé, un par un avec personnalisation
-
-Objectif minimum : 2 réponses qui ouvrent une conversation.
+Pas besoin que ce soit parfait. Une page publiée à 80% vaut mieux qu'une page parfaite jamais en ligne.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de suivi personnalisé à chacun de tes 2 clients actuels**
+**Demander une référence à tes 2 clients actuels, formulé simplement.**
 
-Format direct, à adapter à chaque personne :
+Message type à envoyer aujourd'hui par WhatsApp à chacun :
 
-> "Coucou [Prénom], petite pensée pour toi. Comment tu te sens depuis notre dernière séance ? [Note un détail concret de leur progression récente]. La rentrée approche, je réfléchis à la suite pour toi."
+> "Bonjour [Prénom], j'espère que tu vas bien ! Je développe mon activité coaching en ce moment et je cherche quelques nouveaux clients pour septembre. Est-ce que tu connais quelqu'un dans ton entourage qui pourrait bénéficier d'un accompagnement sport-santé ? Pas besoin que ce soit parfait comme profil, je m'adapte à chaque personne. Merci d'avance !"
 
-Après leur réponse, glisse naturellement :
-> "D'ailleurs, si tu connais quelqu'un qui cherche à reprendre le sport sérieusement en septembre, pense à moi. Je prépare des places pour la rentrée."
-
-C'est du suivi, de la fidélisation et de la prospection en un seul message. 10 minutes de travail, potentiel de 2 leads supplémentaires via référencement.
+C'est court, naturel, et tes clients actuels sont tes meilleurs ambassadeurs. Un seul "oui" peut te ramener un 3e client sans effort.
 
 ---
 
 ## 3. Contenu prêt
 
-**Post Instagram ou TikTok**
+**Post Instagram / TikTok**
 
-Accroche :
-"Tu perds ta mobilité depuis 30 ans. Tu ne t'en rends compte qu'à 50."
+---
 
-Texte :
-Le vrai problème, c'est pas le poids.
-C'est pas le cardio.
+**ACCROCHE :**
+J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
 
-C'est que tu as arrêté de bouger normalement depuis si longtemps que ton corps a oublié comment faire.
+---
 
-Tu peux plus te baisser sans douleur.
-Tu peux plus lever les bras sans tension dans les épaules.
-Tu t'assois toujours pareil, tu dors toujours pareil, tu travailles toujours pareil.
+**TEXTE :**
+Pendant des mois, je me levais à 7h après 3h de sommeil pour ne pas rater ma séance.
 
-Et un jour tu te réveilles avec 50 ans, des douleurs chroniques, et personne pour t'expliquer pourquoi.
+Je refusais de manger le gâteau de ma mère.
+Je comptais tout au gramme près.
+Je ne sortais plus au restaurant.
 
-La mobilité, ça se travaille. Maintenant.
-Pas dans 10 ans, pas quand tu auras mal.
+Sur le papier : discipline de fer.
+Dans ma tête : une prison.
 
-Ce que je fais avec mes clients, c'est pas "perdre du poids pour l'été".
-C'est apprendre à leur corps à fonctionner correctement pour les 30 prochaines années.
+Et j'étais blessé, épuisé, et de moins en moins heureux.
 
-Un body qui bouge bien vieillit bien.
+La discipline et la santé, ce n'est pas la même chose.
 
-La rentrée approche. Si tu veux qu'on regarde ta situation ensemble, DM ouvert.
+Aujourd'hui, ce que j'enseigne à mes clients, c'est exactement le contraire de ce que j'ai vécu :
 
-Hashtags :
-#Mobilité #Longévité #SportSanté #CoachSantéBruxelles #RSPTraining #BienVieillir #MouvementFonctionnel #SantéDurable #FitnessLongévité #ActiverSonCorps
+- Bouger parce qu'on aime ça, pas parce qu'on doit compenser
+- Manger brut parce qu'on a réappris à l'aimer
+- Dormir sans culpabilité le jour où on ne s'entraîne pas
+- Vivre sa vie ET prendre soin de soi
+
+La vraie santé, c'est ce que tu fais encore dans 10 ans. Pas ce que tu forces pendant 3 mois.
+
+Si tu en as marre des cycles de motivation / abandon, dis-le moi en commentaire ou en DM.
+
+#sportetante #coachingsportif #longevite #sportsante #bienetre #modedevie #fitness #mobilite #bxl #belgique
+
+---
+
+*Timing recommandé : publier entre 18h00 et 20h00 pour maximiser la portée.*
