@@ -1,26 +1,31 @@
-# Brief du 2026-08-06
+# Brief du jour — 2026-08-07
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Construire une page "Offre" sur le site RSP Training.**
+**Rédige ta page "À propos" avec ton histoire personnelle comme ancrage.**
 
-Août est le mois idéal pour préparer la rentrée de septembre, qui est traditionnellement la meilleure période pour signer des clients coaching. Tu as la Méthode RSP Transformation 8 semaines formalisée (499€ lancement). L'action concrète du jour : rédiger le texte de la page offre principale sur ton site (headline, sous-titre, les 3 bénéfices clés, ce que comprend l'accompagnement, prix, et CTA clair "Réserver ta séance découverte").
+C'est ton différenciateur le plus puissant et le moins utilisé : tu as vécu de l'intérieur ce que tes prospects vivent. Tu as été discipliné sans être en bonne santé. Peu de coachs de 20 ans peuvent dire ça avec crédibilité.
 
-Pas besoin que ce soit parfait. Une page publiée à 80% vaut mieux qu'une page parfaite jamais en ligne.
+Action concrète : rédige 200-300 mots de texte brut en 3 blocs dans Notion ou un doc simple (pas besoin de site finalisé) :
+- **Avant** : ta relation avec la musculation/nutrition restrictive
+- **La rupture** : blessure épaule, rencontre avec le kiné, reconstruction
+- **Ce que j'ai compris et comment j'accompagne aujourd'hui**
+
+Ce texte servira pour le site, les posts, les DMs prospects. Une heure de travail, des mois d'utilisation.
 
 ---
 
 ## 2. Action client
 
-**Demander une référence à tes 2 clients actuels, formulé simplement.**
+**Demande un témoignage court à un de tes 2 clients actuels cette semaine.**
 
-Message type à envoyer aujourd'hui par WhatsApp à chacun :
+Message à envoyer (à adapter) :
 
-> "Bonjour [Prénom], j'espère que tu vas bien ! Je développe mon activité coaching en ce moment et je cherche quelques nouveaux clients pour septembre. Est-ce que tu connais quelqu'un dans ton entourage qui pourrait bénéficier d'un accompagnement sport-santé ? Pas besoin que ce soit parfait comme profil, je m'adapte à chaque personne. Merci d'avance !"
+> "Ça fait quelques semaines qu'on travaille ensemble. Si tu es ok, j'aimerais avoir 2-3 lignes sur ton expérience, pour construire mon profil coach. Rien de formel, juste tes mots."
 
-C'est court, naturel, et tes clients actuels sont tes meilleurs ambassadeurs. Un seul "oui" peut te ramener un 3e client sans effort.
+Pourquoi maintenant : un témoignage d'un client 63+ sur l'accompagnement sport-santé parle directement à ta cible. C'est ta meilleure arme de prospection et tu ne l'as pas encore. Double bénéfice : preuve sociale + lien client renforcé.
 
 ---
 
@@ -28,40 +33,26 @@ C'est court, naturel, et tes clients actuels sont tes meilleurs ambassadeurs. Un
 
 **Post Instagram / TikTok**
 
----
+Accroche :
+> "J'étais discipliné. Je n'étais pas en bonne santé. Nuance énorme."
 
-**ACCROCHE :**
-J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
+Texte :
 
----
+Pendant des mois, je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
 
-**TEXTE :**
-Pendant des mois, je me levais à 7h après 3h de sommeil pour ne pas rater ma séance.
+Je refusais le gâteau de ma mère. Je calculais mes macros au gramme. Je me blessais et je continuais quand même.
 
-Je refusais de manger le gâteau de ma mère.
-Je comptais tout au gramme près.
-Je ne sortais plus au restaurant.
+J'étais la version cliché du mec "sérieux" en salle.
 
-Sur le papier : discipline de fer.
-Dans ma tête : une prison.
+Et pourtant : relation toxique avec la nourriture. Épaule détruite. Aucune vie sociale. Zéro santé.
 
-Et j'étais blessé, épuisé, et de moins en moins heureux.
+La discipline sans conscience, c'est de l'auto-destruction avec un bon alibi.
 
-La discipline et la santé, ce n'est pas la même chose.
+Ce que j'enseigne à mes clients aujourd'hui, c'est autre chose :
 
-Aujourd'hui, ce que j'enseigne à mes clients, c'est exactement le contraire de ce que j'ai vécu :
+Bouger parce qu'on aime ça. Manger pour se sentir bien. S'entraîner pour être encore là dans 30 ans.
 
-- Bouger parce qu'on aime ça, pas parce qu'on doit compenser
-- Manger brut parce qu'on a réappris à l'aimer
-- Dormir sans culpabilité le jour où on ne s'entraîne pas
-- Vivre sa vie ET prendre soin de soi
+Le but n'est pas d'être parfait. C'est de durer.
 
-La vraie santé, c'est ce que tu fais encore dans 10 ans. Pas ce que tu forces pendant 3 mois.
-
-Si tu en as marre des cycles de motivation / abandon, dis-le moi en commentaire ou en DM.
-
-#sportetante #coachingsportif #longevite #sportsante #bienetre #modedevie #fitness #mobilite #bxl #belgique
-
----
-
-*Timing recommandé : publier entre 18h00 et 20h00 pour maximiser la portée.*
+Hashtags :
+#SportSanté #LongévitéActive #CoachSportif #CoachingBelgique #FitnessMotivation #BienÊtre #SantéDurable #TransformationMentale #RSPTraining #ModeDeVie
