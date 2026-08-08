@@ -1,58 +1,73 @@
-# Brief du jour — 2026-08-07
+# Brief RSP Training — 2026-08-08
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige ta page "À propos" avec ton histoire personnelle comme ancrage.**
+**Prépare ta campagne rentrée en 1 heure ce matin.**
 
-C'est ton différenciateur le plus puissant et le moins utilisé : tu as vécu de l'intérieur ce que tes prospects vivent. Tu as été discipliné sans être en bonne santé. Peu de coachs de 20 ans peuvent dire ça avec crédibilité.
+Août est mort en termes de closing, mais c'est la meilleure période pour semer. Les gens se réveillent fin août avec l'envie de changer. Si ton Instagram est vide ou dormant à ce moment-là, tu rates la fenêtre.
 
-Action concrète : rédige 200-300 mots de texte brut en 3 blocs dans Notion ou un doc simple (pas besoin de site finalisé) :
-- **Avant** : ta relation avec la musculation/nutrition restrictive
-- **La rupture** : blessure épaule, rencontre avec le kiné, reconstruction
-- **Ce que j'ai compris et comment j'accompagne aujourd'hui**
-
-Ce texte servira pour le site, les posts, les DMs prospects. Une heure de travail, des mois d'utilisation.
+Action concrète :
+- Ouvre ton profil Instagram RSP Training et regarde les 9 derniers posts.
+- Si tu n'as pas 3 posts récents (moins de 2 semaines), ton prochain objectif n'est pas de prospecter, c'est de publier.
+- Écris 3 lignes sur ton histoire : blessure épaule, reconstruction, pourquoi tu coaches autrement. Ce texte devient le "à propos" de ton futur site ET la base de ta bio Instagram.
+- Objectif du jour : bio Instagram retravaillée + 1 post publié (voir section 3).
 
 ---
 
 ## 2. Action client
 
-**Demande un témoignage court à un de tes 2 clients actuels cette semaine.**
+**Envoie un message de check-in à tes 2 clients actuels.**
 
-Message à envoyer (à adapter) :
+Modèle simple à personnaliser :
 
-> "Ça fait quelques semaines qu'on travaille ensemble. Si tu es ok, j'aimerais avoir 2-3 lignes sur ton expérience, pour construire mon profil coach. Rien de formel, juste tes mots."
+> "Salut [Prénom], j'espère que tu profites bien de l'été. Comment tu te sens physiquement depuis nos dernières séances ? Je pense à toi pour la suite de septembre."
 
-Pourquoi maintenant : un témoignage d'un client 63+ sur l'accompagnement sport-santé parle directement à ta cible. C'est ta meilleure arme de prospection et tu ne l'as pas encore. Double bénéfice : preuve sociale + lien client renforcé.
+Pourquoi maintenant :
+- C'est août, les gens sont en vacances. Un message chaleureux en plein été marque les esprits.
+- Tu maintiens le lien avant la rentrée, moment clé pour confirmer la suite ou renegocier.
+- Si l'un d'eux est satisfait, tu peux glisser naturellement : "Est-ce que tu connais quelqu'un qui pourrait bénéficier du même accompagnement ?"
+
+Un seul client qui t'amène un proche = 1 nouveau client sans prospection froide.
 
 ---
 
-## 3. Contenu prêt
+## 3. Contenu prêt à publier
 
-**Post Instagram / TikTok**
+**Format : Instagram (fonctionne aussi en TikTok avec voix off)**
 
-Accroche :
-> "J'étais discipliné. Je n'étais pas en bonne santé. Nuance énorme."
+---
 
-Texte :
+**ACCROCHE :**
+"J'ai sacrifié mon sommeil, ma vie sociale et mon épaule pour... ne pas être en bonne santé."
 
+---
+
+**TEXTE :**
 Pendant des mois, je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
 
-Je refusais le gâteau de ma mère. Je calculais mes macros au gramme. Je me blessais et je continuais quand même.
+Je refusais le gâteau de ma mère. Je calculais chaque gramme. Je prenais du poids à cause du stress.
 
-J'étais la version cliché du mec "sérieux" en salle.
+J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
 
-Et pourtant : relation toxique avec la nourriture. Épaule détruite. Aucune vie sociale. Zéro santé.
+Aujourd'hui j'accompagne des gens qui veulent bouger pour vivre mieux, pas pour cocher une case.
 
-La discipline sans conscience, c'est de l'auto-destruction avec un bon alibi.
+Pas de programme copié sur un athlète sponsorisé.
+Pas de régime qui te coupe de ta vie.
+Pas de séance qui te détruit.
 
-Ce que j'enseigne à mes clients aujourd'hui, c'est autre chose :
+Du mouvement qui s'intègre dans ta vraie vie. De la nutrition qui te donne de l'énergie sans te culpabiliser. Un corps qui dure.
 
-Bouger parce qu'on aime ça. Manger pour se sentir bien. S'entraîner pour être encore là dans 30 ans.
+C'est ça, le sport-santé. Et c'est ce que j'enseigne.
 
-Le but n'est pas d'être parfait. C'est de durer.
+Si tu veux qu'on en parle, DM ou lien en bio.
 
-Hashtags :
-#SportSanté #LongévitéActive #CoachSportif #CoachingBelgique #FitnessMotivation #BienÊtre #SantéDurable #TransformationMentale #RSPTraining #ModeDeVie
+---
+
+**HASHTAGS :**
+#sportsante #longevite #coachsportif #coachingholiste #santedurable #mouvementcommemoddevie #belgiquefit #coachbelgique #transformationphysique #rsptraining
+
+---
+
+*Note : adapte la première phrase si tu n'as pas encore parlé publiquement de ton histoire. Sinon, publie tel quel.*
