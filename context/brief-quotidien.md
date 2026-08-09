@@ -1,73 +1,57 @@
-# Brief RSP Training — 2026-08-08
+# Brief RSP Training — 2026-08-09
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Prépare ta campagne rentrée en 1 heure ce matin.**
+**Rédige la page "À propos" de ton futur site RSP Training.**
 
-Août est mort en termes de closing, mais c'est la meilleure période pour semer. Les gens se réveillent fin août avec l'envie de changer. Si ton Instagram est vide ou dormant à ce moment-là, tu rates la fenêtre.
+C'est la page qui vend sans vendre : ton histoire personnelle (musculation classique, relation malsaine à la nutrition, blessure épaule, reconstruction 2026) est ton avantage concurrentiel principal. Aucun coach lambda ne peut la copier.
 
-Action concrète :
-- Ouvre ton profil Instagram RSP Training et regarde les 9 derniers posts.
-- Si tu n'as pas 3 posts récents (moins de 2 semaines), ton prochain objectif n'est pas de prospecter, c'est de publier.
-- Écris 3 lignes sur ton histoire : blessure épaule, reconstruction, pourquoi tu coaches autrement. Ce texte devient le "à propos" de ton futur site ET la base de ta bio Instagram.
-- Objectif du jour : bio Instagram retravaillée + 1 post publié (voir section 3).
+Actions concrètes :
+- Ouvre un Google Doc ou fichier texte
+- Structure en 3 blocs : (1) qui tu étais avant, (2) ce qui a changé, (3) ce que tu transmets maintenant
+- Limite à 300 mots, langage direct, pas de jargon
+- Objectif : que le lecteur se reconnaisse dans ta description d'avant et veuille devenir ta description d'après
+
+C'est la fondation. Sans ça, le site ne convertit pas.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de check-in à tes 2 clients actuels.**
+**Demande un témoignage écrit à tes 2 clients actuels cette semaine.**
 
-Modèle simple à personnaliser :
+Pourquoi maintenant : tu es à 2/5 clients, tu as besoin de preuve sociale pour convaincre les 3 suivants. Un témoignage concret (résultats + ressenti) vaut 10 posts marketing.
 
-> "Salut [Prénom], j'espère que tu profites bien de l'été. Comment tu te sens physiquement depuis nos dernières séances ? Je pense à toi pour la suite de septembre."
-
-Pourquoi maintenant :
-- C'est août, les gens sont en vacances. Un message chaleureux en plein été marque les esprits.
-- Tu maintiens le lien avant la rentrée, moment clé pour confirmer la suite ou renegocier.
-- Si l'un d'eux est satisfait, tu peux glisser naturellement : "Est-ce que tu connais quelqu'un qui pourrait bénéficier du même accompagnement ?"
-
-Un seul client qui t'amène un proche = 1 nouveau client sans prospection froide.
+Comment faire :
+- Message WhatsApp simple : "Je développe mon activité RSP et j'aimerais partager ton expérience. Est-ce que tu pourrais me dire en 3-4 phrases ce que tu as remarqué depuis qu'on travaille ensemble ?"
+- Si l'un d'eux fréquente BSport Berchem ou connaît quelqu'un là-bas, glisse : "Si tu connais quelqu'un qui cherche un coach, je suis disponible pour une séance découverte gratuite ce mois-ci."
+- Prépare un créneau de séance découverte disponible pour fin août, prêt à partager dès qu'une piste apparaît
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Format : Instagram (fonctionne aussi en TikTok avec voix off)**
+**Post Instagram / TikTok**
 
----
-
-**ACCROCHE :**
-"J'ai sacrifié mon sommeil, ma vie sociale et mon épaule pour... ne pas être en bonne santé."
-
----
-
-**TEXTE :**
-Pendant des mois, je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
-
-Je refusais le gâteau de ma mère. Je calculais chaque gramme. Je prenais du poids à cause du stress.
-
+**Accroche :**
 J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
 
-Aujourd'hui j'accompagne des gens qui veulent bouger pour vivre mieux, pas pour cocher une case.
+**Texte :**
+Lever 7h après 3h de sommeil pour ne pas rater une séance.
+Refuser le gâteau de ma mère pour "rester dans mes macros".
+Ignorer ma douleur à l'épaule pendant des mois.
 
-Pas de programme copié sur un athlète sponsorisé.
-Pas de régime qui te coupe de ta vie.
-Pas de séance qui te détruit.
+J'ai suivi des programmes d'athlètes sponsorisés. J'ai compté chaque gramme. J'ai sacrifié ma vie sociale pour un physique que je n'ai jamais vraiment eu.
 
-Du mouvement qui s'intègre dans ta vraie vie. De la nutrition qui te donne de l'énergie sans te culpabiliser. Un corps qui dure.
+Résultat : une blessure chronique, une relation malsaine avec la nourriture, et beaucoup de regrets.
 
-C'est ça, le sport-santé. Et c'est ce que j'enseigne.
+Ce que j'ai compris depuis : discipline et santé ne sont pas la même chose.
 
-Si tu veux qu'on en parle, DM ou lien en bio.
+Aujourd'hui j'aide mes clients à bouger parce qu'ils aiment ça, pas parce qu'ils ont peur de grossir. À manger brut parce que c'est bon, pas parce que c'est "clean". À construire des habitudes qui durent 30 ans, pas 30 jours.
 
----
+Tu veux savoir par où commencer ? Dis-le en commentaire.
 
-**HASHTAGS :**
-#sportsante #longevite #coachsportif #coachingholiste #santedurable #mouvementcommemoddevie #belgiquefit #coachbelgique #transformationphysique #rsptraining
-
----
-
-*Note : adapte la première phrase si tu n'as pas encore parlé publiquement de ton histoire. Sinon, publie tel quel.*
+**Hashtags :**
+#santefonctionnelle #coachdomiicile #longévité #sportetnutrition #mobilité #coachbruxelles #mouvementquotidien #belgique #bienetre #habitudesdesvie
