@@ -1,33 +1,31 @@
-# Brief RSP Training — 2026-08-09
+# Brief quotidien RSP Training — 2026-08-12
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige la page "À propos" de ton futur site RSP Training.**
+**Rédige ta bio RSP Training en 3 paragraphes.**
 
-C'est la page qui vend sans vendre : ton histoire personnelle (musculation classique, relation malsaine à la nutrition, blessure épaule, reconstruction 2026) est ton avantage concurrentiel principal. Aucun coach lambda ne peut la copier.
+C'est le socle de tout ton marketing et il n'existe pas encore. Sans ça, ton site, tes posts et ta prospection manquent d'ancrage. Objectif : 1 heure max, résultat utilisable partout.
 
-Actions concrètes :
-- Ouvre un Google Doc ou fichier texte
-- Structure en 3 blocs : (1) qui tu étais avant, (2) ce qui a changé, (3) ce que tu transmets maintenant
-- Limite à 300 mots, langage direct, pas de jargon
-- Objectif : que le lecteur se reconnaisse dans ta description d'avant et veuille devenir ta description d'après
+Structure à suivre :
+- Paragraphe 1 : ton histoire (la musculation classique, la relation malsaine, la blessure épaule nov 2025, la reconstruction)
+- Paragraphe 2 : ce que tu as compris (discipline et santé ne sont pas la même chose, le mouvement comme mode de vie)
+- Paragraphe 3 : ce que tu proposes concrètement à tes clients (sport adapté à la personne, nutrition sans restriction, autonomie à long terme)
 
-C'est la fondation. Sans ça, le site ne convertit pas.
+Ce texte ira directement sur ton site web, ta page Instagram et tes messages de prospection.
 
 ---
 
 ## 2. Action client
 
-**Demande un témoignage écrit à tes 2 clients actuels cette semaine.**
+**Envoie un message WhatsApp à 3 personnes de ton entourage pour demander une recommandation.**
 
-Pourquoi maintenant : tu es à 2/5 clients, tu as besoin de preuve sociale pour convaincre les 3 suivants. Un témoignage concret (résultats + ressenti) vaut 10 posts marketing.
+Pas un appel, pas une proposition de vente. Juste un message court et direct, exemple :
 
-Comment faire :
-- Message WhatsApp simple : "Je développe mon activité RSP et j'aimerais partager ton expérience. Est-ce que tu pourrais me dire en 3-4 phrases ce que tu as remarqué depuis qu'on travaille ensemble ?"
-- Si l'un d'eux fréquente BSport Berchem ou connaît quelqu'un là-bas, glisse : "Si tu connais quelqu'un qui cherche un coach, je suis disponible pour une séance découverte gratuite ce mois-ci."
-- Prépare un créneau de séance découverte disponible pour fin août, prêt à partager dès qu'une piste apparaît
+> "Salut [prénom], je développe mon activité de coaching sportif sous la marque RSP Training, spécialisé sport-santé et longévité. Est-ce que tu connais quelqu'un dans ton entourage qui cherche un accompagnement sur le long terme, pas juste perdre du poids rapidement ? Si oui, je serais ravi qu'il me contacte ou que tu lui transmettes mon contact."
+
+Cible : famille, amis proches, anciens camarades de sport. 3 messages aujourd'hui. Le bouche-à-oreille est ton canal le plus rentable à ce stade.
 
 ---
 
@@ -36,22 +34,35 @@ Comment faire :
 **Post Instagram / TikTok**
 
 **Accroche :**
-J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
+> Tu peux être la personne la plus disciplinée de la salle et ne pas être en bonne santé.
+
+---
 
 **Texte :**
-Lever 7h après 3h de sommeil pour ne pas rater une séance.
-Refuser le gâteau de ma mère pour "rester dans mes macros".
-Ignorer ma douleur à l'épaule pendant des mois.
 
-J'ai suivi des programmes d'athlètes sponsorisés. J'ai compté chaque gramme. J'ai sacrifié ma vie sociale pour un physique que je n'ai jamais vraiment eu.
+Je l'ai vécu.
 
-Résultat : une blessure chronique, une relation malsaine avec la nourriture, et beaucoup de regrets.
+Lever à 7h après 3h de sommeil pour ne pas rater une séance. Refuser le gâteau de ma mère. Calculer chaque gramme au gramme près. Entraînement 6 jours sur 7, sans exception.
 
-Ce que j'ai compris depuis : discipline et santé ne sont pas la même chose.
+Discipliné à 100%. En bonne santé à 0%.
 
-Aujourd'hui j'aide mes clients à bouger parce qu'ils aiment ça, pas parce qu'ils ont peur de grossir. À manger brut parce que c'est bon, pas parce que c'est "clean". À construire des habitudes qui durent 30 ans, pas 30 jours.
+La blessure est arrivée. L'épaule. Ignorée pendant des mois parce que "s'arrêter c'est abandonner". Devenue chronique.
 
-Tu veux savoir par où commencer ? Dis-le en commentaire.
+C'est là que j'ai tout remis à plat.
+
+La discipline n'est pas le problème. Ce qu'elle sert l'est.
+
+Aujourd'hui j'apprends à mes clients à bouger parce qu'ils le veulent, pas parce qu'ils y sont obligés. À manger pour avoir de l'énergie, pas pour les abdos. À dormir comme une priorité, pas comme une option.
+
+La santé sur le long terme, c'est ça.
+
+Et c'est beaucoup plus dur à vendre que "perdre 5 kg en 30 jours". Mais c'est ce qui marche vraiment.
+
+---
 
 **Hashtags :**
-#santefonctionnelle #coachdomiicile #longévité #sportetnutrition #mobilité #coachbruxelles #mouvementquotidien #belgique #bienetre #habitudesdesvie
+#sportsante #longevite #coachingsportif #santedurable #mouvement #mentalite #RSPTraining #coaching #bienetre #transformationreelle
+
+---
+
+*Brief généré automatiquement — session du 2026-08-12*
