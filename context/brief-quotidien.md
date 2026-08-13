@@ -1,68 +1,47 @@
-# Brief quotidien RSP Training — 2026-08-12
+# Brief RSP Training — 2026-08-13
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige ta bio RSP Training en 3 paragraphes.**
+**Crée ta page d'attente "Rentrée septembre" aujourd'hui.**
 
-C'est le socle de tout ton marketing et il n'existe pas encore. Sans ça, ton site, tes posts et ta prospection manquent d'ancrage. Objectif : 1 heure max, résultat utilisable partout.
-
-Structure à suivre :
-- Paragraphe 1 : ton histoire (la musculation classique, la relation malsaine, la blessure épaule nov 2025, la reconstruction)
-- Paragraphe 2 : ce que tu as compris (discipline et santé ne sont pas la même chose, le mouvement comme mode de vie)
-- Paragraphe 3 : ce que tu proposes concrètement à tes clients (sport adapté à la personne, nutrition sans restriction, autonomie à long terme)
-
-Ce texte ira directement sur ton site web, ta page Instagram et tes messages de prospection.
+Août est la fenêtre parfaite : les gens se projettent, planifient, veulent changer dès septembre. Ouvre un Google Form simple (pas besoin de site) avec 3 champs : prénom, objectif principal, disponibilités. Objectif : capturer 5 à 10 contacts qualifiés avant le 1er septembre. Diffuse-le ce soir sur ton Instagram en story avec le texte : "Je prends 2 nouveaux clients en coaching sport-santé à domicile en septembre. Places limitées. Lien en bio."
 
 ---
 
 ## 2. Action client
 
-**Envoie un message WhatsApp à 3 personnes de ton entourage pour demander une recommandation.**
+**Envoie un message de check-in à tes 2 clients actuels cette semaine.**
 
-Pas un appel, pas une proposition de vente. Juste un message court et direct, exemple :
-
-> "Salut [prénom], je développe mon activité de coaching sportif sous la marque RSP Training, spécialisé sport-santé et longévité. Est-ce que tu connais quelqu'un dans ton entourage qui cherche un accompagnement sur le long terme, pas juste perdre du poids rapidement ? Si oui, je serais ravi qu'il me contacte ou que tu lui transmettes mon contact."
-
-Cible : famille, amis proches, anciens camarades de sport. 3 messages aujourd'hui. Le bouche-à-oreille est ton canal le plus rentable à ce stade.
+Un message court, personnel, pas automatisé. Exemple : "Salut [Prénom], comment tu te sens depuis notre dernière séance ? Quelque chose que tu veux ajuster pour les prochaines semaines ?" Objectif double : fidéliser les clients existants ET obtenir des témoignages naturels. Si la séance s'est bien passée, tu peux ajouter : "Si tu connais quelqu'un qui cherche à se remettre en mouvement cet automne, n'hésite pas à m'envoyer son contact." Un client satisfait est ta meilleure source de referral.
 
 ---
 
-## 3. Contenu prêt à publier
+## 3. Contenu prêt
 
 **Post Instagram / TikTok**
 
 **Accroche :**
-> Tu peux être la personne la plus disciplinée de la salle et ne pas être en bonne santé.
-
----
+On m'a dit que j'étais obsédé par la santé. Ils avaient raison. Mais pas de la façon dont ils croyaient.
 
 **Texte :**
+Pendant 2 ans, je calculais chaque gramme de protéines. Je refusais de sortir manger avec des amis. Je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
 
-Je l'ai vécu.
+J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
 
-Lever à 7h après 3h de sommeil pour ne pas rater une séance. Refuser le gâteau de ma mère. Calculer chaque gramme au gramme près. Entraînement 6 jours sur 7, sans exception.
+La vraie obsession pour la santé, ça ressemble à ça :
+- Manger bien sans culpabiliser l'écart du vendredi soir
+- S'entraîner parce que tu aimes bouger, pas parce que tu as peur de grossir
+- Dormir 8h sans se sentir "faible"
+- Avoir de l'énergie pour tout le reste de ta vie, pas juste pour le sport
 
-Discipliné à 100%. En bonne santé à 0%.
+Le mouvement n'est pas une punition. La nutrition n'est pas une prison.
 
-La blessure est arrivée. L'épaule. Ignorée pendant des mois parce que "s'arrêter c'est abandonner". Devenue chronique.
+C'est ce que j'enseigne à mes clients aujourd'hui. Et c'est la différence qui change tout sur le long terme.
 
-C'est là que j'ai tout remis à plat.
+Si tu veux commencer cet automne avec une approche qui tient dans le temps, les DM sont ouverts.
 
-La discipline n'est pas le problème. Ce qu'elle sert l'est.
-
-Aujourd'hui j'apprends à mes clients à bouger parce qu'ils le veulent, pas parce qu'ils y sont obligés. À manger pour avoir de l'énergie, pas pour les abdos. À dormir comme une priorité, pas comme une option.
-
-La santé sur le long terme, c'est ça.
-
-Et c'est beaucoup plus dur à vendre que "perdre 5 kg en 30 jours". Mais c'est ce qui marche vraiment.
-
----
-
-**Hashtags :**
-#sportsante #longevite #coachingsportif #santedurable #mouvement #mentalite #RSPTraining #coaching #bienetre #transformationreelle
+#sportsante #longevite #coaching #coachsportif #mobilite #bienetre #santeglobale #performance #bruxelles #coachingindividuel
 
 ---
-
-*Brief généré automatiquement — session du 2026-08-12*
