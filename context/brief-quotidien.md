@@ -1,47 +1,71 @@
-# Brief RSP Training — 2026-08-13
+# Brief du jour — 2026-08-14
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Crée ta page d'attente "Rentrée septembre" aujourd'hui.**
+**Créer et envoyer 5 messages de prospection "rentrée" aujourd'hui.**
 
-Août est la fenêtre parfaite : les gens se projettent, planifient, veulent changer dès septembre. Ouvre un Google Form simple (pas besoin de site) avec 3 champs : prénom, objectif principal, disponibilités. Objectif : capturer 5 à 10 contacts qualifiés avant le 1er septembre. Diffuse-le ce soir sur ton Instagram en story avec le texte : "Je prends 2 nouveaux clients en coaching sport-santé à domicile en septembre. Places limitées. Lien en bio."
+Mi-août = le moment idéal. Les gens rentrent de vacances, se regardent dans le miroir, pensent "cette fois c'est la bonne". Pas dans 2 semaines. Maintenant.
+
+Action concrète :
+- Identifie 5 personnes de ton entourage (amis, connaissances BSport, famille élargie) qui ont exprimé vouloir "se remettre en forme" ou "prendre soin d'eux" dans les derniers mois.
+- Envoie ce message direct en WhatsApp ou DM Instagram (adapte le prénom) :
+
+> "Hey [Prénom], tu reviens de vacances ? Moi je relance 2-3 places de coaching pour septembre. Programme 8 semaines, domicile ou salle, orienté santé durable. Si ça t'intéresse ou tu connais quelqu'un, dis-moi, je peux t'expliquer en 10 minutes."
+
+- Objectif : 5 envoyés aujourd'hui, pas demain.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de check-in à tes 2 clients actuels cette semaine.**
+**Message de reprise proactif pour tes 2 clients actuels.**
 
-Un message court, personnel, pas automatisé. Exemple : "Salut [Prénom], comment tu te sens depuis notre dernière séance ? Quelque chose que tu veux ajuster pour les prochaines semaines ?" Objectif double : fidéliser les clients existants ET obtenir des témoignages naturels. Si la séance s'est bien passée, tu peux ajouter : "Si tu connais quelqu'un qui cherche à se remettre en mouvement cet automne, n'hésite pas à m'envoyer son contact." Un client satisfait est ta meilleure source de referral.
+Envoie un WhatsApp simple à chacun d'eux ce soir :
+
+> "Salut [Prénom], comment tu te sens après les vacances ? On reprend quand ça te convient. Et si tu connais quelqu'un qui cherche un coach pour septembre, hésite pas à passer le mot, c'est le bon moment."
+
+Pourquoi maintenant :
+- L'été perturbe les routines. Les relancer en douceur avant la rentrée évite le décrochage.
+- Un client satisfait qui te recommande coûte 0 euro. C'est ton meilleur levier pour les 3 prochains clients.
+- Le timing "avant la rentrée" est naturel, pas forcé.
 
 ---
 
 ## 3. Contenu prêt
 
-**Post Instagram / TikTok**
+**Post Instagram / TikTok — prêt à publier**
+
+---
 
 **Accroche :**
-On m'a dit que j'étais obsédé par la santé. Ils avaient raison. Mais pas de la façon dont ils croyaient.
+En septembre, 80% des gens qui "recommencent le sport" abandonnent avant octobre. Voilà pourquoi.
+
+---
 
 **Texte :**
-Pendant 2 ans, je calculais chaque gramme de protéines. Je refusais de sortir manger avec des amis. Je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
 
-J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
+On rentre de vacances motivé. On s'inscrit à la salle. On achète des baskets. On télécharge une appli.
 
-La vraie obsession pour la santé, ça ressemble à ça :
-- Manger bien sans culpabiliser l'écart du vendredi soir
-- S'entraîner parce que tu aimes bouger, pas parce que tu as peur de grossir
-- Dormir 8h sans se sentir "faible"
-- Avoir de l'énergie pour tout le reste de ta vie, pas juste pour le sport
+Et 6 semaines plus tard, on a arrêté.
 
-Le mouvement n'est pas une punition. La nutrition n'est pas une prison.
+Ce n'est pas un problème de discipline. C'est un problème de méthode.
 
-C'est ce que j'enseigne à mes clients aujourd'hui. Et c'est la différence qui change tout sur le long terme.
+Quand on commence trop fort, trop vite, sans plan adapté à sa vie, le corps dit stop. La tête suit.
 
-Si tu veux commencer cet automne avec une approche qui tient dans le temps, les DM sont ouverts.
+Ce que j'observe avec mes clients :
 
-#sportsante #longevite #coaching #coachsportif #mobilite #bienetre #santeglobale #performance #bruxelles #coachingindividuel
+Ce qui fonctionne, c'est pas "plus", c'est "mieux". Un programme construit autour de toi. Ton niveau, ton emploi du temps, tes contraintes réelles. Pas un plan générique copié d'internet.
+
+La rentrée, c'est une opportunité. Mais seulement si tu la prépares différemment.
+
+Tu veux savoir comment je travaille ? Dis-moi "INFO" en commentaire ou en DM.
+
+---
+
+**Hashtags :**
+
+#sportbien #coachdometique #sportetante #rentrée2026 #longevite #coachingbruxelles #sportbelgique #santedurable #remiseenforme #mouvement
 
 ---
