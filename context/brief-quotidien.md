@@ -1,71 +1,65 @@
-# Brief du jour — 2026-08-14
+# Brief quotidien — 2026-08-15
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Créer et envoyer 5 messages de prospection "rentrée" aujourd'hui.**
+**Action : Rédige la page "À propos" de ton futur site RSP Training.**
 
-Mi-août = le moment idéal. Les gens rentrent de vacances, se regardent dans le miroir, pensent "cette fois c'est la bonne". Pas dans 2 semaines. Maintenant.
-
-Action concrète :
-- Identifie 5 personnes de ton entourage (amis, connaissances BSport, famille élargie) qui ont exprimé vouloir "se remettre en forme" ou "prendre soin d'eux" dans les derniers mois.
-- Envoie ce message direct en WhatsApp ou DM Instagram (adapte le prénom) :
-
-> "Hey [Prénom], tu reviens de vacances ? Moi je relance 2-3 places de coaching pour septembre. Programme 8 semaines, domicile ou salle, orienté santé durable. Si ça t'intéresse ou tu connais quelqu'un, dis-moi, je peux t'expliquer en 10 minutes."
-
-- Objectif : 5 envoyés aujourd'hui, pas demain.
+C'est la page la plus lue après la homepage, et la plus décisive pour convertir. Tu as tous les ingrédients : ton histoire (musculation classique, relation malsaine, blessure épaule, reconstruction), ta philosophie (mouvement comme mode de vie, pas obligation), ta formation et ton expérience terrain. Objectif : 3 paragraphes, 250 mots max. Ton story, ce que tu fais, pour qui. Pas besoin d'attendre que le site soit prêt pour l'écrire. Écris-la ce soir, dans un doc texte simple. C'est la fondation du reste.
 
 ---
 
 ## 2. Action client
 
-**Message de reprise proactif pour tes 2 clients actuels.**
+**Demande un témoignage court à chacun de tes 2 clients actuels cette semaine.**
 
-Envoie un WhatsApp simple à chacun d'eux ce soir :
+Tu as 2 clients fixes en PT à domicile. Tu ne leur as probablement jamais demandé de témoignage directement. Pourtant, 2 témoignages authentiques valent 10 posts marketing.
 
-> "Salut [Prénom], comment tu te sens après les vacances ? On reprend quand ça te convient. Et si tu connais quelqu'un qui cherche un coach pour septembre, hésite pas à passer le mot, c'est le bon moment."
+Message simple à envoyer :
 
-Pourquoi maintenant :
-- L'été perturbe les routines. Les relancer en douceur avant la rentrée évite le décrochage.
-- Un client satisfait qui te recommande coûte 0 euro. C'est ton meilleur levier pour les 3 prochains clients.
-- Le timing "avant la rentrée" est naturel, pas forcé.
+> "Hey [Prénom], est-ce que tu aurais 5 minutes pour me répondre en quelques lignes à cette question : qu'est-ce qui a changé pour toi depuis qu'on travaille ensemble ? Je constitue mon portfolio de coach et ça compte vraiment pour moi."
+
+Résultat attendu : 2 témoignages que tu peux utiliser sur le site, en post Instagram, et en prospection. La fenêtre d'août est parfaite avant la rentrée de septembre, où tu vas intensifier la prospection.
 
 ---
 
 ## 3. Contenu prêt
 
-**Post Instagram / TikTok — prêt à publier**
+**Post Instagram / TikTok**
 
 ---
 
 **Accroche :**
-En septembre, 80% des gens qui "recommencent le sport" abandonnent avant octobre. Voilà pourquoi.
+
+> Tu t'entraînes pour qui, exactement ?
 
 ---
 
 **Texte :**
 
-On rentre de vacances motivé. On s'inscrit à la salle. On achète des baskets. On télécharge une appli.
-
-Et 6 semaines plus tard, on a arrêté.
-
-Ce n'est pas un problème de discipline. C'est un problème de méthode.
-
-Quand on commence trop fort, trop vite, sans plan adapté à sa vie, le corps dit stop. La tête suit.
-
-Ce que j'observe avec mes clients :
-
-Ce qui fonctionne, c'est pas "plus", c'est "mieux". Un programme construit autour de toi. Ton niveau, ton emploi du temps, tes contraintes réelles. Pas un plan générique copié d'internet.
-
-La rentrée, c'est une opportunité. Mais seulement si tu la prépares différemment.
-
-Tu veux savoir comment je travaille ? Dis-moi "INFO" en commentaire ou en DM.
+> Je t'ai posé cette question à moi-même en 2025. La réponse m'a mis un coup.
+>
+> J'étais dans la salle 6 jours sur 7. Lever 7h après 3h de sommeil en festival pour "ne pas rater une séance". Je refusais le gâteau d'anniversaire de ma mère. Je comptais mes grammes de protéines à 23h.
+>
+> Et j'étais en mauvaise santé.
+>
+> Je n'étais pas en mauvaise forme. J'étais discipliné, physiquement actif, et littéralement en mauvaise santé.
+>
+> Ce n'est pas la même chose.
+>
+> La vraie santé, c'est :
+> - Bouger parce que tu aimes ça, pas parce que tu culpabilises si tu t'arrêtes
+> - Manger pour avoir de l'énergie et te renforcer, pas pour les abdos
+> - Dormir 8h sans culpabilité
+> - Rater une séance et passer une bonne soirée quand même
+>
+> C'est ça que j'enseigne aujourd'hui. Pas la performance à tout prix. La santé durable.
+>
+> Si tu veux commencer à bouger sans te faire du mal, dis-le moi en commentaire ou en DM.
 
 ---
 
 **Hashtags :**
 
-#sportbien #coachdometique #sportetante #rentrée2026 #longevite #coachingbruxelles #sportbelgique #santedurable #remiseenforme #mouvement
-
----
+#sporthygienedevie #santedurable #coachinghybride #longevite #sportetsante #mouvementquotidien #coachingindependant #belgique #rsptraining #bien­etreauquotidien
