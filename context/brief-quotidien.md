@@ -1,65 +1,70 @@
-# Brief quotidien — 2026-08-15
+# Brief RSP Training — 2026-08-16
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Action : Rédige la page "À propos" de ton futur site RSP Training.**
+**Rédige la page d'accueil de ton site RSP Training.**
 
-C'est la page la plus lue après la homepage, et la plus décisive pour convertir. Tu as tous les ingrédients : ton histoire (musculation classique, relation malsaine, blessure épaule, reconstruction), ta philosophie (mouvement comme mode de vie, pas obligation), ta formation et ton expérience terrain. Objectif : 3 paragraphes, 250 mots max. Ton story, ce que tu fais, pour qui. Pas besoin d'attendre que le site soit prêt pour l'écrire. Écris-la ce soir, dans un doc texte simple. C'est la fondation du reste.
+Une seule tâche : ouvre un doc (Notion, Google Docs, peu importe) et écris ces 4 éléments :
+- Le titre principal (1 ligne, ce que tu fais et pour qui)
+- Le sous-titre (1-2 phrases, la transformation que tu promets)
+- 3 points différenciants (ce qui te rend unique vs un coach classique)
+- L'appel à l'action (ex: "Réserve ton appel découverte gratuit")
+
+Tu as déjà ta philosophie formalisée et ton offre construite. Ce travail de rédaction débloque tout le reste : site, brochure, bio Instagram. 30-45 minutes aujourd'hui = fondation pour tout ce qui suit.
 
 ---
 
 ## 2. Action client
 
-**Demande un témoignage court à chacun de tes 2 clients actuels cette semaine.**
+**Envoie un message WhatsApp à tes 2 clients actuels aujourd'hui.**
 
-Tu as 2 clients fixes en PT à domicile. Tu ne leur as probablement jamais demandé de témoignage directement. Pourtant, 2 témoignages authentiques valent 10 posts marketing.
+Message type (à adapter selon la personne) :
 
-Message simple à envoyer :
+> "Salut [prénom], comment tu te sens depuis notre dernière séance ? Tu as remarqué quelque chose de différent cette semaine, que ce soit sur le mouvement, l'énergie ou autre chose ?"
 
-> "Hey [Prénom], est-ce que tu aurais 5 minutes pour me répondre en quelques lignes à cette question : qu'est-ce qui a changé pour toi depuis qu'on travaille ensemble ? Je constitue mon portfolio de coach et ça compte vraiment pour moi."
+Pourquoi c'est important :
+- Ça montre un suivi actif, pas juste les séances
+- Les réponses sont du feedback concret sur tes résultats
+- Si la réponse est positive, tu peux demander la permission de la partager (témoignage anonyme)
+- Ça renforce la fidélisation et l'envie de continuer
 
-Résultat attendu : 2 témoignages que tu peux utiliser sur le site, en post Instagram, et en prospection. La fenêtre d'août est parfaite avant la rentrée de septembre, où tu vas intensifier la prospection.
-
----
-
-## 3. Contenu prêt
-
-**Post Instagram / TikTok**
+Fais-le ce matin, pas ce soir.
 
 ---
+
+## 3. Contenu prêt à publier
+
+**Instagram / TikTok**
 
 **Accroche :**
-
-> Tu t'entraînes pour qui, exactement ?
+J'ai compté mes calories pendant 2 ans. J'ai pris du poids, je me suis blessé, et j'avais plus de vie sociale.
 
 ---
 
 **Texte :**
 
-> Je t'ai posé cette question à moi-même en 2025. La réponse m'a mis un coup.
->
-> J'étais dans la salle 6 jours sur 7. Lever 7h après 3h de sommeil en festival pour "ne pas rater une séance". Je refusais le gâteau d'anniversaire de ma mère. Je comptais mes grammes de protéines à 23h.
->
-> Et j'étais en mauvaise santé.
->
-> Je n'étais pas en mauvaise forme. J'étais discipliné, physiquement actif, et littéralement en mauvaise santé.
->
-> Ce n'est pas la même chose.
->
-> La vraie santé, c'est :
-> - Bouger parce que tu aimes ça, pas parce que tu culpabilises si tu t'arrêtes
-> - Manger pour avoir de l'énergie et te renforcer, pas pour les abdos
-> - Dormir 8h sans culpabilité
-> - Rater une séance et passer une bonne soirée quand même
->
-> C'est ça que j'enseigne aujourd'hui. Pas la performance à tout prix. La santé durable.
->
-> Si tu veux commencer à bouger sans te faire du mal, dis-le moi en commentaire ou en DM.
+C'est mon histoire. Et je pense que beaucoup d'entre vous se reconnaissent.
+
+J'étais "discipliné". Riz, poulet, brocoli. Pas de resto avec les amis. Pas de gâteau chez ma mère. Lever à 7h après 3h de sommeil en festival pour ne pas rater ma séance.
+
+Le résultat ? Une blessure à l'épaule ignorée pendant des mois. Une relation toxique avec la bouffe. Et une santé qui se dégradait, malgré toute ma discipline.
+
+Parce que la discipline et la santé, c'est pas la même chose.
+
+Ce que j'ai appris depuis :
+- Manger pour avoir de l'énergie et vivre longtemps, pas pour les abdos
+- Bouger parce que ça fait du bien, pas parce que t'as "mangé trop" hier
+- Intégrer le sport dans ta vie, pas te construire une vie autour du sport
+
+Aujourd'hui j'accompagne mes clients exactement là-dessus. Pas de régime strict. Pas de programme copié sur un athlète pro. Un mode de vie qui tient sur 10, 20, 30 ans.
+
+C'est ça, le sport-santé.
+
+Si t'es fatigué de recommencer à zéro chaque année, glisse-moi un DM.
 
 ---
 
 **Hashtags :**
-
-#sporthygienedevie #santedurable #coachinghybride #longevite #sportetsante #mouvementquotidien #coachingindependant #belgique #rsptraining #bien­etreauquotidien
+#sportsante #longevite #coachsportif #bienetre #nutrition #mobilite #coachingindividuel #belgique #mouvementquotidien #santeauquotidien
