@@ -1,70 +1,66 @@
-# Brief RSP Training — 2026-08-16
+# Brief du jour — 2026-08-18
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige la page d'accueil de ton site RSP Training.**
+**Crée ta page de vente RSP sur une feuille blanche.**
 
-Une seule tâche : ouvre un doc (Notion, Google Docs, peu importe) et écris ces 4 éléments :
-- Le titre principal (1 ligne, ce que tu fais et pour qui)
-- Le sous-titre (1-2 phrases, la transformation que tu promets)
-- 3 points différenciants (ce qui te rend unique vs un coach classique)
-- L'appel à l'action (ex: "Réserve ton appel découverte gratuit")
+Action concrète : ouvre un document (Notion, Google Docs ou Canva) et rédige une page de présentation de l'offre RSP 8 semaines avec ces 5 blocs dans l'ordre :
 
-Tu as déjà ta philosophie formalisée et ton offre construite. Ce travail de rédaction débloque tout le reste : site, brochure, bio Instagram. 30-45 minutes aujourd'hui = fondation pour tout ce qui suit.
+- Problème vécu par ton client idéal (relation malsaine au sport/nutrition, blessures, zéro résultats durables)
+- Ce que tu proposes (Méthode RSP Transformation, 8 semaines, suivi complet)
+- Ce qui te différencie (ton histoire, ta philosophie, l'autonomie comme objectif)
+- Ce que ça inclut (formulaire, séance découverte, S1-S8, bilan final)
+- Prix et prochaine étape (499€ lancement, un seul CTA : t'écrire en DM ou par message)
+
+Tu n'as pas de site, tu n'as pas de landing page. Cette page remplace les deux pour l'instant. Elle devient le document que tu envoies à tes prochains prospects après un premier contact.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message WhatsApp à tes 2 clients actuels aujourd'hui.**
+**Demande un témoignage à un de tes 2 clients actuels.**
 
-Message type (à adapter selon la personne) :
+Tu as 2 clients en domicile. L'un des deux a forcément eu un moment fort avec toi depuis le début. Message simple à envoyer aujourd'hui :
 
-> "Salut [prénom], comment tu te sens depuis notre dernière séance ? Tu as remarqué quelque chose de différent cette semaine, que ce soit sur le mouvement, l'énergie ou autre chose ?"
+> "Salut [Prénom], j'ai une petite demande. Est-ce que tu aurais 5 minutes pour me donner un retour sur ton expérience avec moi jusqu'ici ? Un ou deux paragraphes sur ce que tu as ressenti, ce qui a changé. Je développe mon activité et ton témoignage m'aiderait beaucoup."
 
-Pourquoi c'est important :
-- Ça montre un suivi actif, pas juste les séances
-- Les réponses sont du feedback concret sur tes résultats
-- Si la réponse est positive, tu peux demander la permission de la partager (témoignage anonyme)
-- Ça renforce la fidélisation et l'envie de continuer
-
-Fais-le ce matin, pas ce soir.
+Si tu l'as déjà, utilise ce témoignage dans le document de ta page de vente. Si tu n'en as pas encore, c'est le bon moment. Un témoignage réel vaut plus que 10 posts de contenu.
 
 ---
 
-## 3. Contenu prêt à publier
+## 3. Contenu prêt
 
-**Instagram / TikTok**
+**Post Instagram / TikTok caption**
+
+---
 
 **Accroche :**
-J'ai compté mes calories pendant 2 ans. J'ai pris du poids, je me suis blessé, et j'avais plus de vie sociale.
+Tu n'as pas un problème de motivation. Tu as un problème de méthode.
 
 ---
 
 **Texte :**
+Pendant des années, j'ai cru que la discipline était la clé.
+Je me levais à 7h après 3h de sommeil. Je refusais le gâteau de ma mère. Je calculais mes macros au gramme près.
 
-C'est mon histoire. Et je pense que beaucoup d'entre vous se reconnaissent.
+J'étais extrêmement discipliné.
+Je n'étais pas en bonne santé.
 
-J'étais "discipliné". Riz, poulet, brocoli. Pas de resto avec les amis. Pas de gâteau chez ma mère. Lever à 7h après 3h de sommeil en festival pour ne pas rater ma séance.
+Ce que personne ne t'a expliqué, c'est que discipline et santé ne sont pas la même chose.
 
-Le résultat ? Une blessure à l'épaule ignorée pendant des mois. Une relation toxique avec la bouffe. Et une santé qui se dégradait, malgré toute ma discipline.
+La santé, c'est bouger parce que tu aimes ça, pas parce que tu te punis.
+C'est manger pour avoir de l'énergie, pas pour punir tes écarts du week-end.
+C'est un corps qui dure 40 ans de plus, pas un physique parfait pendant 6 mois.
 
-Parce que la discipline et la santé, c'est pas la même chose.
+J'ai tout déconstruit. Et je reconstruis ça avec mes clients, un à un.
 
-Ce que j'ai appris depuis :
-- Manger pour avoir de l'énergie et vivre longtemps, pas pour les abdos
-- Bouger parce que ça fait du bien, pas parce que t'as "mangé trop" hier
-- Intégrer le sport dans ta vie, pas te construire une vie autour du sport
-
-Aujourd'hui j'accompagne mes clients exactement là-dessus. Pas de régime strict. Pas de programme copié sur un athlète pro. Un mode de vie qui tient sur 10, 20, 30 ans.
-
-C'est ça, le sport-santé.
-
-Si t'es fatigué de recommencer à zéro chaque année, glisse-moi un DM.
+Si tu veux arrêter de recommencer à zéro chaque année, écris-moi en DM.
 
 ---
 
-**Hashtags :**
-#sportsante #longevite #coachsportif #bienetre #nutrition #mobilite #coachingindividuel #belgique #mouvementquotidien #santeauquotidien
+**10 hashtags :**
+#sportetSanté #longévité #coachingholiste #mouvementcommemoDedevie #rsptraining #coachsportifbelgique #santédurable #fitnessfunctionnel #changedeshabitudes #vivremieux
+
+---
