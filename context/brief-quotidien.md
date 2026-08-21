@@ -1,66 +1,66 @@
-# Brief du jour — 2026-08-18
+# Brief RSP — 2026-08-21
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Crée ta page de vente RSP sur une feuille blanche.**
+**Rédige ton elevator pitch RSP en 3 lignes et envoie-le à 3 contacts chauds.**
 
-Action concrète : ouvre un document (Notion, Google Docs ou Canva) et rédige une page de présentation de l'offre RSP 8 semaines avec ces 5 blocs dans l'ordre :
+Tu n'as pas encore de site, pas de page de vente, pas de bio optimisée. Ce n't pas ça qui te bloquera à court terme. Ce qui te bloquera, c'est de ne pas parler de toi à des gens qui ont besoin de toi.
 
-- Problème vécu par ton client idéal (relation malsaine au sport/nutrition, blessures, zéro résultats durables)
-- Ce que tu proposes (Méthode RSP Transformation, 8 semaines, suivi complet)
-- Ce qui te différencie (ton histoire, ta philosophie, l'autonomie comme objectif)
-- Ce que ça inclut (formulaire, séance découverte, S1-S8, bilan final)
-- Prix et prochaine étape (499€ lancement, un seul CTA : t'écrire en DM ou par message)
+Pitch à construire aujourd'hui (modèle suggéré) :
+- Ligne 1 : le problème que tu règles ("Tu fais du sport mais tu te sens toujours fatigué, blessé ou pas en forme ?")
+- Ligne 2 : ta solution ("Je t'accompagne sur 8 semaines pour retrouver de l'énergie et bouger sans te faire mal")
+- Ligne 3 : la preuve courte + l'invitation ("J'accompagne 2 clients en ce moment. Si tu veux qu'on en parle 15 min, dis-le moi")
 
-Tu n'as pas de site, tu n'as pas de landing page. Cette page remplace les deux pour l'instant. Elle devient le document que tu envoies à tes prochains prospects après un premier contact.
+Une fois rédigé, envoie-le (sans forcer la vente) à 3 personnes : un ami, un contact BSport, et quelqu'un qui t'a déjà posé des questions sur le sport ou la nutrition.
 
 ---
 
 ## 2. Action client
 
-**Demande un témoignage à un de tes 2 clients actuels.**
+**Envoie un message de suivi personnalisé à tes 2 clients actuels.**
 
-Tu as 2 clients en domicile. L'un des deux a forcément eu un moment fort avec toi depuis le début. Message simple à envoyer aujourd'hui :
+Pas un bilan officiel. Juste un SMS ou message vocal de 30 secondes qui mentionne quelque chose de précis de leur dernière séance.
 
-> "Salut [Prénom], j'ai une petite demande. Est-ce que tu aurais 5 minutes pour me donner un retour sur ton expérience avec moi jusqu'ici ? Un ou deux paragraphes sur ce que tu as ressenti, ce qui a changé. Je développe mon activité et ton témoignage m'aiderait beaucoup."
+Exemples :
+- "Tu as bien géré la partie mobilité lundi, tu as senti une différence dans la semaine ?"
+- "Je pensais à toi, on avait parlé de ton sommeil la dernière fois, est-ce que ça a bougé ?"
 
-Si tu l'as déjà, utilise ce témoignage dans le document de ta page de vente. Si tu n'en as pas encore, c'est le bon moment. Un témoignage réel vaut plus que 10 posts de contenu.
+Ce type de suivi informel entre les séances est ce qui crée la fidélisation et génère des recommandations spontanées. La prochaine phrase que tu entendras souvent : "J'en ai parlé à un ami, il serait intéressé."
 
 ---
 
-## 3. Contenu prêt
+## 3. Contenu prêt à publier
 
-**Post Instagram / TikTok caption**
+**Post Instagram / TikTok**
 
 ---
 
 **Accroche :**
-Tu n'as pas un problème de motivation. Tu as un problème de méthode.
+J'étais discipliné. Mais je n'étais pas en bonne santé.
 
 ---
 
 **Texte :**
-Pendant des années, j'ai cru que la discipline était la clé.
-Je me levais à 7h après 3h de sommeil. Je refusais le gâteau de ma mère. Je calculais mes macros au gramme près.
+Pendant 2 ans, je me levais à 7h après 3h de sommeil pour ne pas rater ma séance.
+Je refusais le gâteau de ma mère. Je ne mangeais pas au restau avec mes amis.
+Je comptais tout au gramme près.
 
-J'étais extrêmement discipliné.
-Je n'étais pas en bonne santé.
+Et j'ai fini avec une blessure à l'épaule que j'ai ignorée pendant des mois.
+Et une relation au corps qui était tout sauf saine.
 
-Ce que personne ne t'a expliqué, c'est que discipline et santé ne sont pas la même chose.
+La discipline, c'est une qualité. Pas une garantie de santé.
+C'est ce qu'un kiné m'a fait comprendre en 2026. Et ça a tout changé.
 
-La santé, c'est bouger parce que tu aimes ça, pas parce que tu te punis.
-C'est manger pour avoir de l'énergie, pas pour punir tes écarts du week-end.
-C'est un corps qui dure 40 ans de plus, pas un physique parfait pendant 6 mois.
+Aujourd'hui j'accompagne des gens qui sont comme moi avant : motivés, mais dans la mauvaise direction.
+Pas de régimes impossibles. Pas de programmes copiés sur des athlètes.
+Un entraînement qui te ressemble, une nutrition pour avoir de l'énergie, et un rapport au corps qu'on reconstruit ensemble.
 
-J'ai tout déconstruit. Et je reconstruis ça avec mes clients, un à un.
-
-Si tu veux arrêter de recommencer à zéro chaque année, écris-moi en DM.
-
----
-
-**10 hashtags :**
-#sportetSanté #longévité #coachingholiste #mouvementcommemoDedevie #rsptraining #coachsportifbelgique #santédurable #fitnessfunctionnel #changedeshabitudes #vivremieux
+C'est ça, RSP Training.
+Si tu te reconnais, écris-moi.
 
 ---
+
+**Hashtags :**
+#sporthsante #longevite #coachhsportif #mouvement #sante #belgique #coaching #bienetre #formephysique #entraînement
