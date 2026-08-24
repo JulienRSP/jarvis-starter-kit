@@ -1,66 +1,53 @@
-# Brief RSP — 2026-08-21
+# Brief RSP Training — 2026-08-24
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige ton elevator pitch RSP en 3 lignes et envoie-le à 3 contacts chauds.**
+**Rédige ta page "À propos" pour le site RSP Training.**
 
-Tu n'as pas encore de site, pas de page de vente, pas de bio optimisée. Ce n't pas ça qui te bloquera à court terme. Ce qui te bloquera, c'est de ne pas parler de toi à des gens qui ont besoin de toi.
-
-Pitch à construire aujourd'hui (modèle suggéré) :
-- Ligne 1 : le problème que tu règles ("Tu fais du sport mais tu te sens toujours fatigué, blessé ou pas en forme ?")
-- Ligne 2 : ta solution ("Je t'accompagne sur 8 semaines pour retrouver de l'énergie et bouger sans te faire mal")
-- Ligne 3 : la preuve courte + l'invitation ("J'accompagne 2 clients en ce moment. Si tu veux qu'on en parle 15 min, dis-le moi")
-
-Une fois rédigé, envoie-le (sans forcer la vente) à 3 personnes : un ami, un contact BSport, et quelqu'un qui t'a déjà posé des questions sur le sport ou la nutrition.
+C'est la rentrée : les gens cherchent un coach maintenant. Une page "À propos" solide convertit mieux qu'une page offre. Raconte ton histoire en 3 blocs : ton parcours personnel (musculation -> relation malsaine -> blessure épaule -> reconstruction), ce que ça t'a appris, et pourquoi ça change l'approche que tu proposes à tes clients. 300 à 400 mots maximum, ton histoire personnelle est ton meilleur argument de différenciation.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de suivi personnalisé à tes 2 clients actuels.**
+**Envoie un message WhatsApp à tes 2 clients actuels pour prendre leur pouls de rentrée.**
 
-Pas un bilan officiel. Juste un SMS ou message vocal de 30 secondes qui mentionne quelque chose de précis de leur dernière séance.
-
-Exemples :
-- "Tu as bien géré la partie mobilité lundi, tu as senti une différence dans la semaine ?"
-- "Je pensais à toi, on avait parlé de ton sommeil la dernière fois, est-ce que ça a bougé ?"
-
-Ce type de suivi informel entre les séances est ce qui crée la fidélisation et génère des recommandations spontanées. La prochaine phrase que tu entendras souvent : "J'en ai parlé à un ami, il serait intéressé."
+Message simple, naturel, environ 3 lignes : "Comment tu te sens depuis qu'on a repris ? Est-ce qu'il y a quelque chose sur lequel tu veux qu'on mette plus le focus en septembre ?" Ce contact proactif renforce la fidélité et te permet d'ajuster le programme. Bonus : demande-leur s'ils connaissent quelqu'un qui cherche un coach pour la rentrée. Le bouche-à-oreille de clients satisfaits est ta meilleure source de prospection en ce moment.
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Post Instagram / TikTok**
-
----
-
 **Accroche :**
-J'étais discipliné. Mais je n'étais pas en bonne santé.
+Tu t'es torturé pendant des mois pour perdre du poids. Et maintenant tu reprends.
+
+**Corps du post :**
+Chaque rentrée, le même cycle.
+Motivation à fond. Programme strict. Résultats... puis abandon.
+
+Ce n'est pas un problème de volonté.
+C'est un problème de méthode.
+
+Voilà ce que personne ne te dit sur le sport et la nutrition :
+- La discipline extrême n'est pas la santé
+- Un entraînement copié sur un athlète sponsorisé ne marchera pas sur toi
+- Manger "propre" à 100% crée du stress chronique, qui fait grossir
+- La blessure que tu ignores va devenir chronique
+
+Je le sais parce que j'y suis passé.
+Lever à 7h après 3h de sommeil pour ne pas rater une séance. Refuser le resto avec les amis. Compter chaque gramme. Blessure à l'épaule ignorée pendant des mois.
+
+J'étais très discipliné. Je n'étais pas en bonne santé.
+
+En septembre, si tu veux que cette fois soit différente, la question n'est pas "quel programme ?"
+
+La question est : pourquoi tu t'entraînes, et comment tu vas aimer le faire toute ta vie ?
+
+C'est ça que j'apprends à mes clients.
 
 ---
 
-**Texte :**
-Pendant 2 ans, je me levais à 7h après 3h de sommeil pour ne pas rater ma séance.
-Je refusais le gâteau de ma mère. Je ne mangeais pas au restau avec mes amis.
-Je comptais tout au gramme près.
-
-Et j'ai fini avec une blessure à l'épaule que j'ai ignorée pendant des mois.
-Et une relation au corps qui était tout sauf saine.
-
-La discipline, c'est une qualité. Pas une garantie de santé.
-C'est ce qu'un kiné m'a fait comprendre en 2026. Et ça a tout changé.
-
-Aujourd'hui j'accompagne des gens qui sont comme moi avant : motivés, mais dans la mauvaise direction.
-Pas de régimes impossibles. Pas de programmes copiés sur des athlètes.
-Un entraînement qui te ressemble, une nutrition pour avoir de l'énergie, et un rapport au corps qu'on reconstruit ensemble.
-
-C'est ça, RSP Training.
-Si tu te reconnais, écris-moi.
-
----
-
-**Hashtags :**
-#sporthsante #longevite #coachhsportif #mouvement #sante #belgique #coaching #bienetre #formephysique #entraînement
+**10 hashtags :**
+#sportante #coachinghybride #rentrée2026 #mouvementauquotidien #rsptraining #santelongevite #coachbruxelles #fitnessdurable #reformatonsportive #bienêtrereelle
