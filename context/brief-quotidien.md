@@ -1,63 +1,68 @@
-# Brief RSP — 2026-08-25
+# Brief RSP Training — 2026-08-26
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige ta page "À propos" pour le site RSP Training.**
+**Construis le formulaire approfondi pour tes clients signés.**
 
-C'est la page la plus lue après la home, et tu as maintenant une histoire en or à raconter : la musculation classique, la relation malsaine avec la nourriture, la blessure d'épaule, la reconstruction, et la philosophie fonctionnelle qui en est sortie. C'est ton avantage concurrentiel principal face aux coachs génériques.
+C'est le chaînon manquant identifié lors de la session du 4 juin : tu as la formule complète (séance découverte → signature → S1-S8), mais pas le formulaire approfondi post-signature qui permet de personnaliser le programme.
 
-Action concrète : ouvre un doc (Notion, Google Docs ou directement dans le repo) et écris ta page "À propos" en 3 blocs :
-- Qui tu étais avant (le déclic)
-- Ce que tu as compris (la transformation)
-- Ce que tu proposes aujourd'hui (la méthode RSP)
+Action concrète :
+- Ouvre un Google Forms ou Notion
+- 10 à 15 questions max : blessures passées et actuelles, objectifs précis sur 8 semaines, disponibilités, équipement à domicile, habitudes alimentaires actuelles, sommeil moyen, niveau de stress, sports pratiqués en parallèle
+- Ajoute une question ouverte : "Qu'est-ce qui t'a fait craquer dans les tentatives précédentes ?"
+- Nomme-le "Formulaire RSP Complet" et sauvegarde le lien dans tes outils
 
-Objectif : 200 à 300 mots, première personne, ton naturel. Pas un CV. Une histoire.
+Pourquoi aujourd'hui : fin août, les gens recommencent à se motiver avant l'hiver. Si un prospect signe cette semaine, tu dois pouvoir le onboarder proprement dès demain.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de check-in à tes 2 clients actuels.**
+**Envoie un message de check-in à tes 2 clients actuels aujourd'hui.**
 
-Pas pour vendre. Pour prendre des nouvelles sincères et renforcer le lien.
+Formule simple, pas de pression :
 
-Message type :
-> "Salut [Prénom], j'espère que tu vas bien ! Je pensais à toi, comment tu te sens depuis notre dernière séance ? Des choses à ajuster pour la prochaine ?"
+> "Salut [Prénom], comment tu vas ? On approche de la fin de l'été, j'espère que tu tiens bien le rythme. Une petite question : tu ressens quoi comme changement depuis qu'on a commencé ? Je prépare un point de suivi pour la rentrée, ta réponse m'aide à affiner ce qu'on fait ensemble."
 
-Pourquoi maintenant : fin août = rentrée imminente. C'est le meilleur moment pour anticiper leur agenda de septembre et leur proposer de maintenir le rythme. Un client qu'on relance avant qu'il ne disparaisse, c'est un client qu'on garde.
+Objectifs du message :
+- Renforcer la relation avant la rentrée (moment charnière pour l'engagement sportif)
+- Collecter un témoignage naturel si la réponse est positive (tu pourras l'utiliser en contenu anonymisé)
+- Anticiper un éventuel désengagement avant qu'il arrive
 
-Bonus : si l'un d'eux est satisfait, c'est aussi le bon moment pour lui demander naturellement s'il connaît quelqu'un qui pourrait bénéficier du coaching.
+En parallèle : contacte 2 personnes de ton entourage ou de BSport Berchem qui ont mentionné vouloir faire quelque chose pour leur santé. Pas une offre commerciale, juste : "Tu avais dit que tu voulais te mettre à quelque chose à la rentrée. C'est toujours d'actualité ?"
 
 ---
 
-## 3. Contenu prêt (Instagram / TikTok)
+## 3. Contenu prêt à publier
+
+**Post Instagram / TikTok — Sport-santé et longévité**
 
 **Accroche :**
-Tu t'entraînes dur depuis des années. Mais tu es toujours blessé, fatigué, ou tu n'avances plus.
-
----
+"J'ai été extrêmement discipliné pendant 2 ans. Et j'étais en mauvaise santé."
 
 **Texte :**
+Je me levais à 7h après 3h de sommeil en festival pour ne pas rater ma séance.
+Je refusais de goûter le gâteau de ma mère pour rester dans mes macros.
+Je calculais mes grammes de protéines au dixième près.
 
-Ce n'est pas un problème de motivation. C'est un problème de méthode.
+Et je me suis blessé. Épaule. Novembre 2025.
 
-J'ai passé des années à copier des programmes de bodybuilders sponsorisés. Résultat : une épaule chronique, une relation toxique avec la bouffe, et zéro qualité de vie.
+Ce jour-là j'ai compris quelque chose que personne ne m'avait dit :
+La discipline et la santé, c'est pas la même chose.
 
-Ce que j'aurais voulu qu'on me dise beaucoup plus tôt :
+On peut être ultra-discipliné et se détruire.
+On peut bouger moins et être en meilleure santé.
 
-- S'entraîner dur et s'entraîner intelligemment, ce n'est pas pareil
-- La discipline sans récupération, c'est juste de la destruction organisée
-- Le meilleur programme du monde est celui que tu peux tenir à 60 ans
+Ce que j'enseigne maintenant :
+Bouger parce qu'on aime ça, pas parce qu'on culpabilise.
+Manger pour avoir de l'énergie, pas pour avoir des abdos.
+Construire une relation avec son corps qui dure 50 ans, pas 6 mois.
 
-Le sport-santé, ce n'est pas "du sport pour les vieux". C'est du sport qui te permet de vieillir sans te dégrader.
+C'est ça la longévité. C'est ça RSP Training.
 
-C'est exactement ce que j'enseigne chez RSP Training.
+Si tu veux qu'on en parle, envoie-moi un message.
 
-Tu veux savoir si ton programme actuel te construit ou te détruit ? Envoie-moi un message.
-
----
-
-**Hashtags :**
-#sportetlongévité #coachsportif #sporthealth #entrainementfonctionnel #bienêtre #sportvieillissement #rsptraining #coachbruxelles #méthodefonctionnelle #longevité
+**10 hashtags :**
+#sportetsa­nté #longévité #coachdebien #coachingbelgique #santéetbien-être #mouvementauquotidien #coachsportif #bruxelles #performancedurable #RSPTraining
