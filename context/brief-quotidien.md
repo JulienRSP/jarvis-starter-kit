@@ -1,68 +1,76 @@
-# Brief RSP Training — 2026-08-26
+# Brief quotidien — 2026-08-27
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Construis le formulaire approfondi pour tes clients signés.**
+**Action : Envoie un message "rentrée" à 3 contacts chauds aujourd'hui.**
 
-C'est le chaînon manquant identifié lors de la session du 4 juin : tu as la formule complète (séance découverte → signature → S1-S8), mais pas le formulaire approfondi post-signature qui permet de personnaliser le programme.
+C'est la semaine avant la rentrée. C'est le moment de l'année où les gens décident de changer. Pas dans 3 semaines, pas à partir de lundi, maintenant. Tu n'as pas besoin d'un site finalisé pour ça.
 
-Action concrète :
-- Ouvre un Google Forms ou Notion
-- 10 à 15 questions max : blessures passées et actuelles, objectifs précis sur 8 semaines, disponibilités, équipement à domicile, habitudes alimentaires actuelles, sommeil moyen, niveau de stress, sports pratiqués en parallèle
-- Ajoute une question ouverte : "Qu'est-ce qui t'a fait craquer dans les tentatives précédentes ?"
-- Nomme-le "Formulaire RSP Complet" et sauvegarde le lien dans tes outils
+Cible : 3 personnes dans ton entourage (famille, amis, connaissances) qui ont déjà exprimé un intérêt pour le sport ou la santé, ou qui ont visiblement du mal avec ça. Pas des inconnus.
 
-Pourquoi aujourd'hui : fin août, les gens recommencent à se motiver avant l'hiver. Si un prospect signe cette semaine, tu dois pouvoir le onboarder proprement dès demain.
+Message type à adapter :
+
+> "Salut [Prénom], avec la rentrée qui arrive, je lance quelques accompagnements individuels en sport-santé. C'est du coaching à domicile, personnalisé, et orienté longévité, pas juste perdre du poids. Je pense que ça pourrait t'intéresser. Tu veux qu'on en parle ?"
+
+Objectif du jour : 3 messages envoyés. Résultat cible : au moins 1 réponse positive qui mène à un appel ou une rencontre.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de check-in à tes 2 clients actuels aujourd'hui.**
+**Demande une recommandation directe à chacun de tes 2 clients actuels.**
 
-Formule simple, pas de pression :
+Pas un témoignage écrit formel. Une vraie question simple, en fin de séance ou par message :
 
-> "Salut [Prénom], comment tu vas ? On approche de la fin de l'été, j'espère que tu tiens bien le rythme. Une petite question : tu ressens quoi comme changement depuis qu'on a commencé ? Je prépare un point de suivi pour la rentrée, ta réponse m'aide à affiner ce qu'on fait ensemble."
+> "Est-ce que tu connais quelqu'un dans ton entourage, famille ou amis, qui galère avec sa forme, sa mobilité ou son énergie ? Je cherche à accompagner 3 nouvelles personnes ce mois-ci."
 
-Objectifs du message :
-- Renforcer la relation avant la rentrée (moment charnière pour l'engagement sportif)
-- Collecter un témoignage naturel si la réponse est positive (tu pourras l'utiliser en contenu anonymisé)
-- Anticiper un éventuel désengagement avant qu'il arrive
-
-En parallèle : contacte 2 personnes de ton entourage ou de BSport Berchem qui ont mentionné vouloir faire quelque chose pour leur santé. Pas une offre commerciale, juste : "Tu avais dit que tu voulais te mettre à quelque chose à la rentrée. C'est toujours d'actualité ?"
+Tes 2 clients (dame 87 ans, homme 63 ans) sont exactement dans le réseau de personnes qui connaissent d'autres seniors ou actifs en transition. Leur bouche-à-oreille vaut une campagne pub. Un client qui recommande un ami, c'est ton prospect le plus chaud possible.
 
 ---
 
-## 3. Contenu prêt à publier
+## 3. Contenu prêt
 
-**Post Instagram / TikTok — Sport-santé et longévité**
+**Post Instagram/TikTok — Rentrée + vérité sur la discipline**
+
+---
 
 **Accroche :**
-"J'ai été extrêmement discipliné pendant 2 ans. Et j'étais en mauvaise santé."
+J'étais extrêmement discipliné. Et je n'étais pas en bonne santé.
+
+---
 
 **Texte :**
-Je me levais à 7h après 3h de sommeil en festival pour ne pas rater ma séance.
-Je refusais de goûter le gâteau de ma mère pour rester dans mes macros.
-Je calculais mes grammes de protéines au dixième près.
+Pendant des années, je me levais à 7h après 3h de sommeil pour ne pas rater ma séance.
 
-Et je me suis blessé. Épaule. Novembre 2025.
+Je refusais de manger le gâteau de ma mère.
+Je calculais mes macros au gramme.
+Je ne partais pas en vacances normalement.
 
-Ce jour-là j'ai compris quelque chose que personne ne m'avait dit :
+J'étais le mec "sérieux". Le mec "motivé". Le mec "qui n'abandonne jamais".
+
+Et mon épaule a lâché. Ma relation avec la nourriture était toxique. Ma tête était épuisée.
+
+J'ai compris un truc que personne ne dit franchement :
+
 La discipline et la santé, c'est pas la même chose.
 
-On peut être ultra-discipliné et se détruire.
-On peut bouger moins et être en meilleure santé.
+Tu peux être ultra discipliné et te détruire en silence.
 
-Ce que j'enseigne maintenant :
-Bouger parce qu'on aime ça, pas parce qu'on culpabilise.
-Manger pour avoir de l'énergie, pas pour avoir des abdos.
-Construire une relation avec son corps qui dure 50 ans, pas 6 mois.
+La vraie santé, c'est bouger parce que tu aimes ça.
+Manger bien parce que tu te sens mieux.
+Pas parce que tu as peur de ce qui arrive si tu t'arrêtes.
 
-C'est ça la longévité. C'est ça RSP Training.
+C'est ça que j'enseigne maintenant.
+Pas des programmes copiés sur des athlètes sponsorisés.
+Un rapport au mouvement qui dure toute la vie.
 
-Si tu veux qu'on en parle, envoie-moi un message.
+Si tu reprends en septembre et que tu sais déjà que tu vas abandonner en novembre, c'est pas un problème de motivation. C'est un problème d'approche.
 
-**10 hashtags :**
-#sportetsa­nté #longévité #coachdebien #coachingbelgique #santéetbien-être #mouvementauquotidien #coachsportif #bruxelles #performancedurable #RSPTraining
+On peut en parler. Message "RENTRÉE" en privé.
+
+---
+
+**Hashtags :**
+#coachingsportif #sportetlongevite #mobilite #sportsante #entraînementfonctionnel #rentrée2026 #habitudesante #coachbruxelles #belgiquecoach #bienêtreauquotidien
