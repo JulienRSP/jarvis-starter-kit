@@ -1,76 +1,70 @@
-# Brief quotidien — 2026-08-27
+# Brief RSP Training — 2026-08-28
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Action : Envoie un message "rentrée" à 3 contacts chauds aujourd'hui.**
+**Crée une page offre minimaliste à envoyer à un prospect aujourd'hui.**
 
-C'est la semaine avant la rentrée. C'est le moment de l'année où les gens décident de changer. Pas dans 3 semaines, pas à partir de lundi, maintenant. Tu n'as pas besoin d'un site finalisé pour ça.
+C'est la fin août, la rentrée approche. C'est le meilleur moment de l'année pour capter des personnes qui veulent "reprendre". Pas besoin d'un site complet. Objectif concret :
 
-Cible : 3 personnes dans ton entourage (famille, amis, connaissances) qui ont déjà exprimé un intérêt pour le sport ou la santé, ou qui ont visiblement du mal avec ça. Pas des inconnus.
+- Ouvre un Google Doc ou Notion
+- Structure : Problème client / Ce que tu proposes / Comment ça se passe (les 8 semaines) / Prix (499€ lancement) / Comment commencer (message WhatsApp ou email)
+- Tu as 1 heure max pour faire ça
+- Résultat : quelque chose de propre à coller dans un message ou en lien Linktree
 
-Message type à adapter :
-
-> "Salut [Prénom], avec la rentrée qui arrive, je lance quelques accompagnements individuels en sport-santé. C'est du coaching à domicile, personnalisé, et orienté longévité, pas juste perdre du poids. Je pense que ça pourrait t'intéresser. Tu veux qu'on en parle ?"
-
-Objectif du jour : 3 messages envoyés. Résultat cible : au moins 1 réponse positive qui mène à un appel ou une rencontre.
+Ça devient ton "arme de prospection" pour tout septembre.
 
 ---
 
 ## 2. Action client
 
-**Demande une recommandation directe à chacun de tes 2 clients actuels.**
+**Message de rentrée à tes 2 clients actuels.**
 
-Pas un témoignage écrit formel. Une vraie question simple, en fin de séance ou par message :
+Envoie ce soir ou demain matin un message WhatsApp court et humain à chacun de tes 2 clients. Pas de vente, juste du lien.
 
-> "Est-ce que tu connais quelqu'un dans ton entourage, famille ou amis, qui galère avec sa forme, sa mobilité ou son énergie ? Je cherche à accompagner 3 nouvelles personnes ce mois-ci."
+Exemple de message :
+> "Coucou [Prénom], j'espère que ton été s'est bien passé ! Avec la rentrée qui arrive, j'aimerais qu'on fixe un objectif concret pour septembre. Tu te sens comment physiquement là ?"
 
-Tes 2 clients (dame 87 ans, homme 63 ans) sont exactement dans le réseau de personnes qui connaissent d'autres seniors ou actifs en transition. Leur bouche-à-oreille vaut une campagne pub. Un client qui recommande un ami, c'est ton prospect le plus chaud possible.
+Objectifs de ce message :
+- Maintenir l'engagement des clients actuels (fidélisation)
+- Ouvrir naturellement une conversation sur la suite
+- Potentiel : une recommandation sincère si l'échange est positif
 
 ---
 
 ## 3. Contenu prêt
 
-**Post Instagram/TikTok — Rentrée + vérité sur la discipline**
+**Post Instagram / TikTok — prêt à publier**
 
 ---
 
 **Accroche :**
-J'étais extrêmement discipliné. Et je n'étais pas en bonne santé.
-
----
+J'ai été extrêmement discipliné. Et je n'étais pas en bonne santé.
 
 **Texte :**
-Pendant des années, je me levais à 7h après 3h de sommeil pour ne pas rater ma séance.
+Pendant 2 ans, je comptais chaque gramme de protéines.
+Je refusais le gâteau de ma mère.
+Je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
 
-Je refusais de manger le gâteau de ma mère.
-Je calculais mes macros au gramme.
-Je ne partais pas en vacances normalement.
+J'avais l'air sain.
+De l'extérieur.
 
-J'étais le mec "sérieux". Le mec "motivé". Le mec "qui n'abandonne jamais".
+Mais à l'intérieur ? Stress chronique. Relation toxique avec la nourriture. Blessure ignorée pendant des mois jusqu'à ce qu'elle devienne chronique.
 
-Et mon épaule a lâché. Ma relation avec la nourriture était toxique. Ma tête était épuisée.
+Ce que j'ai compris ce jour-là :
 
-J'ai compris un truc que personne ne dit franchement :
+La discipline n'est pas la santé.
 
-La discipline et la santé, c'est pas la même chose.
+La santé c'est bouger parce que tu aimes bouger.
+Manger pour avoir de l'énergie, pas pour les abdos.
+Dormir pour récupérer, pas pour "optimiser la croissance musculaire".
 
-Tu peux être ultra discipliné et te détruire en silence.
+Aujourd'hui j'accompagne des gens à construire ça pour la vie.
+Pas un programme de 12 semaines qu'on abandonne.
+Un mode de vie qu'on aime.
 
-La vraie santé, c'est bouger parce que tu aimes ça.
-Manger bien parce que tu te sens mieux.
-Pas parce que tu as peur de ce qui arrive si tu t'arrêtes.
+Si toi aussi tu veux sortir du cycle discipline/culpabilité, envoie-moi un message.
 
-C'est ça que j'enseigne maintenant.
-Pas des programmes copiés sur des athlètes sponsorisés.
-Un rapport au mouvement qui dure toute la vie.
-
-Si tu reprends en septembre et que tu sais déjà que tu vas abandonner en novembre, c'est pas un problème de motivation. C'est un problème d'approche.
-
-On peut en parler. Message "RENTRÉE" en privé.
-
----
-
-**Hashtags :**
-#coachingsportif #sportetlongevite #mobilite #sportsante #entraînementfonctionnel #rentrée2026 #habitudesante #coachbruxelles #belgiquecoach #bienêtreauquotidien
+**10 hashtags :**
+#sportetlongevite #coachinghybride #sportante #bienvivre #mouvementpourvraiment #sportsantebelgique #coachingsportif #longevity #santeauquotidien #rsptraining
