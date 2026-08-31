@@ -1,63 +1,62 @@
-# Brief RSP Training — 2026-08-30
+# Brief du jour — 2026-08-31
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Action unique : rédige 3 messages de prospection et envoie-les aujourd'hui.**
+**Rédige la page de vente condensée de la Méthode RSP 8 semaines.**
 
-- Cible : 3 personnes de ton entourage (famille, amis, contacts BSport ou anciens clients potentiels) que tu sais être concernées par la santé, le poids, l'énergie ou la mobilité
-- Format : DM Instagram ou WhatsApp, 3-4 lignes max, ton naturel
-- Proposition : une séance découverte gratuite de 45 min, sans engagement
-- Modèle de message prêt à adapter :
+C'est la rentrée. Le meilleur moment de l'année pour recruter des clients. Mais si tu n'as pas un message clair à envoyer ou à montrer, tu rates la fenêtre.
 
-> "Salut [Prénom], je t'envoie ce message parce que je développe mon activité de coaching sport-santé et que tu m'as semblé concerné(e) par [objectif/problème]. Je propose en ce moment des séances découverte gratuites de 45 min pour tester mon approche. Si ça te parle, dis-moi, je suis dispo cette semaine."
+Action concrète aujourd'hui :
+- Écris en 3 blocs (max 1 page) : problème vécu par ton client idéal, ce que tu proposes concrètement, et l'offre avec le prix de lancement (499 euros)
+- Pas besoin d'un site. Un Google Doc, une note, ou même un message bien structuré suffisent pour commencer à prospecter
+- Base-toi sur ton histoire personnelle (la musculation toxique, la blessure, la reconstruction) comme accroche de différenciation
 
-- Objectif : décrocher au moins 1 rendez-vous découverte cette semaine
-- Pourquoi maintenant : tu es à 2 clients sur 5. Chaque semaine sans prospection active = une semaine perdue sur ton objectif 6 mois.
+Résultat attendu : tu as quelque chose à envoyer à un prospect aujourd'hui si l'occasion se présente.
 
 ---
 
 ## 2. Action client
 
-**Demande une référence à chacun de tes 2 clients actuels.**
+**Envoie un message de rentrée à tes 2 clients actuels.**
 
-- Envoie un message court et direct à chacun :
+Message court, direct, axé sur eux :
+- Prends de leurs nouvelles après l'été
+- Demande-leur où ils en sont avec leurs objectifs
+- Glisse naturellement : "Est-ce que tu connais quelqu'un autour de toi qui cherche un coach en ce moment ? La rentrée c'est toujours le bon moment pour démarrer."
 
-> "Comment tu vas depuis la dernière séance ? J'ai une question : est-ce que tu connais quelqu'un dans ton entourage qui galère avec [leur situation : mobilité / énergie / poids / douleurs] ? Je cherche à aider 2-3 personnes de plus et je fais ça bien. Si tu as quelqu'un en tête, n'hésite pas à me le dire."
-
-- Timing idéal : envoie ce message dans les 24h qui suivent une séance (moment où la satisfaction est au plus haut)
-- Pourquoi c'est efficace : la recommandation directe convertit 10x mieux que n'importe quelle pub. Tes clients ont déjà vu ton travail, ils ont envie de partager si tu leur facilites la chose.
+Pourquoi maintenant : tes clients actuels sont ta meilleure source de recommandations. Ils te font confiance. Un message humain en rentrée ouvre souvent des portes sans effort de prospection à froid.
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Post Instagram ou TikTok**
+**Format : Instagram (caption) ou TikTok (script texte)**
+
+---
 
 **Accroche :**
-Tu t'entraînes depuis des années. Mais es-tu vraiment en meilleure santé ?
+Tu reprends la salle en septembre. Tu vas sûrement arrêter en octobre.
 
-**Texte complet :**
+**Texte :**
+Chaque année c'est pareil.
 
-J'ai longtemps cru que discipline = santé.
+Rentrée. Motivation à bloc. Abonnement salle. 3 semaines intenses.
 
-Je me levais à 7h après 3h de sommeil pour ne pas rater une séance. Je refusais de manger le gâteau de ma mère. Je comptais chaque gramme. J'étais extrêmement discipliné.
+Puis la fatigue. L'ennui. Le manque de résultats. Et l'abandon.
 
-Et j'ai fini avec une blessure à l'épaule que je traîne encore.
+Ce n'est pas un manque de volonté. C'est juste que personne ne t'a appris à t'entraîner pour toi.
 
-Ce que j'ai appris : la discipline et la santé, c'est pas la même chose.
+Pas pour les abdos. Pas pour les réseaux. Pour toi.
 
-La vraie santé, c'est bouger parce que t'en as envie. Manger sans culpabilité. Dormir sans te sentir coupable. Avoir de l'énergie pour les gens que tu aimes, pas juste pour tes séances.
+Pour avoir de l'énergie à 19h. Pour ne pas avoir mal au dos. Pour vieillir sans perdre ta mobilité. Pour aimer vraiment bouger.
 
-Mon approche maintenant :
-- On choisit des mouvements que tu aimes (ou que tu peux apprendre à aimer)
-- On mange pour l'énergie, pas pour les abdos
-- On construit une routine qui tient 20 ans, pas 3 mois
+C'est ça le sport-santé. Et ça ne ressemble pas à ce que tu vois sur les feeds.
 
-Si tu galères avec ça, c'est pas un problème de volonté. C'est un problème de méthode.
-
-Commente "INFO" si tu veux qu'on en parle.
+Si tu veux qu'on en parle, mon DM est ouvert.
 
 **Hashtags :**
-#sportetante #longevite #coachsportif #santeglobale #bienetre #mobilite #habitudessaines #coachingindividuel #sporteducatif #rsptraining
+#sportetalnte #longevite #coachadomicile #sporthealth #bienvieillirenforce #mobilite #coachingsportif #rentrée2026 #habitudesano #rsptraining
+
+---
