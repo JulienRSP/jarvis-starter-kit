@@ -1,62 +1,62 @@
-# Brief du jour — 2026-08-31
+# Brief RSP Training — 2026-09-02
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige la page de vente condensée de la Méthode RSP 8 semaines.**
+**Construis une page de capture simple pour la Méthode RSP Transformation 8 semaines.**
 
-C'est la rentrée. Le meilleur moment de l'année pour recruter des clients. Mais si tu n'as pas un message clair à envoyer ou à montrer, tu rates la fenêtre.
+C'est la rentrée. Les gens reprennent leurs résolutions, se remettent au sport, cherchent un coach. C'est le meilleur moment de l'année pour convertir. Tu as ton offre, tu as un prix, tu as une histoire.
 
-Action concrète aujourd'hui :
-- Écris en 3 blocs (max 1 page) : problème vécu par ton client idéal, ce que tu proposes concrètement, et l'offre avec le prix de lancement (499 euros)
-- Pas besoin d'un site. Un Google Doc, une note, ou même un message bien structuré suffisent pour commencer à prospecter
-- Base-toi sur ton histoire personnelle (la musculation toxique, la blessure, la reconstruction) comme accroche de différenciation
+Action concrète : crée une page Linktree (gratuit, 10 minutes) ou une landing page ultra-simple avec :
+- La promesse en une phrase ("Reprends le contrôle de ton corps en 8 semaines, sans régime ni programme copié-collé")
+- Ton prix lancement 499 euros
+- Un bouton "Je postule" qui envoie vers un formulaire Google Forms (ton formulaire prospect existant)
+- Ton contact ou ton Instagram en bas
 
-Résultat attendu : tu as quelque chose à envoyer à un prospect aujourd'hui si l'occasion se présente.
+Objectif du jour : avoir ce lien fonctionnel et pouvoir l'envoyer à quelqu'un ce soir.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de rentrée à tes 2 clients actuels.**
+**Envoie un message à 2 personnes de ton entourage pour leur parler de la rentrée et de tes places disponibles.**
 
-Message court, direct, axé sur eux :
-- Prends de leurs nouvelles après l'été
-- Demande-leur où ils en sont avec leurs objectifs
-- Glisse naturellement : "Est-ce que tu connais quelqu'un autour de toi qui cherche un coach en ce moment ? La rentrée c'est toujours le bon moment pour démarrer."
+Pas un pitch. Un message naturel du genre :
 
-Pourquoi maintenant : tes clients actuels sont ta meilleure source de recommandations. Ils te font confiance. Un message humain en rentrée ouvre souvent des portes sans effort de prospection à froid.
+> "Hey [prénom], on se connaît depuis un moment. Je me lance vraiment dans le coaching perso cette rentrée, spécialisé sport-santé. J'ai 3 places disponibles en septembre. Si tu cherches quelque chose de sérieux (pas le coach qui disparaît après la première semaine), on peut faire un appel rapide. Tu connais quelqu'un à qui ça parlerait ?"
 
----
-
-## 3. Contenu prêt à publier
-
-**Format : Instagram (caption) ou TikTok (script texte)**
+Cible : des gens qui savent que tu t'y connais. Pas des inconnus. La recommandation personnelle convertit 5 fois mieux que la pub froide à ce stade.
 
 ---
+
+## 3. Contenu prêt
+
+**Post Instagram / TikTok**
 
 **Accroche :**
-Tu reprends la salle en septembre. Tu vas sûrement arrêter en octobre.
+Pourquoi ton dos te fait mal en te levant le matin (et comment régler ca en 5 minutes)
 
 **Texte :**
-Chaque année c'est pareil.
+Ton dos te tire au réveil. Tu te redresses comme un vieux même à 30 ans.
 
-Rentrée. Motivation à bloc. Abonnement salle. 3 semaines intenses.
+C'est pas une question d'âge. C'est une question de hanche.
 
-Puis la fatigue. L'ennui. Le manque de résultats. Et l'abandon.
+Quand tu passes 8h assis, tes fléchisseurs de hanche se raccourcissent. Ton bassin bascule en avant. Ta lombalgie, c'est ton corps qui compense cette tension en permanence.
 
-Ce n'est pas un manque de volonté. C'est juste que personne ne t'a appris à t'entraîner pour toi.
+La solution : un étirement de 90 secondes le matin avant même de poser le pied par terre.
 
-Pas pour les abdos. Pas pour les réseaux. Pour toi.
+1. Allonge-toi sur le dos
+2. Ramène un genou vers ta poitrine
+3. Garde l'autre jambe bien tendue sur le matelas
+4. Tiens 45 secondes, respire
+5. Change de côté
 
-Pour avoir de l'énergie à 19h. Pour ne pas avoir mal au dos. Pour vieillir sans perdre ta mobilité. Pour aimer vraiment bouger.
+Fais ca 5 jours de suite et dis-moi si tu te lèves différemment.
 
-C'est ça le sport-santé. Et ça ne ressemble pas à ce que tu vois sur les feeds.
+Le sport-santé c'est pas compliqué. C'est juste personne qui t'a appris les bases.
 
-Si tu veux qu'on en parle, mon DM est ouvert.
+C'est ce que je fais avec mes clients.
 
 **Hashtags :**
-#sportetalnte #longevite #coachadomicile #sporthealth #bienvieillirenforce #mobilite #coachingsportif #rentrée2026 #habitudesano #rsptraining
-
----
+#sporthealth #mobilité #lombalgies #coachingsportif #bienêtre #mouvement #longevite #sport #santé #rsptraining
