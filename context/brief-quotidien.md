@@ -1,64 +1,55 @@
-# Brief du jour — 2026-09-04
+# Brief RSP Training — 2026-09-06
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Action : lancer ta campagne rentrée en 45 minutes.**
+**Finalise une page de vente minimaliste pour ton offre 8 semaines.**
 
-La rentrée de septembre est la meilleure fenêtre de l'année pour convertir. Les gens veulent reprendre, ils cherchent juste le déclencheur. Voici ce que tu fais aujourd'hui :
+Pas de site complet, pas de Webflow. Une seule page simple (Notion, Carrd, ou même un Google Doc partageable) avec :
+- Ton accroche principale (le problème que tu résous)
+- Ce que contient la méthode (8 semaines, hebdomadaire, présentiel + suivi)
+- Le tarif (599€ ou ton prix lancement actuel)
+- Un bouton "Je veux en savoir plus" qui pointe vers toi directement (WhatsApp, Instagram DM, ou formulaire court)
 
-- Ouvre tes contacts WhatsApp et Instagram
-- Sélectionne 5 personnes proches (amis, famille, anciens élèves, collègues BSport) qui ont parlé d'activité physique ou de santé à un moment
-- Envoie ce message adapté à chacun (personnalise en 1 phrase) :
-
-> "La rentrée c'est le bon moment pour se remettre en mouvement. J'ai 2 places disponibles en coaching à domicile ce mois-ci. Si tu veux qu'on en parle, c'est sans engagement."
-
-Pas de pitch. Pas de lien. Juste une porte ouverte. L'objectif : 5 envois aujourd'hui.
+Objectif : avoir quelque chose à envoyer à un prospect aujourd'hui sans devoir expliquer tout à l'oral.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de rentrée personnalisé à tes 2 clients actuels.**
+**Envoie un message de check-in à tes 2 clients actuels.**
 
-Pas un message générique : quelque chose qui montre que tu as pensé à eux spécifiquement.
+Message simple, authentique, pas commercial :
 
-- Pour ton client de 63 ans : demande comment s'est passé l'été au niveau mouvement, qu'est-ce qu'il a pu faire ou pas. Propose de définir ensemble un cap pour septembre.
-- Pour ta cliente de 87 ans : un message chaleureux sur sa forme, et une phrase sur ce que vous allez travailler ensemble ce mois-ci (stabilité, mobilité, énergie).
+> "Coucou [prénom], petit point de mi-parcours : comment tu te sens depuis qu'on a commencé ? T'as remarqué des changements, même petits ?"
 
-Résultat visé : ils sentent qu'ils ont un coach qui pense à eux entre les séances. C'est ça qui fidélise sur le long terme, pas les programmes.
+Double objectif :
+- Fidélisation et lien humain fort (ce qui retient les clients long terme)
+- Récupérer un verbatim client spontané que tu pourras utiliser (avec accord) comme preuve sociale dans ton marketing RSP
 
 ---
 
-## 3. Contenu prêt
+## 3. Contenu prêt à publier
 
-**Post Instagram / TikTok (rentrée + philosophie RSP)**
+**Format : Reels / TikTok (adapté Instagram aussi)**
 
 **Accroche :**
-Tout le monde veut "reprendre en septembre". Peu tiennent jusqu'à octobre.
+Tu peux pas te permettre de ne plus bouger à 70 ans. Voilà pourquoi tu dois commencer maintenant.
 
----
+**Texte du post :**
 
-**Texte :**
-Parce que la plupart recommencent trop fort.
+On attend d'avoir un problème pour s'en occuper. Le genou qui lâche. Le dos chronique. La fatigue permanente. Et là on cherche une solution.
 
-5 séances par semaine. Régime strict. Tout ou rien.
+Mais la mobilité, la force fonctionnelle et l'endurance, ça ne se reconstruit pas en 3 semaines. Ça se construit sur des années. Doucement. Régulièrement.
 
-Et 3 semaines plus tard : zéro.
+La bonne nouvelle : quelques heures par semaine suffisent si tu fais les bons mouvements, au bon moment, avec la bonne méthode.
 
-Ce que j'enseigne à mes clients, c'est l'inverse.
+Mon rôle, c'est pas de te faire transpirer pour te faire transpirer. C'est de t'apprendre à bouger de façon à pouvoir encore le faire dans 20, 30, 40 ans.
 
-On commence petit. On construit une habitude, pas une performance.
-2 séances bien faites valent mieux que 5 séances à moitié abandonnées.
+Et ça commence aujourd'hui, pas quand tu auras plus le choix.
 
-La nutrition ? On ne supprime rien. On apprend à choisir. Sans culpabilité, sans calcul au gramme.
-
-Si tu veux que ta reprise tienne encore en décembre, c'est ça qu'il faut changer.
-
-Le mouvement comme mode de vie. Pas comme punition.
-
----
+Tu veux un point de départ concret ? Dis-le moi en commentaire.
 
 **Hashtags :**
-#sporthealth #coachhybride #rentrée2026 #sportvie #longévité #mouvementquotidien #remiseenforme #bienêtre #coachingsportif #rsptraining
+#sportssante #longevite #mobilite #coachhybride #rsptraining #bienviellir #preventionsante #mouvementfonctionnel #coachsportif #belgique
