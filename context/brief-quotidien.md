@@ -1,55 +1,54 @@
-# Brief RSP Training — 2026-09-06
+# Brief RSP Training — 2026-09-08
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Finalise une page de vente minimaliste pour ton offre 8 semaines.**
+**Action : Rédige et envoie un message de rentrée à 5 contacts de ton réseau personnel.**
 
-Pas de site complet, pas de Webflow. Une seule page simple (Notion, Carrd, ou même un Google Doc partageable) avec :
-- Ton accroche principale (le problème que tu résous)
-- Ce que contient la méthode (8 semaines, hebdomadaire, présentiel + suivi)
-- Le tarif (599€ ou ton prix lancement actuel)
-- Un bouton "Je veux en savoir plus" qui pointe vers toi directement (WhatsApp, Instagram DM, ou formulaire court)
+Septembre est la meilleure période de l'année pour convertir des prospects en clients de coaching : les gens reprennent leurs routines après l'été, ils ont des nouvelles résolutions, et ils cherchent exactement ce que tu proposes.
 
-Objectif : avoir quelque chose à envoyer à un prospect aujourd'hui sans devoir expliquer tout à l'oral.
+Message type à adapter et envoyer sur WhatsApp ou Instagram DM :
+
+> "Salut [prénom], j'espère que l'été s'est bien passé ! Je relance mes accompagnements coaching à domicile pour la rentrée. Je travaille sur un suivi sport-santé sur 8 semaines, on repart de zéro ensemble (évaluation, programme perso, nutrition adaptée à ta vie). Si tu connais quelqu'un qui cherche quelque chose de concret pour se reprendre en main cet automne, n'hésite pas à me transmettre mon contact. Bonne rentrée !"
+
+Cible prioritaire : contacts qui ont déjà exprimé un intérêt, collègues, famille élargie, gens de ton entourage sportif.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de check-in à tes 2 clients actuels.**
+**Demande à chacun de tes 2 clients actuels une recommandation directe cette semaine.**
 
-Message simple, authentique, pas commercial :
+Formulation simple à dire en fin de séance :
 
-> "Coucou [prénom], petit point de mi-parcours : comment tu te sens depuis qu'on a commencé ? T'as remarqué des changements, même petits ?"
+> "Tu es content de nos séances ? Si tu as quelqu'un dans ton entourage, famille ou amis, qui pourrait bénéficier d'un accompagnement similaire, je suis disponible pour la rentrée et je prends 1 ou 2 nouveaux clients ce mois-ci."
 
-Double objectif :
-- Fidélisation et lien humain fort (ce qui retient les clients long terme)
-- Récupérer un verbatim client spontané que tu pourras utiliser (avec accord) comme preuve sociale dans ton marketing RSP
+Pourquoi maintenant : tes clients actuels sont ta meilleure preuve sociale. Un prospect référé par un client existant convertit 3 à 5 fois mieux qu'un contact froid. Et la rentrée est le bon moment pour que les gens de leur entourage prennent une décision.
 
 ---
 
-## 3. Contenu prêt à publier
-
-**Format : Reels / TikTok (adapté Instagram aussi)**
+## 3. Contenu prêt à publier (Instagram ou TikTok)
 
 **Accroche :**
-Tu peux pas te permettre de ne plus bouger à 70 ans. Voilà pourquoi tu dois commencer maintenant.
+La salle de sport n'est pas la seule façon de prendre soin de toi. Et c'est pas la plus efficace pour 90% des gens.
 
-**Texte du post :**
+**Texte :**
+Pendant des années j'ai copié les programmes des athlètes sponsorisés. Entraînement bodybuilding, pesée de la nourriture au gramme, lever à 7h après 3h de sommeil pour "ne pas rater ma séance". Résultat : une blessure à l'épaule, une relation toxique avec la nourriture, et zéro qualité de vie.
 
-On attend d'avoir un problème pour s'en occuper. Le genou qui lâche. Le dos chronique. La fatigue permanente. Et là on cherche une solution.
+Ce que j'ai appris depuis :
 
-Mais la mobilité, la force fonctionnelle et l'endurance, ça ne se reconstruit pas en 3 semaines. Ça se construit sur des années. Doucement. Régulièrement.
+La santé sur le long terme ça ressemble à ça.
+- Bouger de façon régulière, pas forcément intense.
+- Manger pour avoir de l'énergie, pas pour les abdos.
+- Dormir comme si c'était un entraînement.
+- Gérer le stress comme une vraie compétence.
 
-La bonne nouvelle : quelques heures par semaine suffisent si tu fais les bons mouvements, au bon moment, avec la bonne méthode.
+Tu n'as pas besoin d'un programme de bodybuilder. Tu as besoin d'un programme qui colle à ta vie réelle.
 
-Mon rôle, c'est pas de te faire transpirer pour te faire transpirer. C'est de t'apprendre à bouger de façon à pouvoir encore le faire dans 20, 30, 40 ans.
+C'est ça que je fais avec mes clients. Pas de perfection. Pas de culpabilité. Juste une routine qui tient dans le temps.
 
-Et ça commence aujourd'hui, pas quand tu auras plus le choix.
-
-Tu veux un point de départ concret ? Dis-le moi en commentaire.
+Si tu veux qu'on en parle, je suis là.
 
 **Hashtags :**
-#sportssante #longevite #mobilite #coachhybride #rsptraining #bienviellir #preventionsante #mouvementfonctionnel #coachsportif #belgique
+#sportetasante #longevite #coachatdomicile #coachbruxelles #bienetre #mouvementquotidien #sportsante #coachingindividuel #vieequilibree #rsptraining
