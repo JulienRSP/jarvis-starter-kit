@@ -1,54 +1,72 @@
-# Brief RSP Training — 2026-09-08
+# Brief RSP Training — 2026-09-09
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Action : Rédige et envoie un message de rentrée à 5 contacts de ton réseau personnel.**
+**Action : Crée ton message d'acquisition "histoire personnelle" à envoyer à 3 contacts proches.**
 
-Septembre est la meilleure période de l'année pour convertir des prospects en clients de coaching : les gens reprennent leurs routines après l'été, ils ont des nouvelles résolutions, et ils cherchent exactement ce que tu proposes.
+Julien, tu as un atout que 99% des coachs n'ont pas : ton histoire (blessure, relation malsaine avec la nourriture, reconstruction). C'est ton argument le plus fort et tu ne l'utilises pas encore pour prospecter.
 
-Message type à adapter et envoyer sur WhatsApp ou Instagram DM :
+Étapes concrètes aujourd'hui :
+- Rédige un message court en 5-6 lignes : ce que tu as vécu, ce que ça t'a appris, ce que tu fais maintenant différemment avec tes clients
+- Envoie-le à 3 personnes de ton entourage qui ont un rapport compliqué avec le sport ou la santé (peu importe leur âge)
+- Pas de pitch commercial direct. Juste : "Je voulais te partager ce que j'ai traversé..." et une question ouverte à la fin
 
-> "Salut [prénom], j'espère que l'été s'est bien passé ! Je relance mes accompagnements coaching à domicile pour la rentrée. Je travaille sur un suivi sport-santé sur 8 semaines, on repart de zéro ensemble (évaluation, programme perso, nutrition adaptée à ta vie). Si tu connais quelqu'un qui cherche quelque chose de concret pour se reprendre en main cet automne, n'hésite pas à me transmettre mon contact. Bonne rentrée !"
-
-Cible prioritaire : contacts qui ont déjà exprimé un intérêt, collègues, famille élargie, gens de ton entourage sportif.
+L'objectif n'est pas de vendre immédiatement. C'est de planter la graine et de montrer qui tu es vraiment.
 
 ---
 
 ## 2. Action client
 
-**Demande à chacun de tes 2 clients actuels une recommandation directe cette semaine.**
+**Envoie un check-in proactif à tes 2 clients actuels aujourd'hui.**
 
-Formulation simple à dire en fin de séance :
+Pas un message banal. Un message personnalisé qui montre que tu penses à eux en dehors des séances :
+- Un point sur leur progression depuis le début
+- Une mini-victoire qu'ils n'ont peut-être pas remarquée eux-mêmes
+- Une question sur comment ils se sentent cette semaine (énergie, sommeil, stress)
 
-> "Tu es content de nos séances ? Si tu as quelqu'un dans ton entourage, famille ou amis, qui pourrait bénéficier d'un accompagnement similaire, je suis disponible pour la rentrée et je prends 1 ou 2 nouveaux clients ce mois-ci."
-
-Pourquoi maintenant : tes clients actuels sont ta meilleure preuve sociale. Un prospect référé par un client existant convertit 3 à 5 fois mieux qu'un contact froid. Et la rentrée est le bon moment pour que les gens de leur entourage prennent une décision.
+Pourquoi : la rétention et les recommandations viennent de la relation, pas juste des séances. Un client qui se sent vraiment suivi parle de toi autour de lui. Avec seulement 2 clients actifs, chaque recommandation compte double.
 
 ---
 
-## 3. Contenu prêt à publier (Instagram ou TikTok)
+## 3. Contenu prêt à publier
+
+**Format : Instagram Reel ou TikTok (texte lu à l'écran ou narré)**
+
+---
 
 **Accroche :**
-La salle de sport n'est pas la seule façon de prendre soin de toi. Et c'est pas la plus efficace pour 90% des gens.
+"J'étais discipliné. Je n'étais pas en bonne santé. La différence m'a coûté une blessure chronique à l'épaule."
+
+---
 
 **Texte :**
-Pendant des années j'ai copié les programmes des athlètes sponsorisés. Entraînement bodybuilding, pesée de la nourriture au gramme, lever à 7h après 3h de sommeil pour "ne pas rater ma séance". Résultat : une blessure à l'épaule, une relation toxique avec la nourriture, et zéro qualité de vie.
 
-Ce que j'ai appris depuis :
+Pendant des années, je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
 
-La santé sur le long terme ça ressemble à ça.
-- Bouger de façon régulière, pas forcément intense.
-- Manger pour avoir de l'énergie, pas pour les abdos.
-- Dormir comme si c'était un entraînement.
-- Gérer le stress comme une vraie compétence.
+Je refusais le gâteau de ma mère.
+Je refusais de manger au restaurant.
+Je calculais chaque gramme de nourriture.
 
-Tu n'as pas besoin d'un programme de bodybuilder. Tu as besoin d'un programme qui colle à ta vie réelle.
+Je pensais que c'était de la discipline.
+En réalité, c'était de la souffrance déguisée en motivation.
 
-C'est ça que je fais avec mes clients. Pas de perfection. Pas de culpabilité. Juste une routine qui tient dans le temps.
+Ma blessure à l'épaule, c'est moi qui me la suis faite. Pas par manque d'effort. Par excès de mauvaises décisions que je croyais bonnes.
 
-Si tu veux qu'on en parle, je suis là.
+Ce jour-là, j'ai compris une chose :
 
-**Hashtags :**
-#sportetasante #longevite #coachatdomicile #coachbruxelles #bienetre #mouvementquotidien #sportsante #coachingindividuel #vieequilibree #rsptraining
+On peut être extrêmement discipliné et profondément en mauvaise santé.
+
+Aujourd'hui, j'enseigne autre chose à mes clients.
+Pas comment souffrir plus intelligemment.
+Comment aimer bouger, manger, dormir.
+
+Et le faire toute leur vie. Pas juste 8 semaines.
+
+Si tu veux comprendre la différence, je suis là.
+
+---
+
+**10 hashtags :**
+#sportetsante #longevite #coachsportif #sante #bienetre #transformationmentale #fitness #mobilite #coachingindividuel #RSPTraining
