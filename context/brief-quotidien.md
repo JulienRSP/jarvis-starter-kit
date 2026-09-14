@@ -1,72 +1,49 @@
-# Brief RSP Training — 2026-09-09
-
----
+# Brief du jour - 2026-09-14
 
 ## 1. Focus RSP du jour
 
-**Action : Crée ton message d'acquisition "histoire personnelle" à envoyer à 3 contacts proches.**
+**Rédige ta page "À propos" pour le site RSP Training.**
 
-Julien, tu as un atout que 99% des coachs n'ont pas : ton histoire (blessure, relation malsaine avec la nourriture, reconstruction). C'est ton argument le plus fort et tu ne l'utilises pas encore pour prospecter.
+C'est ton différenciateur numéro 1 et c'est ce qui bloque tout le reste (crédibilité site, prospection, contenu). Ton histoire se raconte en 3 temps, 300 à 400 mots max :
+- Avant : la musculation classique, le calcul au gramme, les 3h de sommeil avant une séance
+- La rupture : la blessure épaule novembre 2025, le kiné, la déconstruction
+- Maintenant : ce que tu enseignes, pourquoi tu le fais, à qui ça s'adresse
 
-Étapes concrètes aujourd'hui :
-- Rédige un message court en 5-6 lignes : ce que tu as vécu, ce que ça t'a appris, ce que tu fais maintenant différemment avec tes clients
-- Envoie-le à 3 personnes de ton entourage qui ont un rapport compliqué avec le sport ou la santé (peu importe leur âge)
-- Pas de pitch commercial direct. Juste : "Je voulais te partager ce que j'ai traversé..." et une question ouverte à la fin
-
-L'objectif n'est pas de vendre immédiatement. C'est de planter la graine et de montrer qui tu es vraiment.
+Ne touche pas aux offres aujourd'hui. Focus uniquement sur qui tu es et pourquoi tu fais ce que tu fais. Cette page seule peut convertir un prospect froid en client chaud.
 
 ---
 
 ## 2. Action client
 
-**Envoie un check-in proactif à tes 2 clients actuels aujourd'hui.**
+Envoie un message court et personnel à chacun de tes 2 clients actuels aujourd'hui.
 
-Pas un message banal. Un message personnalisé qui montre que tu penses à eux en dehors des séances :
-- Un point sur leur progression depuis le début
-- Une mini-victoire qu'ils n'ont peut-être pas remarquée eux-mêmes
-- Une question sur comment ils se sentent cette semaine (énergie, sommeil, stress)
+Pas un bilan formel. Juste une question ouverte adaptée à ce que tu travailles avec chaque personne. Par exemple : "Comment tu te sens cette semaine ? Tu remarques des changements dans [le domaine qu'on a ciblé ensemble] ?"
 
-Pourquoi : la rétention et les recommandations viennent de la relation, pas juste des séances. Un client qui se sent vraiment suivi parle de toi autour de lui. Avec seulement 2 clients actifs, chaque recommandation compte double.
+Double bénéfice : tu renforces le lien et tu restes naturellement dans leur esprit si jamais ils parlent de toi à quelqu'un de leur entourage.
 
 ---
 
-## 3. Contenu prêt à publier
-
-**Format : Instagram Reel ou TikTok (texte lu à l'écran ou narré)**
-
----
+## 3. Contenu prêt
 
 **Accroche :**
-"J'étais discipliné. Je n'étais pas en bonne santé. La différence m'a coûté une blessure chronique à l'épaule."
-
----
+J'étais très discipliné. Je n'étais pas en bonne santé.
 
 **Texte :**
-
 Pendant des années, je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
-
-Je refusais le gâteau de ma mère.
 Je refusais de manger au restaurant.
-Je calculais chaque gramme de nourriture.
+Je calculais chaque gramme.
+J'étais "carré". J'étais aussi épuisé, blessé, et isolé.
 
-Je pensais que c'était de la discipline.
-En réalité, c'était de la souffrance déguisée en motivation.
+La discipline sans la santé, c'est juste du contrôle qui se déguise en performance.
 
-Ma blessure à l'épaule, c'est moi qui me la suis faite. Pas par manque d'effort. Par excès de mauvaises décisions que je croyais bonnes.
+Aujourd'hui j'accompagne des gens à bouger mieux, pas plus.
+A manger pour vivre, pas pour des abdos.
+A dormir comme si c'était de l'entraînement, parce que ça l'est.
 
-Ce jour-là, j'ai compris une chose :
+Le but n'est pas de te rendre dépendant d'un programme.
+Le but c'est que dans 10 ans, tu bouges encore. Et que tu aimes ça.
 
-On peut être extrêmement discipliné et profondément en mauvaise santé.
+C'est ça, la vraie longévité.
 
-Aujourd'hui, j'enseigne autre chose à mes clients.
-Pas comment souffrir plus intelligemment.
-Comment aimer bouger, manger, dormir.
-
-Et le faire toute leur vie. Pas juste 8 semaines.
-
-Si tu veux comprendre la différence, je suis là.
-
----
-
-**10 hashtags :**
-#sportetsante #longevite #coachsportif #sante #bienetre #transformationmentale #fitness #mobilite #coachingindividuel #RSPTraining
+**Hashtags :**
+#sportssante #longevite #coachsportif #mouvementpourtous #bienetrephysique #mindsetcoach #coachingbienetre #santeactive #fitnessbelgique #rsptraining
