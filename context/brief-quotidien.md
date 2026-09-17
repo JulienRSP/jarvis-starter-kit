@@ -1,52 +1,75 @@
-# Brief RSP — 2026-09-16
-
-## Focus RSP du jour
-
-Rédige ta page "Mon histoire" pour le site RSP Training.
-
-- C'est ton principal atout de différenciation, et personne d'autre ne peut l'écrire
-- Structure en 3 blocs : qui tu étais (musculation classique, discipline extrême), ce que tu as vécu (blessure épaule, relation malsaine avec la nutrition), qui tu es devenu et pourquoi ça change tout pour tes clients
-- Pas besoin d'être long : 200-300 mots, première personne, ton direct
-- Durée estimée : 30 à 45 min
-
-Pourquoi aujourd'hui : c'est la page qui convertit un visiteur en demande de contact, avant même la page des offres.
+# Brief RSP Training — 2026-09-17
 
 ---
 
-## Action client
+## 1. Focus RSP du jour
 
-Envoie un message de check-in à tes 2 clients actuels ce soir ou demain matin.
+**Rédige ta page "À propos" pour le site RSP Training.**
 
-- Question concrète : "Comment tu te sens depuis notre dernière séance ? Il y a quelque chose à ajuster ?"
-- Ensuite, une question bouche-à-oreille : "Tu connais quelqu'un dans ton entourage qui cherche à reprendre le sport ou à mieux bouger ?"
-- C'est ton canal d'acquisition le plus efficace à ce stade, et tes clients actuels sont déjà convaincus de ta valeur
+C'est la page la plus lue après la home. Elle est aussi la plus différenciante pour toi, parce que ton histoire (musculation classique, relation malsaine avec la nutrition, blessure épaule, reconstruction) est ton meilleur argument de vente. Les gens achètent un coach qui a vécu ce qu'ils vivent.
+
+Action concrète :
+- Ouvre un document et écris 300 à 400 mots en première personne
+- Structure : ce que j'ai vécu / ce que j'ai compris / ce que je propose maintenant
+- Ton ton : direct, sans fioriture, sans jargon
+- Objectif : que quelqu'un qui te lit se dise "c'est exactement ce dont j'ai besoin"
+
+Ce texte servira aussi pour ton profil Instagram, ta bio LinkedIn, et tes messages de prospection. Un seul effort, plusieurs usages.
 
 ---
 
-## Contenu prêt à publier
+## 2. Action client
+
+**Envoie un message de check-in à tes 2 clients actuels.**
+
+Pas un compte rendu formel. Un message court, humain, sincère. Exemple :
+
+> "Salut [Prénom], comment tu te sens cette semaine depuis notre dernière séance ? Est-ce que tu as réussi à [action donnée] ?"
+
+Pourquoi :
+- Renforce l'engagement et la fidélité
+- Génère de la confiance = terrain pour une recommandation spontanée
+- Chaque client satisfait est une source potentielle de 1 à 2 nouveaux clients
+
+Si l'un d'eux te répond positivement, c'est le bon moment pour demander s'il connaît quelqu'un qui cherche un coach.
+
+---
+
+## 3. Contenu prêt à publier
+
+**Post Instagram / TikTok**
 
 **Accroche :**
-J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
+Tu peux t'entraîner dur toute ta vie et finir blessé, épuisé, et frustré.
+Ou tu peux t'entraîner intelligemment et te sentir mieux à 50 ans qu'à 25.
 
-**Texte :**
-Pendant des années, je me levais à 7h après 3h de sommeil pour ne pas rater ma séance.
+---
 
-Je refusais le gâteau de ma mère. Je comptais chaque gramme. Aucun restaurant, aucune vraie vacance.
+La différence ? Ce n'est pas la volonté. C'est ce qu'on t'a appris à faire.
 
-J'étais obsédé. Et je croyais que c'était ça, être sérieux avec sa santé.
+On nous apprend que s'entraîner, c'est souffrir. Que bien manger, c'est se restreindre. Que la récupération, c'est pour les faibles.
 
-Jusqu'à la blessure. L'épaule. Ignorée pendant des mois parce que "on ne s'arrête pas".
+Ce sont des mensonges.
 
-Devenue chronique.
+Les personnes qui bougent encore à 70, 80, 90 ans ne sont pas des exceptions génétiques. Elles ont simplement appris à faire du mouvement un mode de vie, pas une punition.
 
-Ce que j'ai compris à ce moment-là : discipline et santé ne sont pas la même chose.
+Voilà ce que la longévité demande vraiment :
+- Bouger souvent, pas forcément beaucoup
+- Renforcer les muscles, surtout après 35 ans (c'est là que ça commence à compter)
+- Manger pour avoir de l'énergie, pas pour avoir un corps parfait
+- Dormir comme si ta vie en dépendait, parce que c'est le cas
 
-Aujourd'hui j'enseigne le mouvement comme un mode de vie. Pas une obligation. Pas une punition.
+Aucune révélation. Mais peu de gens le font vraiment, parce que personne ne leur a montré comment.
 
-La nutrition pour avoir de l'énergie, se renforcer, et kiffer son assiette. Pas le régime strict qui finit en craquage.
+C'est ce que je fais.
 
-Un corps fort, mobile, autonome dans 20, 30, 40 ans. Pas un physique parfait en 90 jours.
+Si tu veux un coaching qui te construit sur le long terme, les liens sont dans la bio.
 
-Si tu en as assez de culpabiliser et de te blesser à force de volonté, on peut en parler.
+---
 
-#sportssante #longevite #coachsportif #RSPTraining #coachingBelgique #bienetre #mouvementcommemodevie #fitnessmindset #sante #coaching
+**Hashtags :**
+#sportssante #longevite #coachingsportif #mouvementquotidien #bienetre #sante #fitnessdurable #coachbelgique #mobilite #vivre longtemps
+
+---
+
+*Brief généré automatiquement le 2026-09-17*
