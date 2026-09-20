@@ -1,66 +1,58 @@
-# Brief Quotidien — 2026-09-19
+# Brief du jour — 2026-09-20
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédiger ton message de prospection "warm outreach" et l'envoyer à 3 contacts aujourd'hui.**
+**Action : Crée ta page de capture prospect aujourd'hui.**
 
-Tu n'as pas besoin d'un site parfait ni d'une offre finalisée pour décrocher un nouveau client. Ce dont tu as besoin, c'est d'une conversation. On est samedi, c'est le bon jour pour ça.
+Tu as 2 clients, tu veux 5. Le problème n'est pas ton offre, c'est la visibilité et le passage à l'acte des prospects. Aujourd'hui, crée une page simple (Notion, Carrd ou une page dans ton site RSP) avec :
+- une accroche de 2 lignes sur ta spécialité (sport-santé, longévité, pas de programmes standards)
+- ton offre principale (8 semaines, tarif à définir)
+- un formulaire ou un lien de contact direct (Google Form ou email)
 
-Action concrète :
-- Identifie 3 personnes dans ton entourage (amis, famille, anciens camarades de sport, contacts BSport) qui pourraient bénéficier d'un coaching sport-santé ou qui t'en ont déjà parlé.
-- Envoie ce message (à adapter selon la relation) :
-
-> "Salut [Prénom], je développe mon activité de coaching sport-santé en ce moment et j'accompagne des gens qui veulent bouger mieux et se sentir mieux sur le long terme. Je pense à toi parce que [raison personnelle]. Tu serais partant(e) pour qu'on échange 20 minutes ?"
-
-Pas de pitch, pas de prix. Juste une conversation.
+Objectif : avoir quelque chose que tu peux envoyer à quelqu'un en 10 secondes quand il te pose la question "tu fais quoi exactement comme coaching ?".
 
 ---
 
 ## 2. Action client
 
-**Demande un témoignage écrit à chacun de tes 2 clients fixes cette semaine.**
+**Action : Demande un témoignage à tes 2 clients cette semaine.**
 
-Tu as 2 clients actifs en coaching à domicile. Ils voient tes résultats de près. Un témoignage authentique est ton meilleur outil de prospection et tu n'en as probablement pas encore de formalisé.
+Tu as 2 clients fixes. C'est ta preuve sociale la plus puissante. Message à envoyer aujourd'hui à l'un des deux :
 
-Message à envoyer (WhatsApp suffit) :
+> "Salut [prénom], ça fait quelques semaines qu'on travaille ensemble. Est-ce que tu serais ok pour me laisser un petit retour en quelques lignes sur ce qu'on a fait ensemble ? Ce que tu as remarqué, ce que tu as apprécié. C'est pour mon profil et mon activité. Pas besoin de faire long, 3-4 phrases suffisent."
 
-> "J'ai une petite demande : est-ce que tu pourrais m'écrire 2-3 phrases sur ce que tu retires du coaching jusqu'ici ? Pas besoin de rédiger une lettre, juste ce que tu ressens en ce moment. Ça m'aiderait vraiment pour développer mon activité."
-
-Utilise ces témoignages sur Instagram, dans ton message de prospection, et sur ton futur site.
+Un témoignage par client = 2 preuves sociales à mettre en avant partout (Instagram, site, DMs prospects).
 
 ---
 
 ## 3. Contenu prêt
 
-**Post Instagram / TikTok — prêt à publier**
+**Format : post Instagram ou TikTok (caption)**
+
+---
 
 **Accroche :**
-> J'étais ultra-discipliné. Et je n'étais pas en bonne santé.
+Tu penses que vieillir, c'est forcément perdre en mobilité. C'est faux.
 
 **Texte :**
-> Lever à 7h après 3h de sommeil en festival pour ne pas rater ma séance.
->
-> Refuser le gâteau de ma mère. Calculer chaque gramme. Stresser à chaque écart.
->
-> Je pensais que la discipline, c'était la santé.
->
-> J'avais tout faux.
->
-> La discipline sans santé, ça donne : blessure à l'épaule ignorée pendant des mois, relation malsaine avec la nourriture, zéro vie sociale, et un corps épuisé qui prend du poids à cause du stress chronique.
->
-> Ce que j'enseigne aujourd'hui, c'est l'inverse de ce que je faisais.
->
-> Bouger parce qu'on aime ça. Manger pour avoir de l'énergie, pas pour les abdos. Dormir comme une priorité, pas comme une faiblesse.
->
-> Si tu t'entraînes dur mais que tu ne te sens pas vraiment bien, ce n'est pas un manque de discipline.
->
-> C'est un problème de direction.
->
-> RSP Training, c'est le coaching sport-santé pour les gens qui veulent être en bonne santé à 40, 60 et 80 ans. Pas juste avoir l'air en forme sur une photo.
->
-> Tu te reconnais dans ce que j'ai vécu ? Dis-moi en commentaire.
+La raideur que tu ressens le matin, les douleurs au dos après une longue journée assise, les genoux qui craquent dans les escaliers... ce n'est pas l'âge. C'est le manque de mouvement.
+
+Le corps humain est conçu pour bouger. Quand il ne bouge plus, il se rigidifie. C'est tout.
+
+J'accompagne des personnes de 18 à 87 ans. Ce que j'observe systématiquement : ceux qui bougent régulièrement, même peu et même mal au départ, récupèrent une qualité de mouvement que beaucoup pensaient perdue pour toujours.
+
+3 choses simples pour garder ta mobilité toute ta vie :
+- Marcher 30 minutes par jour (vraiment, c'est déjà énorme)
+- T'accroupir régulièrement (le sol n'est pas ton ennemi)
+- Faire des rotations d'épaules et de hanches chaque matin
+
+La longévité, ça ne s'achète pas dans une salle de sport haut de gamme. Ça se construit avec de la régularité et du bon sens.
+
+Si tu veux reprendre le mouvement sans te blesser ni te perdre dans des programmes incompréhensibles, envoie-moi un message.
 
 **Hashtags :**
-#sportetforme #coachin #longevite #sportsante #bienetre #mouvementpourlavie #coaching #santeholistique #equilibredevie #rsptraining
+#sportetlongevite #mobilite #sportsante #coachingpersonnel #vieillirenbonneforme #mouvement #longevite #coachsportif #bienetre #santeglobale
+
+---
