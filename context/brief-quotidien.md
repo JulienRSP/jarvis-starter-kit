@@ -1,50 +1,61 @@
-# Brief RSP — 2026-09-22
+# Brief quotidien — 2026-09-23
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige ton message de prospection "entourage chaud".**
+**Finalise ta page de vente pour la Méthode RSP Transformation 8 semaines.**
 
-Identifie 5 personnes de ton réseau (amis, famille, anciens camarades de salle) qui t'ont déjà parlé d'un projet sport ou santé et ne l'ont jamais lancé. Envoie-leur un message court, pas un pitch : "Tu m'avais parlé de [objectif], tu as toujours ce projet ?" puis une phrase sur ce que tu fais aujourd'hui avec RSP.
+Action concrète : ouvre ton fichier de brouillon (ou Google Doc / Notion) et rédige la section "Pour qui c'est fait" avec 3 profils types précis, tirés de tes clients actuels et de ta clientèle BSport. Exemples de formulations utiles :
+- "Tu as 40-60 ans et tu t'es éloigné du sport depuis des années"
+- "Tu t'entraînes déjà mais tu sais que ta façon de bouger et de manger ne te rend pas service"
+- "Tu veux être encore mobile et fort dans 20 ans, pas juste mince aujourd'hui"
 
-Objectif : relancer 5 conversations. Même 1 réponse positive = 1 prospect qualifié.
+Cette section est le coeur de ta page. Elle fait en sorte que le bon prospect se reconnaisse et clique sur "je veux en savoir plus".
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de suivi personnalisé à chacun de tes 2 clients actuels.**
+**Envoie un message de suivi à tes 2 clients actuels d'ici ce soir.**
 
-Template : "Comment tu te sens depuis notre dernière séance ? Je repensais à [progrès concret que tu as observé] et c'est vraiment visible."
+Format simple, 3 lignes :
+- Un point positif observé la semaine dernière ("j'ai vu que tu tenais mieux la position sur X")
+- Une question sur leur ressenti ("comment tu te sens cette semaine côté énergie / sommeil ?")
+- Un rappel de la prochaine séance ou une question sur les disponibilités
 
-Pourquoi : ce type de message renforce l'attachement, montre que tu es attentif entre les séances, et génère des recommandations spontanées. C'est ton levier le plus court vers un 3e client : un client satisfait qui parle de toi.
+Ça prend 5 minutes par client. Ca renforce l'attachement, ca génère des retours utilisables dans ton marketing, et ca augmente la durée de vie des clients. Un client qui reçoit un message de suivi hors séance ne part pas.
 
 ---
 
-## 3. Contenu prêt
+## 3. Contenu prêt à publier
 
-**Accroche :**
-J'ai sacrifié mon sommeil pour ne pas rater une séance. J'avais tout faux.
+**Accroche**
 
-**Texte :**
-Pendant des mois, je me levais à 7h après 3h de sommeil pour aller m'entraîner.
+> J'avais 0 vie sociale à cause du sport. Et pourtant je me croyais en bonne santé.
 
-Je pensais que c'était de la discipline.
-C'était de l'autodestruction.
+**Texte**
 
-Résultat : blessure à l'épaule. Encore présente aujourd'hui.
+Lever à 7h après un festival pour ne pas rater ma séance.
+Refuser le gâteau de ma mère. Calculer chaque gramme de poulet.
 
-Ce que j'ai compris depuis :
-- Une séance ratée ne détruit pas ta progression
-- Une semaine de mauvais sommeil, oui
-- Le corps récupère la nuit. L'entraînement n'a de sens que si la récupération suit
+J'étais extrêmement discipliné.
+Je n'étais pas en bonne santé.
 
-Le sport-santé, c'est construire un corps qui dure, pas un corps épuisé.
+La différence, je l'ai apprise après une blessure à l'épaule que j'ai ignorée pendant des mois.
 
-Tu t'entraînes pour vivre mieux, pas pour souffrir plus.
+Ce que j'enseigne aujourd'hui à mes clients, c'est exactement l'inverse de ce que j'ai vécu :
 
-Si tu veux progresser sans te détruire, DM.
+Bouger parce qu'on aime ca, pas parce qu'on se punit.
+Manger pour avoir de l'énergie, pas pour les abdos.
+Dormir. Vraiment.
+Gérer son stress sans sacrifier sa vie sociale.
 
-**10 hashtags :**
-#sporthealthy #longevite #sportbienetre #coachingsportif #mobilite #recuperation #sommeiletperformance #coachingbelgique #sportfonctionnel #modedevie
+La santé à long terme, ca ressemble à une vie normale qu'on aime vivre.
+Pas à une liste de règles qui te coupent du monde.
+
+Si ca te parle, dis-le moi en commentaire.
+
+**Hashtags**
+
+#coachsportif #sportethouveau #sportsante #longevite #coaching #belgiquefit #rsptraining #sante #modedevie #bienetre #habitudesdesante #coachabdomicile #transformationphysique #equilibre #fitness
