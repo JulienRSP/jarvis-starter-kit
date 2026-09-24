@@ -1,61 +1,57 @@
-# Brief quotidien — 2026-09-23
+# Brief du jour — 2026-09-24
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Finalise ta page de vente pour la Méthode RSP Transformation 8 semaines.**
+**Rédige la page "Méthode" de ton site RSP en 30 minutes.**
 
-Action concrète : ouvre ton fichier de brouillon (ou Google Doc / Notion) et rédige la section "Pour qui c'est fait" avec 3 profils types précis, tirés de tes clients actuels et de ta clientèle BSport. Exemples de formulations utiles :
-- "Tu as 40-60 ans et tu t'es éloigné du sport depuis des années"
-- "Tu t'entraînes déjà mais tu sais que ta façon de bouger et de manger ne te rend pas service"
-- "Tu veux être encore mobile et fort dans 20 ans, pas juste mince aujourd'hui"
-
-Cette section est le coeur de ta page. Elle fait en sorte que le bon prospect se reconnaisse et clique sur "je veux en savoir plus".
+- Ouvre un doc (Notion, Google Docs, peu importe) et écris 3 blocs :
+  - Ce que tu refuses de faire (la musculation classique, le riz-poulet strict, les programmes copié-collé)
+  - Ce que tu fais à la place (mouvement fonctionnel, nutrition pour la vie réelle, autonomie du client)
+  - Ton histoire courte (blessure épaule, reconstruction, ce que tu as compris)
+- Objectif : avoir la matière brute pour la page "Méthode RSP" du site. Pas besoin que ce soit parfait, juste écrit.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de suivi à tes 2 clients actuels d'ici ce soir.**
+**Envoie un message de check-in à chacun de tes 2 clients actuels.**
 
-Format simple, 3 lignes :
-- Un point positif observé la semaine dernière ("j'ai vu que tu tenais mieux la position sur X")
-- Une question sur leur ressenti ("comment tu te sens cette semaine côté énergie / sommeil ?")
-- Un rappel de la prochaine séance ou une question sur les disponibilités
-
-Ça prend 5 minutes par client. Ca renforce l'attachement, ca génère des retours utilisables dans ton marketing, et ca augmente la durée de vie des clients. Un client qui reçoit un message de suivi hors séance ne part pas.
+- Un message simple, pas un bilan : "Comment tu te sens cette semaine depuis notre dernière séance ?"
+- But : garder le lien entre les séances, collecter un retour authentique, et potentiellement faire émerger une citation ou un feedback que tu pourras utiliser en contenu.
+- Bonus : si l'un d'eux te donne un retour positif, demande-lui s'il aurait un proche intéressé par une séance découverte gratuite.
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Accroche**
+**Post Instagram / TikTok :**
 
-> J'avais 0 vie sociale à cause du sport. Et pourtant je me croyais en bonne santé.
+---
 
-**Texte**
+**Accroche :**
+J'ai tout fait "bien" pendant 2 ans. Et j'étais en mauvaise santé.
 
-Lever à 7h après un festival pour ne pas rater ma séance.
-Refuser le gâteau de ma mère. Calculer chaque gramme de poulet.
+**Texte :**
+Lever à 7h après 3h de sommeil pour ne pas rater ma séance.
+Refus de manger le gâteau de ma mère pour "rester propre".
+Blessure à l'épaule ignorée pendant des mois parce que j'avais peur de perdre ma progression.
 
 J'étais extrêmement discipliné.
 Je n'étais pas en bonne santé.
 
-La différence, je l'ai apprise après une blessure à l'épaule que j'ai ignorée pendant des mois.
+Ce n'est pas la même chose.
 
-Ce que j'enseigne aujourd'hui à mes clients, c'est exactement l'inverse de ce que j'ai vécu :
+Aujourd'hui je travaille avec mes clients pour qu'ils bougent toute leur vie, pas juste 3 mois avant l'été.
+Pour qu'ils mangent sans culpabilité, pas sans plaisir.
+Pour qu'ils comprennent leur corps, pas juste qu'ils suivent un plan.
 
-Bouger parce qu'on aime ca, pas parce qu'on se punit.
-Manger pour avoir de l'énergie, pas pour les abdos.
-Dormir. Vraiment.
-Gérer son stress sans sacrifier sa vie sociale.
+Le mouvement comme mode de vie. Pas comme obligation.
 
-La santé à long terme, ca ressemble à une vie normale qu'on aime vivre.
-Pas à une liste de règles qui te coupent du monde.
+Tu cherches ce genre d'approche ? Dis-le moi en commentaire ou en message.
 
-Si ca te parle, dis-le moi en commentaire.
+**Hashtags :**
+#sportssante #coachhealthcoach #longevite #mouvementfonctionnel #coachadomicile #bruxelles #bienetre #nutrifitness #santeauquotidien #rsptraining
 
-**Hashtags**
-
-#coachsportif #sportethouveau #sportsante #longevite #coaching #belgiquefit #rsptraining #sante #modedevie #bienetre #habitudesdesante #coachabdomicile #transformationphysique #equilibre #fitness
+---
