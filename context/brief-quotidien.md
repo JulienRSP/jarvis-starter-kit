@@ -1,65 +1,52 @@
-# Brief du jour — 2026-09-26
+# Brief quotidien — 2026-09-27
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige ta page "Mon Histoire" pour le site RSP Training.**
+**Construire la page d'offre de la Méthode RSP 8 semaines.**
 
-Tu as un atout de différenciation majeur que 95% des coachs n'ont pas : une histoire vraie, difficile, et transformatrice. La musculation toxique, la relation malsaine avec la nourriture, la blessure épaule, la reconstruction. C'est ton pourquoi, et c'est ce qui convertit.
+Tu as une offre formalisée (8 semaines, 499€ lancement) mais pas de page de vente. C'est le seul truc qui t'empêche de prospecter avec un lien à envoyer. Aujourd'hui : rédige les 5 blocs clés de ta page d'offre en texte brut (pas besoin du site final pour ça) :
 
-Action concrète :
-- Ouvre un doc Canva ou Word
-- Écris 3 paragraphes max : (1) ce que tu vivais avant, (2) le déclic avec le kiné en 2026, (3) ce que tu enseignes maintenant et pourquoi
-- Objectif : 150-200 mots percutants, ton naturel, pas prise de tête
-- Ce texte servira sur le site, en bio Instagram, et comme base de contenu pour les semaines à venir
+- Le problème que tu règles (1 phrase percutante)
+- Pour qui c'est (profil idéal)
+- Ce que tu fais concrètement sur 8 semaines (bullets)
+- Le prix + ce qui est inclus
+- L'appel à l'action (formulaire court ou DM Instagram)
+
+Ce texte brut sera ensuite utilisable pour ton site, un PDF, un post ou un message de prospection. Une heure max.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de check-in à tes 2 clients actuels ce soir ou demain matin.**
+**Envoie un message de check-in à tes 2 clients actuels** (la dame de 87 ans et l'homme de 63 ans).
 
-Format simple, 3 lignes max :
-> "Salut [Prénom], comment tu te sens cette semaine ? Ton énergie, ton sommeil, les séances... Tu notes quoi ?"
+Message court, sincère, pas commercial :
 
-Pourquoi maintenant :
-- Clients fixes = base de revenu stable, les négliger est le risque n°1 de perte de client
-- Un check-in proactif distingue un bon coach d'un coach exceptionnel
-- Ça génère des retours concrets que tu peux transformer en témoignages ou en contenu
+> "Bonjour [Prénom], je voulais juste prendre de tes nouvelles. Comment tu te sens cette semaine ? Y a quelque chose qu'on devrait ajuster pour la prochaine séance ?"
 
-Bonus : si un des deux a fait des progrès visibles récemment, propose-lui de témoigner par écrit ou en vidéo courte. Avec son accord, ça devient ton premier asset de preuve sociale.
+Pourquoi : fidéliser coûte moins cher que prospecter. Un client satisfait qui se sent suivi devient une source de recommandations. Et avec une clientèle senior, le lien humain régulier fait partie de la valeur que tu offres.
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Format : Instagram Reel / TikTok (script court) ou post texte**
+**Instagram / TikTok**
 
 **Accroche :**
-> J'étais extrêmement discipliné. Et je n'étais pas en bonne santé.
+Ton dos te fait mal le matin. Ce n'est pas ton âge. C'est ton mode de vie.
 
----
+**Texte :**
+À 40, 50, 60 ans, on normalise la douleur. Dos raide au réveil, genoux qui craquent, souffle court dans les escaliers. On se dit "c'est l'âge".
 
-**Texte du post :**
+Mais non. Ce sont les effets d'un corps qu'on a arrêté de solliciter correctement.
 
-Pendant des mois, je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
+J'ai vu des clients de 70 ans retrouver une mobilité qu'ils n'avaient plus depuis 15 ans. Pas avec des miracles. Avec de la régularité, des bons exercices, et quelqu'un pour les guider.
 
-Je refusais de manger au resto. Je refusais le gâteau de ma mère. Je calculais chaque gramme.
+Le corps vieillit. Mais il s'adapte aussi. À tout âge.
 
-J'étais discipliné. Pas en bonne santé.
-
-La différence ? Je m'entraînais pour contrôler, pas pour vivre. Je mangeais pour performer, pas pour nourrir mon corps.
-
-Résultat : blessure à l'épaule, relation toxique avec la nourriture, zéro vie sociale, fatigue chronique.
-
-Ce qui a tout changé, c'est une phrase simple : le mouvement n'est pas une obligation. C'est un mode de vie.
-
-Aujourd'hui j'accompagne des gens à retrouver ça. Pas à devenir des machines. À bouger, bien manger, et kiffer leur corps, pour les 40 prochaines années.
-
-Si tu te reconnais dans ce que j'étais, dis-le moi en commentaire. Tu es probablement plus nombreux que tu ne le crois.
-
----
+Si tu ne sais pas par où commencer, dis-moi dans les commentaires : quel mouvement tu as perdu et qui te manque le plus ?
 
 **Hashtags :**
-#sportssanté #coachinglongévité #mouvementcommemoddevie #coachhonnête #disciplinenégale #santeaunaturel #coachingbruxelles #rsptraining #bienetrevrai #sportpourlavie
+#sportetlongevite #bienvieillir #mobilitecorporelle #coachingsante #sportsante #ageractif #fonctionnel #preventionsante #coachbelgique #rsptraining
