@@ -1,52 +1,59 @@
-# Brief quotidien — 2026-09-27
+# Brief RSP du jour — 2026-09-28
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Construire la page d'offre de la Méthode RSP 8 semaines.**
+**Rédige la page "Mon histoire" pour le site RSP Training.**
 
-Tu as une offre formalisée (8 semaines, 499€ lancement) mais pas de page de vente. C'est le seul truc qui t'empêche de prospecter avec un lien à envoyer. Aujourd'hui : rédige les 5 blocs clés de ta page d'offre en texte brut (pas besoin du site final pour ça) :
+Tu as une histoire de différenciation puissante que personne d'autre ne peut copier : musculation classique, relation malsaine avec la nourriture, blessure épaule novembre 2025, reconstruction. C'est ce qui rend ton approche crédible et humaine.
 
-- Le problème que tu règles (1 phrase percutante)
-- Pour qui c'est (profil idéal)
-- Ce que tu fais concrètement sur 8 semaines (bullets)
-- Le prix + ce qui est inclus
-- L'appel à l'action (formulaire court ou DM Instagram)
+Action concrète aujourd'hui : écris un texte de 200-250 mots pour ta page "À propos" ou "Mon histoire" sur le site. Structure suggérée :
+- Ce que j'ai vécu (sans se victimiser)
+- Ce que j'ai compris (discipline vs santé)
+- Ce que j'enseigne maintenant (et pourquoi)
 
-Ce texte brut sera ensuite utilisable pour ton site, un PDF, un post ou un message de prospection. Une heure max.
+Ce texte servira aussi de base pour du contenu social + peut être intégré dans tes emails de prospection.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de check-in à tes 2 clients actuels** (la dame de 87 ans et l'homme de 63 ans).
+**Envoie un message de suivi à tes 2 clients actuels cette semaine.**
 
-Message court, sincère, pas commercial :
+Pas pour vendre. Pour vérifier. Un message simple : "Comment tu te sens depuis notre dernière séance ? Est-ce que tu as réussi à faire X comme on avait dit ?" Ce type de suivi crée de l'attachement et génère des témoignages spontanés.
 
-> "Bonjour [Prénom], je voulais juste prendre de tes nouvelles. Comment tu te sens cette semaine ? Y a quelque chose qu'on devrait ajuster pour la prochaine séance ?"
+Demande à chacun si une personne de leur entourage pourrait bénéficier de ce que tu fais. Formulation directe : "Est-ce que tu connais quelqu'un qui galérerait à se mettre au sport ou à reprendre de bonnes habitudes ? Je prends 1 nouveau client en octobre."
 
-Pourquoi : fidéliser coûte moins cher que prospecter. Un client satisfait qui se sent suivi devient une source de recommandations. Et avec une clientèle senior, le lien humain régulier fait partie de la valeur que tu offres.
+Objectif : 1 recommandation concrète cette semaine.
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Instagram / TikTok**
+**Post Instagram / TikTok**
+
+---
 
 **Accroche :**
-Ton dos te fait mal le matin. Ce n'est pas ton âge. C'est ton mode de vie.
+La discipline m'a blessé. La santé m'a sauvé.
 
 **Texte :**
-À 40, 50, 60 ans, on normalise la douleur. Dos raide au réveil, genoux qui craquent, souffle court dans les escaliers. On se dit "c'est l'âge".
+Pendant 2 ans j'étais ultra discipliné.
+Je comptais tout au gramme près.
+Je refusais le gâteau de ma mère.
+Je m'entraînais avec 3h de sommeil.
+Je forçais sur une épaule qui criait.
 
-Mais non. Ce sont les effets d'un corps qu'on a arrêté de solliciter correctement.
+Et pourtant — j'étais en mauvaise santé.
 
-J'ai vu des clients de 70 ans retrouver une mobilité qu'ils n'avaient plus depuis 15 ans. Pas avec des miracles. Avec de la régularité, des bons exercices, et quelqu'un pour les guider.
+Ce jour où j'ai compris la différence entre discipline et santé, tout a changé.
 
-Le corps vieillit. Mais il s'adapte aussi. À tout âge.
+La santé, c'est pas se priver. C'est apprendre à aimer bouger. C'est manger pour avoir de l'énergie, pas pour les abdos. C'est écouter son corps avant de le forcer.
 
-Si tu ne sais pas par où commencer, dis-moi dans les commentaires : quel mouvement tu as perdu et qui te manque le plus ?
+Aujourd'hui j'accompagne des gens vers ça. Pas la performance à tout prix. Le mode de vie qui dure.
+
+Si tu te reconnais dans ce que j'ai vécu, je lis les messages.
 
 **Hashtags :**
-#sportetlongevite #bienvieillir #mobilitecorporelle #coachingsante #sportsante #ageractif #fonctionnel #preventionsante #coachbelgique #rsptraining
+#sporthealthy #longevité #coachhealthy #sportbienetre #mouvementquotidien #santébelgique #coachbruxelles #remisenforme #fitnessdurable #rsptraining
