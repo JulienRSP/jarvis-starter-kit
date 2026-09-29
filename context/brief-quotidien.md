@@ -1,59 +1,61 @@
-# Brief RSP du jour — 2026-09-28
+# Brief RSP Training — 2026-09-29
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige la page "Mon histoire" pour le site RSP Training.**
+**Rédige la hero section de ton site RSP Training.**
 
-Tu as une histoire de différenciation puissante que personne d'autre ne peut copier : musculation classique, relation malsaine avec la nourriture, blessure épaule novembre 2025, reconstruction. C'est ce qui rend ton approche crédible et humaine.
+Objectif : écrire les 3 éléments clés de la page d'accueil, ceux que le visiteur voit en premier :
+- Accroche principale (1 phrase, ton positionnement en 10 mots max)
+- Sous-titre (ton client idéal + la transformation promise, 2 lignes max)
+- Bouton d'appel à l'action (texte du CTA + destination)
 
-Action concrète aujourd'hui : écris un texte de 200-250 mots pour ta page "À propos" ou "Mon histoire" sur le site. Structure suggérée :
-- Ce que j'ai vécu (sans se victimiser)
-- Ce que j'ai compris (discipline vs santé)
-- Ce que j'enseigne maintenant (et pourquoi)
+Exemple de direction : "Tu t'entraînes dur. Mais tu ne progresses plus. RSP Training, c'est apprendre à bouger mieux pour vivre plus longtemps."
 
-Ce texte servira aussi de base pour du contenu social + peut être intégré dans tes emails de prospection.
+Lance Claude avec "rédige 3 variantes de hero section pour mon site RSP Training" en collant ta philosophie.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de suivi à tes 2 clients actuels cette semaine.**
+**Demande une recommandation directe à tes 2 clients actuels.**
 
-Pas pour vendre. Pour vérifier. Un message simple : "Comment tu te sens depuis notre dernière séance ? Est-ce que tu as réussi à faire X comme on avait dit ?" Ce type de suivi crée de l'attachement et génère des témoignages spontanés.
+Message à envoyer aujourd'hui (adapte selon ton client) :
 
-Demande à chacun si une personne de leur entourage pourrait bénéficier de ce que tu fais. Formulation directe : "Est-ce que tu connais quelqu'un qui galérerait à se mettre au sport ou à reprendre de bonnes habitudes ? Je prends 1 nouveau client en octobre."
+> "Salut [prénom], j'espère que tu vas bien. Je développe mon activité en ce moment et je cherche quelques personnes motivées à améliorer leur santé. Est-ce que tu as quelqu'un dans ton entourage, famille ou amis, qui cherche à reprendre le sport ou à mieux vivre dans son corps ? Je serais ravi d'échanger avec eux, sans engagement. Un prénom suffit."
 
-Objectif : 1 recommandation concrète cette semaine.
+Objectif : 1 contact qualifié minimum via tes clients existants cette semaine.
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Post Instagram / TikTok**
+**Post Instagram/TikTok : sport et discipline vs santé réelle**
 
 ---
 
 **Accroche :**
-La discipline m'a blessé. La santé m'a sauvé.
+J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
 
 **Texte :**
-Pendant 2 ans j'étais ultra discipliné.
-Je comptais tout au gramme près.
-Je refusais le gâteau de ma mère.
-Je m'entraînais avec 3h de sommeil.
-Je forçais sur une épaule qui criait.
+Pendant des mois, j'ai suivi mes macros au gramme près. Refusé le gâteau de ma mère. Levé à 7h après 3h de sommeil pour ne pas rater une séance.
 
-Et pourtant — j'étais en mauvaise santé.
+Je m'entraînais dur. Je mangeais "propre". Je cochais toutes les cases.
 
-Ce jour où j'ai compris la différence entre discipline et santé, tout a changé.
+Mais j'avais un stress chronique permanent. Une relation toxique avec la nourriture. Et une blessure à l'épaule que j'ignorais parce que "ça fait partie du jeu".
 
-La santé, c'est pas se priver. C'est apprendre à aimer bouger. C'est manger pour avoir de l'énergie, pas pour les abdos. C'est écouter son corps avant de le forcer.
+Ce que j'avais confondu : discipline et santé.
 
-Aujourd'hui j'accompagne des gens vers ça. Pas la performance à tout prix. Le mode de vie qui dure.
+La discipline, c'est tenir un programme. La santé, c'est ce que ce programme fait vraiment à ton corps, ta tête, ton énergie, ta vie sociale.
 
-Si tu te reconnais dans ce que j'ai vécu, je lis les messages.
+Aujourd'hui je coach des gens avec une seule règle : si ton mode de vie est insoutenable, ce n'est pas un mode de vie. C'est une punition.
+
+Le mouvement doit t'apporter de l'énergie, pas t'en prendre. La nutrition doit te libérer, pas t'emprisonner.
+
+C'est ça, RSP Training.
+
+---
 
 **Hashtags :**
-#sporthealthy #longevité #coachhealthy #sportbienetre #mouvementquotidien #santébelgique #coachbruxelles #remisenforme #fitnessdurable #rsptraining
+#rsptraining #sportetsante #longevite #coachinghybride #santeglobale #mouvementauquotidien #coachingsportif #bienetre #physiquefonctionnel #coachbruxelles
