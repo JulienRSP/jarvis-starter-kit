@@ -1,61 +1,76 @@
-# Brief RSP Training — 2026-09-29
+# Brief quotidien RSP Training — 2026-09-30
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige la hero section de ton site RSP Training.**
+**Rédiger et envoyer 3 messages de prospection directe aujourd'hui.**
 
-Objectif : écrire les 3 éléments clés de la page d'accueil, ceux que le visiteur voit en premier :
-- Accroche principale (1 phrase, ton positionnement en 10 mots max)
-- Sous-titre (ton client idéal + la transformation promise, 2 lignes max)
-- Bouton d'appel à l'action (texte du CTA + destination)
+Tu as 2 clients. Pour atteindre 5 en 6 mois, il te faut 3 de plus. La meilleure source : ton cercle proche (famille, amis, anciens collègues de salle). Pas besoin d'un funnel complexe au stade actuel.
 
-Exemple de direction : "Tu t'entraînes dur. Mais tu ne progresses plus. RSP Training, c'est apprendre à bouger mieux pour vivre plus longtemps."
+Action concrète :
+- Identifie 3 personnes dans ton entourage qui parlent de "reprendre le sport", "perdre du poids", "avoir plus d'énergie" ou "mal au dos/genoux"
+- Envoie-leur un message court, naturel, sans vendre : "Hey [Prénom], je lance mon activité de coaching à domicile sur Bruxelles. Je cherche 3 personnes motivées pour un accompagnement 8 semaines. Je pense à toi, t'as envie qu'on en parle ?"
+- 3 messages, aujourd'hui, peu importe le canal (WhatsApp, Instagram DM, SMS)
 
-Lance Claude avec "rédige 3 variantes de hero section pour mon site RSP Training" en collant ta philosophie.
+Objectif du jour : 3 messages envoyés avant ce soir.
 
 ---
 
 ## 2. Action client
 
-**Demande une recommandation directe à tes 2 clients actuels.**
+**Envoyer un check-in mi-semaine à tes 2 clients actuels.**
 
-Message à envoyer aujourd'hui (adapte selon ton client) :
+Un message court, authentique, qui montre que tu penses à eux entre les séances. C'est ce qui fait la différence entre un coach prestataire et un vrai partenaire.
 
-> "Salut [prénom], j'espère que tu vas bien. Je développe mon activité en ce moment et je cherche quelques personnes motivées à améliorer leur santé. Est-ce que tu as quelqu'un dans ton entourage, famille ou amis, qui cherche à reprendre le sport ou à mieux vivre dans son corps ? Je serais ravi d'échanger avec eux, sans engagement. Un prénom suffit."
+Message type :
+"Salut [Prénom] ! Comment tu te sens depuis notre dernière séance ? T'as pu faire [l'exercice/la marche/l'habitude travaillée ensemble] cette semaine ? J'aimerais savoir avant qu'on se revoit."
 
-Objectif : 1 contact qualifié minimum via tes clients existants cette semaine.
+Bénéfices directs : fidélité, ajustement du programme, et naturellement, ils parlent de toi autour d'eux.
+
+Bonus si tu te sens : demande à l'un des deux s'ils seraient OK pour un témoignage anonyme sur Instagram. Un retour client authentique, même en story, vaut 10 posts de contenu classique.
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Post Instagram/TikTok : sport et discipline vs santé réelle**
+**Post Instagram (ou TikTok en voix off)**
 
 ---
 
 **Accroche :**
-J'étais extrêmement discipliné. Je n'étais pas en bonne santé.
-
-**Texte :**
-Pendant des mois, j'ai suivi mes macros au gramme près. Refusé le gâteau de ma mère. Levé à 7h après 3h de sommeil pour ne pas rater une séance.
-
-Je m'entraînais dur. Je mangeais "propre". Je cochais toutes les cases.
-
-Mais j'avais un stress chronique permanent. Une relation toxique avec la nourriture. Et une blessure à l'épaule que j'ignorais parce que "ça fait partie du jeu".
-
-Ce que j'avais confondu : discipline et santé.
-
-La discipline, c'est tenir un programme. La santé, c'est ce que ce programme fait vraiment à ton corps, ta tête, ton énergie, ta vie sociale.
-
-Aujourd'hui je coach des gens avec une seule règle : si ton mode de vie est insoutenable, ce n'est pas un mode de vie. C'est une punition.
-
-Le mouvement doit t'apporter de l'énergie, pas t'en prendre. La nutrition doit te libérer, pas t'emprisonner.
-
-C'est ça, RSP Training.
+J'étais ultra-discipliné. Mais je n'étais pas en bonne santé.
 
 ---
 
-**Hashtags :**
-#rsptraining #sportetsante #longevite #coachinghybride #santeglobale #mouvementauquotidien #coachingsportif #bienetre #physiquefonctionnel #coachbruxelles
+**Texte :**
+Pendant des mois, j'ai suivi des programmes de bodybuilding copiés sur des athlètes sponsorisés.
+
+Je pesais mes repas au gramme. Je refusais le gâteau d'anniversaire de ma mère. Je me levais à 7h après 3h de sommeil parce que "pas question de rater une séance".
+
+Je ne buvais pas. Je ne sortais pas. Je ne vivais pas vraiment.
+
+Et un jour, mon épaule a lâché. Ignorée pendant des mois, forcée dessus. Maintenant elle est chronique.
+
+C'est là que j'ai compris quelque chose que personne ne m'avait dit :
+
+**La discipline et la santé, ce n'est pas la même chose.**
+
+On peut être extrêmement discipliné et complètement dans le faux.
+
+Aujourd'hui je coach différemment. Pas pour les abdos. Pas pour la performance à tout prix.
+
+Pour que tu bouges toute ta vie, que tu manges sans culpabilité, que tu dors mieux et que tu aies encore de l'énergie à 70 ans.
+
+C'est ça, RSP Training.
+
+Tu veux en parler ? Mon DM est ouvert.
+
+---
+
+**10 hashtags :**
+#rsptaining #coachinghybride #sportsante #longevite #coachadomicile #bienetre #fonctionnel #transformationphysique #bruxelles #vivremieux
+
+---
+
+*Publie ce post tel quel. La story peut être la même accroche en texte sur fond noir, avec un lien vers ton profil.*
