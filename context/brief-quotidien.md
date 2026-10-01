@@ -1,76 +1,74 @@
-# Brief quotidien RSP Training — 2026-09-30
+# Brief quotidien — 2026-10-01
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédiger et envoyer 3 messages de prospection directe aujourd'hui.**
+**Construire ta shortlist de prospection et envoyer 3 messages aujourd'hui.**
 
-Tu as 2 clients. Pour atteindre 5 en 6 mois, il te faut 3 de plus. La meilleure source : ton cercle proche (famille, amis, anciens collègues de salle). Pas besoin d'un funnel complexe au stade actuel.
+Tu as 2 clients, tu veux en avoir 5 d'ici fin novembre. Il reste 3 clients à décrocher. Le 1er octobre est le bon moment pour activer ton réseau.
 
 Action concrète :
-- Identifie 3 personnes dans ton entourage qui parlent de "reprendre le sport", "perdre du poids", "avoir plus d'énergie" ou "mal au dos/genoux"
-- Envoie-leur un message court, naturel, sans vendre : "Hey [Prénom], je lance mon activité de coaching à domicile sur Bruxelles. Je cherche 3 personnes motivées pour un accompagnement 8 semaines. Je pense à toi, t'as envie qu'on en parle ?"
-- 3 messages, aujourd'hui, peu importe le canal (WhatsApp, Instagram DM, SMS)
+- Ouvre tes contacts (Instagram, WhatsApp, insta BSport) et note 5 personnes qui : ont parlé de perdre du poids, de bouger plus, ou qui t'ont suivi récemment
+- Envoie à 3 d'entre elles un message court et naturel : "Hé, je prends quelques clients en coaching à domicile ce mois-ci, ça t'intéresse ou tu connais quelqu'un ?" — pas de pitch, pas de lien, juste une question directe
+- Cible idéale : 35-55 ans, sédentaire ou blessé, entourage direct ou ami d'ami
 
-Objectif du jour : 3 messages envoyés avant ce soir.
+Résultat attendu aujourd'hui : 3 messages envoyés. Pas de conversion espérée immédiate, juste amorcer la conversation.
 
 ---
 
 ## 2. Action client
 
-**Envoyer un check-in mi-semaine à tes 2 clients actuels.**
+**Demande de témoignage à un de tes 2 clients actuels.**
 
-Un message court, authentique, qui montre que tu penses à eux entre les séances. C'est ce qui fait la différence entre un coach prestataire et un vrai partenaire.
+Tu as des clients en cours — c'est ton meilleur actif marketing. Beaucoup de coachs oublient de capitaliser dessus.
 
-Message type :
-"Salut [Prénom] ! Comment tu te sens depuis notre dernière séance ? T'as pu faire [l'exercice/la marche/l'habitude travaillée ensemble] cette semaine ? J'aimerais savoir avant qu'on se revoit."
+Action concrète :
+- Choisis le client avec qui tu as le plus d'échanges (ou le plus ancien)
+- En fin de séance ou par message cette semaine, dis-lui : "J'aurais une demande : si t'as une minute, est-ce que tu pourrais me décrire en 2-3 phrases ce que t'as changé depuis qu'on travaille ensemble ? Je veux te citer sur mon profil Instagram, avec ta permission"
+- Un vrai témoignage en langage naturel vaut 10 posts de ta part — et ça renforce leur engagement envers toi en prime
 
-Bénéfices directs : fidélité, ajustement du programme, et naturellement, ils parlent de toi autour d'eux.
-
-Bonus si tu te sens : demande à l'un des deux s'ils seraient OK pour un témoignage anonyme sur Instagram. Un retour client authentique, même en story, vaut 10 posts de contenu classique.
+Bonus : si tu le poses cette semaine, tu peux l'utiliser dans un post la semaine prochaine.
 
 ---
 
-## 3. Contenu prêt à publier
+## 3. Contenu prêt
 
-**Post Instagram (ou TikTok en voix off)**
+**Post Instagram / TikTok — prêt à publier**
 
 ---
 
 **Accroche :**
-J'étais ultra-discipliné. Mais je n'étais pas en bonne santé.
+"J'étais extrêmement discipliné. Je n'étais pas en bonne santé. La nuance m'a pris 3 ans à comprendre."
 
 ---
 
 **Texte :**
-Pendant des mois, j'ai suivi des programmes de bodybuilding copiés sur des athlètes sponsorisés.
 
-Je pesais mes repas au gramme. Je refusais le gâteau d'anniversaire de ma mère. Je me levais à 7h après 3h de sommeil parce que "pas question de rater une séance".
+Je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
 
-Je ne buvais pas. Je ne sortais pas. Je ne vivais pas vraiment.
+Je refusais le gâteau d'anniversaire de ma mère parce que ça ne "rentrait pas dans mes macros".
 
-Et un jour, mon épaule a lâché. Ignorée pendant des mois, forcée dessus. Maintenant elle est chronique.
+J'ai ignoré une douleur à l'épaule pendant des mois, en me forçant dessus. Aujourd'hui elle est chronique.
 
-C'est là que j'ai compris quelque chose que personne ne m'avait dit :
+J'étais discipliné. Au sens strict du terme.
 
-**La discipline et la santé, ce n'est pas la même chose.**
+Mais je n'étais pas en bonne santé.
 
-On peut être extrêmement discipliné et complètement dans le faux.
+La vraie santé, c'est pas une liste d'interdits.
+C'est pas se punir à la salle après un repas de famille.
+C'est pas tenir un programme à 100% de ce qui marche pour un athlète sponsorisé avec une génétique différente de la tienne.
 
-Aujourd'hui je coach différemment. Pas pour les abdos. Pas pour la performance à tout prix.
+Ce que j'enseigne maintenant, c'est différent.
 
-Pour que tu bouges toute ta vie, que tu manges sans culpabilité, que tu dors mieux et que tu aies encore de l'énergie à 70 ans.
+C'est apprendre à aimer bouger, pas s'y forcer.
+C'est manger pour avoir de l'énergie, pas pour les abdos.
+C'est construire quelque chose que tu feras encore dans 20 ans.
 
-C'est ça, RSP Training.
-
-Tu veux en parler ? Mon DM est ouvert.
-
----
-
-**10 hashtags :**
-#rsptaining #coachinghybride #sportsante #longevite #coachadomicile #bienetre #fonctionnel #transformationphysique #bruxelles #vivremieux
+Si t'as l'impression de te battre contre toi-même depuis des mois — c'est peut-être pas un problème de discipline.
 
 ---
 
-*Publie ce post tel quel. La story peut être la même accroche en texte sur fond noir, avec un lien vers ton profil.*
+#coachsportif #sportetlongevite #sportetsante #coachingbelgique #longevite #mobilite #santeglobale #modedeviesain #bienetre #coachingholistique
+
+---
