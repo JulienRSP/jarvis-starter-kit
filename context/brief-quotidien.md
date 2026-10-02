@@ -1,74 +1,60 @@
-# Brief quotidien — 2026-10-01
+# Brief RSP Training — 2026-10-02
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Construire ta shortlist de prospection et envoyer 3 messages aujourd'hui.**
+**Crée ta page "Travaillons ensemble" sur ton site ou envoie un message de relance direct.**
 
-Tu as 2 clients, tu veux en avoir 5 d'ici fin novembre. Il reste 3 clients à décrocher. Le 1er octobre est le bon moment pour activer ton réseau.
+Action concrète : rédige et publie une page d'offre simple (1 scroll) sur ton site RSP Training. Si le site n'est pas encore en ligne, ouvre un doc Notion ou Google Docs et écris la structure de ta landing page en 30 min :
+- Accroche (ton problème client, ton histoire blessure + reconstruction)
+- Ce que tu fais et pour qui
+- Format de l'accompagnement (8 semaines)
+- Prix de lancement (499€)
+- Un seul bouton CTA : "Envoie-moi un message WhatsApp"
 
-Action concrète :
-- Ouvre tes contacts (Instagram, WhatsApp, insta BSport) et note 5 personnes qui : ont parlé de perdre du poids, de bouger plus, ou qui t'ont suivi récemment
-- Envoie à 3 d'entre elles un message court et naturel : "Hé, je prends quelques clients en coaching à domicile ce mois-ci, ça t'intéresse ou tu connais quelqu'un ?" — pas de pitch, pas de lien, juste une question directe
-- Cible idéale : 35-55 ans, sédentaire ou blessé, entourage direct ou ami d'ami
-
-Résultat attendu aujourd'hui : 3 messages envoyés. Pas de conversion espérée immédiate, juste amorcer la conversation.
+Si c'est déjà fait, envoie cette page à 3 personnes dans ton réseau personnel qui pourraient être intéressées ou te recommander.
 
 ---
 
 ## 2. Action client
 
-**Demande de témoignage à un de tes 2 clients actuels.**
+**Transforme un senior de BSport en client privé cette semaine.**
 
-Tu as des clients en cours — c'est ton meilleur actif marketing. Beaucoup de coachs oublient de capitaliser dessus.
+Tu vois régulièrement des personnes âgées à BSport Berchem (lundi soir + mercredi matin) qui ont besoin d'un suivi plus personnalisé que ce que la salle propose. Identifie 1 personne qui te parle souvent, qui a des douleurs chroniques ou des limitations, et qui apprécie ton approche. Dis-lui simplement :
 
-Action concrète :
-- Choisis le client avec qui tu as le plus d'échanges (ou le plus ancien)
-- En fin de séance ou par message cette semaine, dis-lui : "J'aurais une demande : si t'as une minute, est-ce que tu pourrais me décrire en 2-3 phrases ce que t'as changé depuis qu'on travaille ensemble ? Je veux te citer sur mon profil Instagram, avec ta permission"
-- Un vrai témoignage en langage naturel vaut 10 posts de ta part — et ça renforce leur engagement envers toi en prime
+"Je commence à proposer du coaching individuel à domicile, adapté aux personnes qui veulent bouger mieux et récupérer durablement. Si ça t'intéresse, je te fais une séance découverte gratuite pour voir si ça colle."
 
-Bonus : si tu le poses cette semaine, tu peux l'utiliser dans un post la semaine prochaine.
+Pas de pitch, juste une conversation naturelle. Le contexte BSport te donne une crédibilité immédiate.
 
 ---
 
-## 3. Contenu prêt
+## 3. Contenu prêt à publier
 
-**Post Instagram / TikTok — prêt à publier**
-
----
+**Post Instagram / TikTok**
 
 **Accroche :**
-"J'étais extrêmement discipliné. Je n'étais pas en bonne santé. La nuance m'a pris 3 ans à comprendre."
-
----
+J'ai été le gars le plus discipliné de la salle. Et je n'étais pas en bonne santé.
 
 **Texte :**
+Lever à 7h après 3h de sommeil pour ne pas rater une séance.
+Refuser le repas de famille parce que ce n'était "pas dans le plan".
+Compter chaque gramme de protéine avec une balance de cuisine.
 
-Je me levais à 7h après 3h de sommeil pour ne pas rater une séance.
+J'étais extrêmement discipliné.
+Je n'étais pas en bonne santé.
 
-Je refusais le gâteau d'anniversaire de ma mère parce que ça ne "rentrait pas dans mes macros".
+Ce n'est pas la même chose.
 
-J'ai ignoré une douleur à l'épaule pendant des mois, en me forçant dessus. Aujourd'hui elle est chronique.
+La santé, c'est bouger parce que tu aimes ça.
+Manger bien et quand même profiter d'un repas en terrasse.
+Dormir. Récupérer. Durer.
 
-J'étais discipliné. Au sens strict du terme.
+Ce que j'enseigne aujourd'hui, c'est exactement ce que j'aurais voulu qu'on m'apprenne.
 
-Mais je n'étais pas en bonne santé.
+Le mouvement comme mode de vie, pas comme punition.
 
-La vraie santé, c'est pas une liste d'interdits.
-C'est pas se punir à la salle après un repas de famille.
-C'est pas tenir un programme à 100% de ce qui marche pour un athlète sponsorisé avec une génétique différente de la tienne.
+Si tu te reconnais dans l'ancienne version, écris-moi "INFO" en DM.
 
-Ce que j'enseigne maintenant, c'est différent.
-
-C'est apprendre à aimer bouger, pas s'y forcer.
-C'est manger pour avoir de l'énergie, pas pour les abdos.
-C'est construire quelque chose que tu feras encore dans 20 ans.
-
-Si t'as l'impression de te battre contre toi-même depuis des mois — c'est peut-être pas un problème de discipline.
-
----
-
-#coachsportif #sportetlongevite #sportetsante #coachingbelgique #longevite #mobilite #santeglobale #modedeviesain #bienetre #coachingholistique
-
----
+**Hashtags :**
+#sporthealth #longevite #coachsportif #sportbienetre #mouvementauquotidien #santeausport #coachingpersonalise #bruxelles #belgiquefit #rsptraining
