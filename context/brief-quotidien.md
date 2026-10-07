@@ -1,75 +1,70 @@
-# Brief RSP Training — 2026-10-06
+# Brief quotidien RSP — 2026-10-07
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédige ton message de vente pour la séance découverte gratuite.**
+**Finalise ton formulaire court de qualification prospect.**
 
-Objectif : avoir un texte prêt à envoyer en DM ou à publier sur ta story Instagram, qui explique en 3 phrases ce qu'est la séance découverte RSP, à qui elle s'adresse, et comment la booker.
+L'offre RSP 8 semaines est construite. La prochaine pièce manquante : un formulaire court (5-7 questions max) que tu peux envoyer à n'importe quel contact intéressé pour qualifier avant la séance découverte. Outil : Google Forms. Durée estimée : 45 minutes.
 
-Pourquoi maintenant : tu as 2 clients, tu veux 5. La séance découverte est ton outil d'entrée. Tant que tu n'as pas de message clair dessus, tu ne prospectes pas vraiment. Aujourd'hui, rédige ce texte. 10-15 minutes maximum, pas besoin que ce soit parfait.
+Questions clés à inclure :
+- Quel est ton objectif principal en 8 semaines ?
+- As-tu déjà travaillé avec un coach ?
+- Tu es disponible quel(s) jour(s) ?
+- Qu'est-ce qui t'a bloqué jusqu'ici ?
+- Comment tu as entendu parler de RSP ?
 
-Format cible :
-- Accroche (1 phrase qui identifie la douleur ou le désir)
-- Ce que c'est (1 phrase sur la séance découverte)
-- Comment la prendre (1 appel à l'action clair)
+Une fois prêt, tu peux le partager partout sans friction. C'est la porte d'entrée de ton tunnel.
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de suivi à tes 2 clients actuels cette semaine.**
+**Ce soir ou demain : envoie un message à 2 personnes de ton réseau proche.**
 
-Pas un message de vente. Un vrai suivi humain :
+Tu travailles à BSport ce matin. Identifie un participant de cours collectifs qui est motivé, autonome mais semble plafonner, et pose-lui une question simple après le cours : "Tu as un objectif précis en tête en ce moment ?" Ce n'est pas un pitch, c'est une conversation. Si oui, tu mentionnes que tu accompagnes quelques personnes en individuel.
 
-- Comment ils se sentent depuis la dernière séance
-- Quelque chose qu'ils ont progressé ou réussi récemment
-- Une question sur leur semaine (sommeil, énergie, déplacements)
+En parallèle, envoie un message WhatsApp à 2 contacts (famille, amis, ex-collègues) que tu n'as pas contactés depuis un moment. Message direct :
 
-Pourquoi : la fidélisation passe par le sentiment d'être vu. Ces 2 clients sont aussi tes premières références. Un client satisfait qui parle de toi = prospection gratuite. En bonus : demande à l'un des deux s'il connaît quelqu'un qui pourrait bénéficier d'un accompagnement sportif à domicile.
+> "Hé, je lance mon activité de coaching indépendant en sport-santé. Je cherche 2-3 personnes motivées pour un accompagnement complet. Si tu connais quelqu'un qui cherche à reprendre un mode de vie sain sans se prendre la tête, pense à moi."
+
+Pas de lien, pas de flyer. Juste un message humain.
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Format : Instagram Reels ou TikTok (voix off + texte à l'écran, ou post statique avec légende)**
-
----
+**Post Instagram / TikTok**
 
 **Accroche :**
-Tu ne vieillis pas parce que tu t'entraînes moins. Tu t'entraînes moins parce que tu vieillis mal.
+> La salle de sport ne t'a pas rendu plus sain. Elle t'a juste rendu plus fatigué.
 
 ---
 
-**Texte complet :**
+**Texte :**
 
-La plupart des gens pensent que perdre de la mobilité, du souffle ou de la force avec l'âge, c'est inévitable.
+Pendant 2 ans, je m'entraînais 5 fois par semaine.
 
-C'est faux.
+Je comptais mes macros au gramme. Je refusais les restos. Je ne dormais pas si j'avais raté une séance.
 
-Ce qui est inévitable, c'est de ne rien faire et d'appeler ça "vieillir normalement".
+J'étais discipliné. Je n'étais pas en bonne santé.
 
-La réalité : le corps réagit à ce qu'on lui donne.
-Donne-lui du mouvement régulier, adapté, progressif, et il répond.
-À 40 ans. À 60 ans. À 80 ans aussi.
+La santé, c'est pas un programme de 12 semaines.
 
-Ce n'est pas une question de génétique ou de chance.
-C'est une question de méthode et de régularité.
+C'est le matin où tu te lèves sans douleur. C'est manger ce que tu veux le vendredi soir sans culpabilité. C'est courir 3 km avec tes enfants dans 30 ans.
 
-Mon job : t'apprendre à bouger de façon à ce que tu aies encore envie de le faire dans 20 ans.
+Aucun PR en squat ne te donnera ça.
 
-Pas de programme copié sur un athlète de 25 ans.
-Pas de régime de 1200 calories.
-Un accompagnement construit autour de toi, de ta vie réelle, de ce que ton corps peut faire aujourd'hui.
+Le vrai entraînement, c'est celui qui s'adapte à ta vie, pas celui qui la remplace.
 
-Si tu veux commencer, commence par me dire où tu en es.
+C'est ce que j'enseigne chez RSP Training.
 
 ---
 
 **Hashtags :**
-#sporthealth #longevite #coachinglongevite #mouvementauquotidien #bienviellir #coachinghybride #rsptraining #actifpourtoujours #sportsante #bruxelles
+#SportSanté #Longévité #CoachingSportif #RSPTraining #MouvementCommeModèleDeVie #Bruxelles #BienVieillir #CoachBE #FonctionnelEtLibre #VieHealthy
 
 ---
 
-*Brief généré automatiquement le 2026-10-06*
+*Brief généré automatiquement le 2026-10-07*
