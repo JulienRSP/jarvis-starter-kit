@@ -1,70 +1,50 @@
-# Brief quotidien RSP — 2026-10-07
-
----
+# 2026-10-09
 
 ## 1. Focus RSP du jour
 
-**Finalise ton formulaire court de qualification prospect.**
-
-L'offre RSP 8 semaines est construite. La prochaine pièce manquante : un formulaire court (5-7 questions max) que tu peux envoyer à n'importe quel contact intéressé pour qualifier avant la séance découverte. Outil : Google Forms. Durée estimée : 45 minutes.
-
-Questions clés à inclure :
-- Quel est ton objectif principal en 8 semaines ?
-- As-tu déjà travaillé avec un coach ?
-- Tu es disponible quel(s) jour(s) ?
-- Qu'est-ce qui t'a bloqué jusqu'ici ?
-- Comment tu as entendu parler de RSP ?
-
-Une fois prêt, tu peux le partager partout sans friction. C'est la porte d'entrée de ton tunnel.
+Crée une page de capture minimale pour RSP Training : une accroche (ex. "Tu veux bouger mieux, vivre plus longtemps, et enfin kiffez l'entraînement ?"), un paragraphe de 3 lignes sur ce que tu fais, et un bouton "Prendre contact" qui renvoie vers ton Instagram ou ton email. Pas de site complet, juste ce minimum pour avoir une URL à partager. Outil : Carrd.co (gratuit, 30 minutes max). C'est le premier déblocage pour tout le reste.
 
 ---
 
 ## 2. Action client
 
-**Ce soir ou demain : envoie un message à 2 personnes de ton réseau proche.**
-
-Tu travailles à BSport ce matin. Identifie un participant de cours collectifs qui est motivé, autonome mais semble plafonner, et pose-lui une question simple après le cours : "Tu as un objectif précis en tête en ce moment ?" Ce n'est pas un pitch, c'est une conversation. Si oui, tu mentionnes que tu accompagnes quelques personnes en individuel.
-
-En parallèle, envoie un message WhatsApp à 2 contacts (famille, amis, ex-collègues) que tu n'as pas contactés depuis un moment. Message direct :
-
-> "Hé, je lance mon activité de coaching indépendant en sport-santé. Je cherche 2-3 personnes motivées pour un accompagnement complet. Si tu connais quelqu'un qui cherche à reprendre un mode de vie sain sans se prendre la tête, pense à moi."
-
-Pas de lien, pas de flyer. Juste un message humain.
+Envoie un message WhatsApp court à chacun de tes 2 clients cette semaine : "Comment tu te sens depuis la dernière séance ? Énergie, mobilité, sommeil, quelque chose à noter ?" Ce n'est pas un check-in formel, c'est une marque d'attention. Ça renforce la rétention et augmente les chances qu'ils parlent de toi à leur entourage. Une recommandation vient presque toujours d'un moment où le client s'est senti vu.
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Post Instagram / TikTok**
-
 **Accroche :**
-> La salle de sport ne t'a pas rendu plus sain. Elle t'a juste rendu plus fatigué.
+Tu t'entraînes depuis des mois. Et tu es souvent épuisé, tendu, voire blessé.
+
+Ce n'est pas la faiblesse. C'est la méthode.
 
 ---
 
-**Texte :**
+**Texte complet :**
 
-Pendant 2 ans, je m'entraînais 5 fois par semaine.
+J'ai passé 2 ans à m'entraîner comme un athlète sponsorisé.
+Lever 7h après 3h de sommeil pour ne pas "rater" la séance.
+Manger riz-poulet-brocoli à la gramme près.
+Refuser le gâteau d'anniversaire de ma mère.
 
-Je comptais mes macros au gramme. Je refusais les restos. Je ne dormais pas si j'avais raté une séance.
+Et j'étais épuisé. Blessé. Stressé. Et je prenais du poids.
 
-J'étais discipliné. Je n'étais pas en bonne santé.
+Ce que j'ai compris : j'étais extrêmement discipliné. Je n'étais pas en bonne santé.
 
-La santé, c'est pas un programme de 12 semaines.
+La discipline et la santé, ce n'est pas la même chose.
 
-C'est le matin où tu te lèves sans douleur. C'est manger ce que tu veux le vendredi soir sans culpabilité. C'est courir 3 km avec tes enfants dans 30 ans.
+L'entraînement est censé améliorer ta vie quotidienne, pas la compliquer.
+Monter les escaliers sans essoufflement.
+Jouer avec tes enfants sans avoir mal au dos.
+Te lever le matin avec de l'énergie.
 
-Aucun PR en squat ne te donnera ça.
+Si tu transpires 5 fois par semaine et que ce n'est toujours pas le cas, la question n'est pas "est-ce que je travaille assez ?" mais "est-ce que je travaille bien ?"
 
-Le vrai entraînement, c'est celui qui s'adapte à ta vie, pas celui qui la remplace.
-
-C'est ce que j'enseigne chez RSP Training.
+Je coache en sport-santé et longévité à Bruxelles.
+DM si tu veux qu'on regarde ça ensemble.
 
 ---
 
 **Hashtags :**
-#SportSanté #Longévité #CoachingSportif #RSPTraining #MouvementCommeModèleDeVie #Bruxelles #BienVieillir #CoachBE #FonctionnelEtLibre #VieHealthy
-
----
-
-*Brief généré automatiquement le 2026-10-07*
+#sportssante #longevite #coachhealthbelgique #mobilite #bienvieillir #coachingpersonnel #brussel #fitnesssante #entrainnementfonctionnel #rsptraining
