@@ -1,75 +1,73 @@
-# Brief RSP — 2026-10-12
+# Brief RSP — 2026-10-14
 
 ---
 
 ## 1. Focus RSP du jour
 
-**Rédiger un message de présentation court (5 lignes max) pour pitcher la Méthode RSP à un prospect.**
+**Rédige le texte de ta page d'accueil RSP (section hero + "Pour qui c'est fait").**
 
-Objectif : avoir un texte prêt à envoyer en DM Instagram ou WhatsApp, sans réfléchir au moment d'agir.
+C'est le seul blocage réel pour lancer ta présence digitale. Sans copy de base, il n'y a pas de site, pas de lien à envoyer, pas de crédibilité en ligne. Une heure de travail aujourd'hui débloque tout.
 
-- Accroche : ton histoire (discipline sans santé)
-- Problème identifié du prospect (vague, pas de résultat, blessure, fatigue)
-- Ce que tu proposes : 8 semaines, accompagnement global sport + nutrition + mode de vie
-- Appel à l'action : "On fait un appel découverte de 15 minutes ?"
-- Garder un ton humain, pas vendeur
+Objectif concret : produire un brouillon de 150 à 200 mots couvrant :
+- Ce que tu fais exactement (pas "coach sportif", mais "j'accompagne les gens qui veulent bouger intelligemment toute leur vie")
+- Pour qui (profil idéal : 30-55 ans, actif mais mal guidé, ou sédentaire qui veut changer sans se martyriser)
+- La promesse (pas les abdos, mais l'énergie, la mobilité, la longévité)
+- Un appel à l'action clair (réserver une séance découverte gratuite)
 
-Ce template sera utilisable dès ce soir à BSport si quelqu'un te parle de ses objectifs.
+Tu peux me demander de le rédiger avec toi. Lance la session avec : "Rédige la section hero de ma page RSP."
 
 ---
 
 ## 2. Action client
 
-**Envoie un message de suivi personnalisé à tes 2 clients actuels aujourd'hui.**
+**Demande à l'un de tes 2 clients actuels un témoignage vidéo de 30 secondes cette semaine.**
 
-Pas un message générique. Un message qui montre que tu penses à eux :
+Message WhatsApp à envoyer aujourd'hui (adapte le prénom) :
 
-- Client 1 : rappelle un point de la dernière séance, pose une question sur un défi concret ("Comment s'est passée ta semaine au niveau sommeil / énergie / alimentation ?")
-- Client 2 : idem, adapté à son contexte
+> "Salut [Prénom], je suis en train de développer ma page pour attirer de nouveaux clients RSP. Est-ce que tu serais partant(e) pour m'envoyer une petite vidéo de 30 secondes, depuis ton canapé, juste en disant ce que l'accompagnement t'a apporté concrètement ? Rien de formel, juste naturel. Ça m'aiderait vraiment."
 
-Pourquoi aujourd'hui : le lundi matin c'est le meilleur moment pour recréer l'élan après le week-end. Un message maintenant = une séance plus engagée cette semaine.
-
-Bonus : si l'un d'eux t'a parlé d'un proche qui cherche un coach, c'est le bon moment pour relancer discrètement.
+Pourquoi ça marche : c'est non intrusif, tu valorises leur expérience, et une vraie voix client vaut 10 posts. Ce témoignage sera ta première preuve sociale pour le site.
 
 ---
 
 ## 3. Contenu prêt à publier
 
-**Format : Instagram Reel ou TikTok (60-90 secondes à l'oral) ou post carrousel**
+**Format : Instagram Reel ou TikTok (texte pour voix off ou sous-titres)**
+
+---
 
 **Accroche :**
-"J'avais une discipline en béton. Et j'étais en mauvaise santé."
+J'étais extrêmement discipliné. Et je n'étais pas en bonne santé.
 
 ---
 
-**Texte complet :**
+**Texte :**
 
-J'avais une discipline en béton. Et j'étais en mauvaise santé.
+Pendant des mois, j'ai tout fait "correctement".
 
-Je me levais à 7h après 3h de sommeil pour ne pas rater ma séance.
-Je refusais de manger le gâteau de ma mère.
-Je calculais chaque gramme au gramme près.
+Lever 7h après 3h de sommeil pour ne pas rater ma séance.
+Refuser le gâteau de ma mère. Refuser les restos. Compter chaque gramme.
 
-J'étais discipliné. Je n'étais pas en bonne santé.
+J'étais discipliné. Vraiment.
 
-En novembre 2025, mon épaule a lâché. Pas d'un coup. Progressivement. Parce que je forçais dessus depuis des mois en ignorant les signaux.
+Mais mon épaule s'est blessée et je l'ai ignorée pendant des mois.
+Ma relation avec la nourriture était du stress pur.
+Je dormais mal, j'étais tendu, et je prenais du poids à cause du cortisol.
 
-C'est là que j'ai compris la différence entre discipline et santé.
+La discipline sans bon sens, ce n'est pas de la santé. C'est de la souffrance déguisée.
 
-La santé, c'est pas souffrir plus que les autres.
-C'est bouger de façon à tenir toute ta vie.
-C'est manger pour avoir de l'énergie, pas pour les abdos.
-C'est dormir suffisamment parce que le sommeil c'est 30% de tes résultats.
+Ce que j'enseigne aujourd'hui, c'est l'opposé :
+Bouger parce que tu aimes ça.
+Manger pour avoir de l'énergie, pas pour les abdos.
+Dormir parce que c'est la base de tout le reste.
 
-Aujourd'hui j'accompagne des gens qui veulent être en forme à 70 ans, pas juste perdre 5 kg pour l'été.
+La vraie transformation, elle commence quand tu arrêtes de te battre contre ton corps.
 
-Si tu veux changer d'approche, les DMs sont ouverts.
+Si tu veux bouger intelligemment et durer longtemps, c'est exactement pour ça que j'existe.
 
----
-
-**10 hashtags :**
-#sportetlongevite #sportsante #coachsportif #belgique #longevite #bienetre #vieillirensante #mobilite #mouvementquotidien #rsptraining
+Lien en bio pour une séance découverte gratuite.
 
 ---
 
-*Brief généré automatiquement le 2026-10-12 par Jarvis RSP.*
+**Hashtags :**
+#sportetlongévité #coachhybride #sportetbienetre #vieactive #mouvementauquotidien #santéfonctionnelle #coachingindividuel #rsptraining #bougermieux #habitudessaines
